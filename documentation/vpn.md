@@ -3,8 +3,8 @@
 
 # Commander
 
-- FR : [Commander un compte VPN](commander)
-- EN : [Order a VPN account](order)
+- FR : [Commander un compte VPN](./commander)
+- EN : [Order a VPN account](/order)
 
 # Configurer
 
