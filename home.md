@@ -1,3 +1,5 @@
+SSL added and removed here :)
+
 ![Troll](/uploads/troll.jpg "Troll")
 ![Panda](/uploads/panda.jpg "Panda")
 
