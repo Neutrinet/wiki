@@ -54,7 +54,7 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 :cat: Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 - Personne de contact : à définir
-- Sur ce wiki : commencez par la page [hub-communication](hub-admin) **à faire**
+- Sur ce wiki : commencez par la page [hub-admin](hub-admin) **à faire ?**
 - Cannal de communication restreint : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
 - Compétences requises : gestion, bureautique, rigueur, ponctualité
 - Connaissances utiles : comptabilité, python/django
@@ -63,6 +63,8 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 	- [suivi et administration des membres](https://admin.neutrinet.be/admin)
 	- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
 - Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
+
+**à déplacer vers hub-admin?**
 
 - [PVs](neutrinet/pvs/home)
 - [Statuts ASBL](neutrinet/statuts)
