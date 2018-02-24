@@ -68,7 +68,7 @@ Chose a method to setup of the private / public key pair.
 
 ![Vpn 07 A Almost Done](/uploads/vpn/vpn-07-a-almost-done.png "Vpn 07 A Almost Done"){.align-center}
 ![Vpn 07 B Almost Done Filed](/uploads/vpn/vpn-07-b-almost-done-filed.png "Vpn 07 B Almost Done Filed"){.align-center}
-# 8.  done
+# 8.  Done \o/
 
 - check your mailbox and maybe spam folder.
 
