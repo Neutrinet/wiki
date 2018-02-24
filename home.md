@@ -6,7 +6,6 @@ Un fournisseur belge d'accès Internet associatif, par ses utilisateurs·ices, p
 
 
 | Tables   |      Are      |
-|----------|:-------------:|
 | ![Logo Ffdn 0](/uploads/logo-ffdn-0.png "Logo Ffdn 0"){.align-left} | Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).  |
 
  
