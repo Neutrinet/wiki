@@ -65,6 +65,7 @@ Prendre en charge le maintien de l'infrastructure informatique et son évolution
 
 Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
 
+* Sur ce wiki : commencez par la page [hub-communication](hub-communication)
 * Personne de contact : à définir
 * Cannaux de communication généraux : [sur mattermost - **accès à ouvrir ?**](https://chat.neutrinet.be/neutrinet/channels/town-square),  [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
 * Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
