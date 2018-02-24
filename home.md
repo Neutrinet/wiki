@@ -90,7 +90,7 @@ Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et vei
 
 ## Pour les utilisateurs
 
-- [Le VPN](documentation/vpn/home)
+- [Le VPN](documentation/vpn)
 - [La brique](documentation/brique/home)
 - [Le support](documentation/support)
 
