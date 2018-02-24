@@ -1,5 +1,5 @@
-<!-- TITLE: Page -->
-<!-- SUBTITLE: A quick summary of Page -->
+<!-- TITLE: TITRE -->
+<!-- SUBTITLE: RÉSUMÉ -->
 
 # Header
 
