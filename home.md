@@ -1,9 +1,9 @@
 <!-- TITLE: Neutrinet asbl -->
-<!-- SUBTITLE: fournisseur belge d'accès Internet associatif -->
+<!-- SUBTITLE: Fournisseur belge d'accès Internet associatif <br /> Par ses utilisateurs·ices, pour ses utilisateurs·ices-->
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
-Par ses utilisateurs·ices, pour ses utilisateurs·ices
+
 
 ## À propos de nous
 
