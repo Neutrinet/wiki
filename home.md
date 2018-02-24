@@ -19,7 +19,7 @@ Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu 
 Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
-- Documentation [La brique](documentation/brique)
+- Documentation sur [La brique](documentation/brique)
 
 ## Autre projets
 
