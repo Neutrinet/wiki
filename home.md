@@ -1,6 +1,8 @@
 # Neutrinet
 Un fournisseur belge d'accès Internet associatif, par ses utilisateurs·ices, pour ses utilisateurs·ices
 
+*L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
+
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
 Bienvenue sur le wiki. Vous trouverez ci-dessous des liens vers les grandes catégories de ce wiki. Sur chaque page des grandes catégories vous retrouverez plus d'info concerant cette dernière.
