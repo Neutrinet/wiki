@@ -1,55 +1,35 @@
-![Troll](/uploads/troll.jpg "Troll")
-![Panda|200](/uploads/panda.jpg "Panda")
+# Neutrinet Wiki
 
-[video](https://cdn.media.ccc.de/congress/2017/h264-sd/34c3-8740-eng-deu-spa-The_Internet_in_Cuba_A_Story_of_Community_Resilience_sd.mp4){.video}
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<img width=100 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/logo.png" />
+
+Bienvenue sur le wiki. Vous trouverez ci-dessous des liens vers les grandes catégories de ce wiki. Sur chaque page des grandes catégories vous retrouverez plus d'info concerant cette dernière.
+
+L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous pouvez voir la liste de [toutes ses pages](https://wiki-old.neutrinet.be/Special:AllPages), si jamais il vous semble que cela vaut la peine de rapatrier du contenu de l'ancien wiki vers le nouveau ...
+
+----
+
+<img width=350 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/cats.jpg" />
+
+## Documentation for users and members
+- [Infrastructure des serveurs](documentation/infra/home)
+- [Le VPN](documentation/vpn/home)
+- [La brique](documentation/brique/home)
+ - L'administration (Facture, compte, ...)
+- Les outils
+- Les Hub
+- Comment collaborer
+- [Le support](documentation/support)
 
 
-[video](https://www.youtube.com/watch?v=qmjOd9Dlr34){.youtube}
 
-# I was there \o/
-#hey, me too /o/
+----
 
-Nan
+<img width=350 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/panda.jpg" />
 
-[page](page)
-1
-[Mr Robot 03 X 07 Eps 3 6 Fredrick Tanya Chk Avs Sva English Hi C Orig Addic 7 Ed Com](/uploads/mr-robot-03-x-07-eps-3-6-fredrick-tanya-chk-avs-sva-english-hi-c-orig-addic-7-ed-com.srt "Mr Robot 03 X 07 Eps 3 6 Fredrick Tanya Chk Avs Sva English Hi C Orig Addic 7 Ed Com")
-2
+## About Neutrinet as an association 
+   - [PVs](neutrinet/pvs/home)
+   - [Statuts ASBL](neutrinet/statuts)
+   - [Soumettre les comptes annuels](neutrinet/comptes-annuels)
 
-3
 
-4
 
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
