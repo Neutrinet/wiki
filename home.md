@@ -18,7 +18,7 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 * Personne de contact : à définir
-* Cannaux de communication : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-admin), [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
+* Cannal de communication dédié : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
 * Connaissances utiles : comptabilité, python/django
 * Outils en ligne :  [commandes](https://admin.neutrinet.be), [suivi et administration des membres](https://admin.neutrinet.be/admin)
@@ -30,7 +30,7 @@ Prendre en charge la recherche, la mise en route et le maintien de [labriqueinte
 Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
 
 * Personne de contact : à définir
-* Cannaux de communication : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube), [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
+* Cannal de communication dédié : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
 
@@ -39,12 +39,20 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
 * Personne de contact : à définir
-* Cannaux de communication : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube), [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
+* Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-tech)
 * Compétences requises : administartion système GNU/Linux (debian)
 * Connaissances utilse : openvpn, réseau (routage, BGP, iptables), workflow de déploiement classique (php, python, ruby, other), administration jvm (zookeeper, maven for the ISP-ng for the VPN)
 * Dépôts principaux sur : [Github/Neutrinet](https://github.com/neutrinet)
  
 ## hub-communication
+
+Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
+
+* Personne de contact : à définir
+* Cannaux de communication généraux : [sur mattermost - **accès à ouvrir ?**](https://chat.neutrinet.be/neutrinet/channels/town-square),  [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
+* Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
+* Compétence requises : outil de communication, relationnel, agenda(s)
+* Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
 
 # Documentation
