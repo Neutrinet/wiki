@@ -3,6 +3,23 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
+# Ce que nous proposons
+## VPN
+
+Prisonnier d'une connexion Internet non neutre?
+Vous voulez une adresse IP publique mais votre fournisseur ne vous en donnera pas?
+Neutrinet a la solution pour vous!
+
+[Obtenez](https://beta-wiki.neutrinet.be/documentation/vpn/commander) votre propre connexion VPN Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+## Brique Internet (cube)
+Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu coûteux?
+Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
+Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
+
+## Autre projets
+
+Peut-être que oui ... peut-être que non ... on verra pour 2025 si ensemble nous parvenont à proposer d'autres choses, d'autres alternatives aux fournisseurs d'accès actuels.
+
 # À propos de nous
 
 *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
