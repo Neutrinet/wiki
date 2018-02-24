@@ -1,6 +1,6 @@
 # Neutrinet Wiki
 
-<img width=100 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/logo.png" />
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
 Bienvenue sur le wiki. Vous trouverez ci-dessous des liens vers les grandes catégories de ce wiki. Sur chaque page des grandes catégories vous retrouverez plus d'info concerant cette dernière.
 
@@ -8,7 +8,7 @@ L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous 
 
 ----
 
-<img width=350 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/cats.jpg" />
+![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
 ## Documentation for users and members
 - [Infrastructure des serveurs](documentation/infra/home)
