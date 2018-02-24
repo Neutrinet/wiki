@@ -8,12 +8,12 @@
 
 # Configurer
 
-- [Configurer le VPN de Neutrinet dans pfsense (2.3.1_5)](pfsense)
-- [Configurer le VPN de Neutrinet dans debian jessie (config tharyrok)](debian-tharyrok)
+- [Configurer le VPN de Neutrinet dans pfsense (2.3.1_5)](vpn/pfsense)
+- [Configurer le VPN de Neutrinet dans debian jessie (config tharyrok)](vpn/debian-tharyrok)
 
 # Renouveler
 
-- [Renouveller son certificat sous un système Debian-like](renew-cert)
+- [Renouveller son certificat sous un système Debian-like](vpn/renew-cert)
 
 # Autres renseignements
 
