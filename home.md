@@ -35,9 +35,9 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
-## hub-communication :ant:
+## hub-communication 
 
-Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
+:ant: Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
 
 * Personne de contact : à définir
 * Sur ce wiki : commencez par la page [hub-communication](hub-communication)
@@ -49,9 +49,9 @@ Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et vei
 * Compétence requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
-## hub-admin :cat:
+## hub-admin
 
-Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
+:cat: Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 - Personne de contact : à définir
 - Sur ce wiki : commencez par la page [hub-communication](hub-admin) **à faire**
@@ -68,9 +68,9 @@ Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banqu
 - [Statuts ASBL](neutrinet/statuts)
 - [Soumettre les comptes annuels](neutrinet/comptes-annuels)
 
-	## hub-cube :penguin:
+## hub-cube
 
-Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
+:penguin: Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
 Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
 
 * Personne de contact : à définir
@@ -79,9 +79,9 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
 
-## hub-tech :panda-face:
+## hub-tech
 
-Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
+:panda_face: Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
 * Personne de contact : à définir
 * Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-tech)
