@@ -10,7 +10,8 @@ Prisonnier d'une connexion Internet non neutre?
 Vous voulez une adresse IP publique mais votre fournisseur ne vous en donnera pas?
 Neutrinet a la solution pour vous!
 
-[Obtenez](https://beta-wiki.neutrinet.be/documentation/vpn/commander) votre propre connexion VPN Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+[Obtenez](https://beta-wiki.neutrinet.be/documentation/vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+
 ## Brique Internet (cube)
 Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu coûteux?
 Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
