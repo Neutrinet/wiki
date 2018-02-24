@@ -1,4 +1,5 @@
-![Troll](/uploads/troll.jpg "Troll")![Panda](/uploads/panda.jpg "Panda")
+![Troll](/uploads/troll.jpg "Troll")
+![Panda](/uploads/panda.jpg "Panda")
 
 [video](https://cdn.media.ccc.de/congress/2017/h264-sd/34c3-8740-eng-deu-spa-The_Internet_in_Cuba_A_Story_of_Community_Resilience_sd.mp4){.video}
 <!-- TITLE: Home -->
