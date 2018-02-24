@@ -13,20 +13,28 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
-# hub-admin
+## hub-admin
 
-Prends en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
+Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 * Personne de contact : à définir
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
 * Connaissances utiles : comptabilité, python/django
 * Outils en ligne :  [commandes](https://admin.neutrinet.be), [suivi et administration des membres](https://admin.neutrinet.be/admin)
 * Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
-# hub-cube
 
-# hub-tech
+## hub-cube
 
-# hub-communication
+Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
+Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
+
+* Personne de contact : 
+* Compétence requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
+* Connaissances utilse : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
+
+## hub-tech
+
+## hub-communication
 # Documentation
 
 ## Pour les membres de Neutrinet
