@@ -1,4 +1,5 @@
-# Neutrinet Wiki
+# Neutrinet
+Un fournisseur belge d'accès Internet associatif, par ses utilisateurs·ices, pour ses utilisateurs·ices
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
