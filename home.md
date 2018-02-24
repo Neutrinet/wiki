@@ -1,8 +1,9 @@
-![Panda](/uploads/panda.jpg "Panda")
-
-
+[video](https://www.youtube.com/watch?v=qmjOd9Dlr34){.youtube}
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
+
+
+[video](https://www.youtube.com/watch?v=qmjOd9Dlr34){.youtube}
 
 # I was there \o/
 #hey, me too /o/
