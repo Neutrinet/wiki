@@ -12,14 +12,14 @@ Neutrinet a la solution pour vous!
 
 [Obtenez](https://beta-wiki.neutrinet.be/documentation/vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
 
-- Documentation sur [Le VPN](documentation/vpn)
+:books: Documentation sur [Le VPN](documentation/vpn)
 
 ## Brique Internet (cube)
 Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu coûteux?
 Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
-- Documentation sur [La brique](documentation/brique)
+:books: Documentation sur [La brique](documentation/brique)
 
 ## Autre projets
 
@@ -35,32 +35,51 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
-## hub-admin
+## hub-communication :ant:
+
+Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
+
+* Personne de contact : à définir
+* Sur ce wiki : commencez par la page [hub-communication](hub-communication)
+* Cannaux de communication publiques : 
+	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **accès à ouvrir ?**
+	* [mailing liste](mailto:neutrinet@lists.entransition.be)
+	* [irc](https://webchat.freenode.net/?channels=neutrinet)
+* Cannal de communication restreints : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
+* Compétence requises : outil de communication, relationnel, agenda(s)
+* Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
+
+## hub-admin :cat:
 
 Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 - Personne de contact : à définir
-- Cannal de communication dédié : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
+- Sur ce wiki : commencez par la page [hub-communication](hub-admin) **à faire**
+- Cannal de communication restreint : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
 - Compétences requises : gestion, bureautique, rigueur, ponctualité
 - Connaissances utiles : comptabilité, python/django
-- Outils en ligne :  [commandes](https://admin.neutrinet.be), [suivi et administration des membres](https://admin.neutrinet.be/admin)
+- Outils en ligne :
+	- [commandes](https://admin.neutrinet.be)
+	- [suivi et administration des membres](https://admin.neutrinet.be/admin)
+	- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
 - Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 
 - [PVs](neutrinet/pvs/home)
 - [Statuts ASBL](neutrinet/statuts)
 - [Soumettre les comptes annuels](neutrinet/comptes-annuels)
 
-## hub-cube
+	## hub-cube :penguin:
 
 Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
 Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
 
 * Personne de contact : à définir
+* Sur ce wiki : commencez par la page [documentation](documentation/brique)
 * Cannal de communication dédié : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
 
-## hub-tech
+## hub-tech :panda-face:
 
 Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
@@ -70,18 +89,9 @@ Prendre en charge le maintien de l'infrastructure informatique et son évolution
 * Connaissances utilse : openvpn, réseau (routage, BGP, iptables), workflow de déploiement classique (php, python, ruby, other), administration jvm (zookeeper, maven for the ISP-ng for the VPN)
 * Dépôts principaux sur : [Github/Neutrinet](https://github.com/neutrinet)
  
- - [Infrastructure des serveurs](documentation/infra/home)
+- [Infrastructure des serveurs](documentation/infra/home)
 - [Le support](documentation/support)
-## hub-communication
 
-Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
-
-* Sur ce wiki : commencez par la page [hub-communication](hub-communication)
-* Personne de contact : à définir
-* Cannaux de communication généraux : [sur mattermost - **accès à ouvrir ?**](https://chat.neutrinet.be/neutrinet/channels/town-square),  [mailing liste - publique](mailto:neutrinet@lists.entransition.be), ou [irc - publique](https://webchat.freenode.net/?channels=neutrinet)
-* Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
-* Compétence requises : outil de communication, relationnel, agenda(s)
-* Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
 
 
