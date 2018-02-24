@@ -24,7 +24,7 @@ L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous 
 
 ----
 
-<img width=350 align=right src="https://raw.githubusercontent.com/Neutrinet/frontend/gh-pages/img/panda.jpg" />
+![Panda](/uploads/panda.jpg "Panda"){.align-center}
 
 ## About Neutrinet as an association 
    - [PVs](neutrinet/pvs/home)
