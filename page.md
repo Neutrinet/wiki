@@ -3,4 +3,5 @@
 
 # Header
 
-> J'aime pas les citations
+> J'aime pas les citations.
+Moi non plus.
