@@ -4,16 +4,9 @@ Un fournisseur belge d'accès Internet associatif, par ses utilisateurs·ices, p
 
 *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 
+Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).
 
-
-|----------|:-------------:|
-| ![Logo Ffdn 0](/uploads/logo-ffdn-0.png "Logo Ffdn 0"){.align-left} | Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).  |
-
- 
-
-
-
-The FDN Federation is a federation of Non-Profit Internet Service Providers sharing common values: volunteer-based, solidarity-driven, democratic and non-profit working; defense and promotion of Net neutrality.
+La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
 
 
 Bienvenue sur le wiki. Vous trouverez ci-dessous des liens vers les grandes catégories de ce wiki. Sur chaque page des grandes catégories vous retrouverez plus d'info concerant cette dernière.
