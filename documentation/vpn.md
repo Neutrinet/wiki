@@ -18,5 +18,5 @@
 # Autres renseignements
 
 - [Edition du ldap](ldap)
-- [Spécifications/logs](documentation/vpn/specifications)
+- [Spécifications/logs](vpn/specifications)
 
