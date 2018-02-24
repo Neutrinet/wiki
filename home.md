@@ -3,9 +3,7 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
-
-
-## À propos de nous
+# À propos de nous
 
 *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 
@@ -15,9 +13,9 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
-## Documentation
+# Documentation
 
-### Pour les membres de Neutrinet
+## Pour les membres de Neutrinet
 
 - [Infrastructure des serveurs](documentation/infra/home)
 - [PVs](neutrinet/pvs/home)
@@ -29,7 +27,7 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 - Comment collaborer
 
 
-### Pour les utilisateurs
+## Pour les utilisateurs
 
 - [Le VPN](documentation/vpn/home)
 - [La brique](documentation/brique/home)
@@ -38,6 +36,6 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
 
 
-## Ancienne ressources
+# Ancienne ressources
 
 L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous pouvez voir la liste de [toutes ses pages](https://wiki-old.neutrinet.be/Special:AllPages), si jamais il vous semble que cela vaut la peine de rapatrier du contenu de l'ancien wiki vers le nouveau ...
