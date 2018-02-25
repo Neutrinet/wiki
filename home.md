@@ -121,3 +121,7 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 # Ancienne ressources
 
 L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous pouvez voir la liste de [toutes ses pages](https://wiki-old.neutrinet.be/Special:AllPages), si jamais il vous semble que cela vaut la peine de rapatrier du contenu de l'ancien wiki vers le nouveau ...
+
+Pads en vrac 
+
+* https://pad.lqdn.fr/p/neutrinet-carto
