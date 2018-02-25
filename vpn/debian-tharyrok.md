@@ -1,15 +1,16 @@
-# Config du vpn sur debian
+<!-- TITLE: Configuration sur debian -->
 
 Ma config est la suivante, si le vpn ne marche pas j'ai pas d'internet à la maison.
 J'explique que la config du vpn, si la demande ce fait j'expliquerai pour avoir un dhcp, nat, ...
 
 Mon reseau local est en 192.168.12.0/24, l'ip lan de ma bbox est 192.168.1.1.
 
-## Installation openvpn
-``` apt-get install openvpn```
+# Installation openvpn
+`apt-get install openvpn`
 
-## configuration openvpn
+# configuration openvpn
 Voici la structure des fichiers : 
+
 ```
 /etc/openvpn
 ├── client
@@ -20,7 +21,6 @@ Voici la structure des fichiers :
 │   │   └── client.key
 │   └── neutrinet.conf
 └── server
-
 ```
 
 Dans neutrinet.conf j'ai : 
@@ -75,12 +75,15 @@ topology subnet
 ```
 
 N'oublier pas d'activer le vpn au démarage : 
-``` systemctl enbale openvpn@neutrinet ```
 
-## Forcer les routes
+`systemctl enbale openvpn@neutrinet`
+
+# Forcer les routes
+
 Comme je vous l'ai dit plus haut ma config est que si le vpn neutrinet ne tourne pas j'ai pas internet.
 
 dans /etc/network/interfaces j'ai : 
+
 ```
 auto lo
 iface lo inet loopback
@@ -104,7 +107,7 @@ iface eth0 inet static
 
 ```
 
-## Nat pour la bbox
+# Nat pour la bbox
 
 Ha oui je vous ai dit que je parlerai pas de nat, bon il faut quand même quelque ligne d'iptables sinon vous n'aurez vraiment rien de fonctionnel.
 
