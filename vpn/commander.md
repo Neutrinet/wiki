@@ -1,4 +1,4 @@
-<!-- TITLE: Passer commande pour un VPN -->
+<!-- TITLE: Passer commande -->
 # 0. Où commencer ?
 
 - ici : https://vpn.neutrinet.be
