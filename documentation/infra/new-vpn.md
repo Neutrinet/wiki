@@ -3,8 +3,8 @@
 
 # New vpn
 ## LDN
-
-
+https://wiki.ldn-fai.net/wiki/OpenVPN_Server_Tutorial
+```
 * on utilise uniquement des certificats pour l'auth ;
 
 * on a un CA pour le(s) certificat(s) serveur(s) et un autre CA
@@ -13,11 +13,11 @@
 * on récupère le DN du certificat client pour sourcer un fichier bash
   du même nom qui contient les infos pertinentes pour l'utilisateur :
 
-  ### IPv4 interonnection address:
+  # IPv4 interonnection address:
   IP4="198.51.100.1"
-  ### IPv6 interconnection address:
+  # IPv6 interconnection address:
   IP6="2001:DB8:2::1"
-  ### IPv6 delegated prefix:
+  # IPv6 delegated prefix:
   PREFIX="2001:DB8:1::/48"
 
 * on a un script qui utilise ces variables pour générer le fichier de
@@ -42,3 +42,4 @@ Le puppet qui va bien :
 
    $openvpn_users = hiera_hash('openvpn::users', {})
    create_resources(openvpn::user, $openvpn_users)
+```
