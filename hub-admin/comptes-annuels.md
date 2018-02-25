@@ -1,4 +1,5 @@
-# Déposer les comptes annuels
+<!-- TITLE: Pour les comptes annuels -->
+# Pour les déposer sur Biztax.be
 
 - se rendre sur [biztax](http://biztax.be/) et se connecter avec sa carte d'identité électronique, et s'authentifier "en son propre nom" (en essayant de le faire "au nom d'une entreprise", le système m'a dit que je n'étais pas mandataire, alors que je le suis)
 - pour trouver une déclaration: dans "Mes déclarations > Chercher déclarations", entrer:
