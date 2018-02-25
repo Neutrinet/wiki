@@ -1,4 +1,4 @@
-<!-- TITLE : How to install a cube -->
+<!-- TITLE: How to install a cube -->
 
 This procedure explains how to setup an Internet Cube and configure it for Neutrinet.
 It is based on this document:  https://repo.labriqueinter.net/
