@@ -1,4 +1,4 @@
-# DNS Config for your Cube
+<!-- TITLE: How to configure your DNS -->
 
 Based on the [Yunohost doc](https://yunohost.org/#/dns_config).
 
