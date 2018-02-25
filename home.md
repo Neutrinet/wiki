@@ -10,16 +10,16 @@ Prisonnier d'une connexion Internet non neutre?
 Vous voulez une adresse IP publique mais votre fournisseur ne vous en donnera pas?
 Neutrinet a la solution pour vous!
 
-[Obtenez](documentation/vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+[Obtenez](vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
 
-:books: Documentation sur [Le VPN](documentation/vpn)
+:books: Documentation sur [Le VPN](vpn)
 
 ## Brique Internet (cube)
 Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu coûteux?
 Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
-:books: Documentation sur [La brique](documentation/brique)
+:books: Documentation sur [La brique](brique)
 
 ## Autre projets
 
@@ -90,7 +90,7 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 
 ### Ressources
 
-* Sur [ce wiki](documentation/brique)
+* Sur [ce wiki](brique)
 
 ### Cannaux de communication
 
@@ -111,8 +111,8 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 ### Ressources
 
 * Dépôts principaux sur : [Github/Neutrinet](https://github.com/neutrinet)
-* [Infrastructure des serveurs](documentation/infra/home)
-* [Le support](documentation/support)
+* [Infrastructure des serveurs](infra/home)
+* [Le support](support)
 
 
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
