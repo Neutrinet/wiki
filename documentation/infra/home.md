@@ -23,6 +23,7 @@
 - [Statut nouvelle infra](statut-nouvelle-infra)
  
 ## Labo
+- [Proposiontion nouvelle vpn](new vpn)
 
 - [Proposiontion nouvelle infra (principe)](labo)
 - [Proposiontion nouvelle infra (config)](labo-tech)
