@@ -1,5 +1,5 @@
 <!-- TITLE: Cube -->
-<!-- SUBTITLE: Dédié (corps et âme) à la brique Internet -->
+<!-- SUBTITLE: Infos en vrac, à étoffer ou à ranger -->
 
 
 - [Installer Yunohost et le VPN Neutrinet sur un serveur X86](brique/install-x86)
