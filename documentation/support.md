@@ -24,7 +24,7 @@ Il est préférable de ne pas répondre un mail qui se trouve dans support ou co
 
 Pour mettre le mail dans le bon hub vous avez sur la droite une liste des groupes ensuite cliquer sur "Mettre à jours"
 
-![Image Change hub](/uploads/documentation-support/screen-001.png)
+![Image Change hub](/uploads/documentation-support/screen-001.png){.align-center}
 
 
 ## Répondre à un mail
@@ -32,11 +32,11 @@ Pour mettre le mail dans le bon hub vous avez sur la droite une liste des groupe
 Pour répondre à un ticket il faut cliquer sur répondre en dessous du ticket.
 
 Si vous avez un encadré rouge ceci est une note publique (invite votre correspondant de venir sur la version web du ticket).
-![Image internal note](/uploads/documentation-support/screen-002.png)
+![Image internal note](/uploads/documentation-support/screen-002.png){.align-center}
 
 
 Par contre si vous avez ceci : 
-![Image repsond mail](/uploads/documentation-support/screen-003.png)
+![Image repsond mail](/uploads/documentation-support/screen-003.png){.align-center}
 
 
 C'est bien une réponse par mail.
@@ -45,4 +45,4 @@ C'est bien une réponse par mail.
 ## Les spams
 En bas à droite du ticket vous avez un bouton et ensuite une flèche vers le haut, un menu va apparaître et vous permettre de marque le ticket comme spam.
 
-![Image spam](/uploads/documentation-support/screen-004.png)
+![Image spam](/uploads/documentation-support/screen-004.png){.align-center}
