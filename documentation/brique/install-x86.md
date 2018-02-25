@@ -1,8 +1,10 @@
+<!-- Installation sur X86 -->
+
+TODO: Heu ... c'est pas très clair ... à relire!
 # Installation
 Install debian jessie base
 
-Install yhunohots sans la 
-popst-install
+Install yhunohots sans la post-install
 
 --
 
