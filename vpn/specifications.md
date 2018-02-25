@@ -1,4 +1,4 @@
-<!-- TITLE: Specifications du VPN-->
+<!-- TITLE: Specifications -->
 <!-- SUBTITLE: À des fins de dépannage ou a titre informatif -->
 
 Nous conservons, à des fins de dépannage, un journal (log) des connexions VPN établies durant les 31 derniers jours. Ce journal contient le certificat utilisé pour la connexion, ainsi que l'adresse IP depuis laquelle cette connexion a été établie et l'heure de la connexion.
