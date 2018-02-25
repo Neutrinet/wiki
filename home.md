@@ -39,8 +39,6 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 :ant: Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
 
-### Infos générales
-
 * Personne de contact : Emmanuel
 * Compétence requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
@@ -52,57 +50,69 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ### Cannaux de communication
 
-* D'accès publiques : 
-	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **accès à ouvrir ?**
-	* [mailing liste](mailto:neutrinet@lists.entransition.be)
+* Accès publiques : 
+  * [mailing liste](mailto:neutrinet@lists.entransition.be)
+	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **à ouvrir ?**
 	* [irc](https://webchat.freenode.net/?channels=neutrinet)
 * Sur invitation: [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
+
 ## hub-admin
 
 :cat: Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
-- Personne de contact : à définir
-- Sur ce wiki : commencez par la page [hub-admin](hub-admin) **à faire ?**
-- Cannal de communication restreint : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
-- Compétences requises : gestion, bureautique, rigueur, ponctualité
-- Connaissances utiles : comptabilité, python/django
-- Outils en ligne :
-	- [commandes](https://admin.neutrinet.be)
-	- [suivi et administration des membres](https://admin.neutrinet.be/admin)
-	- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
+* Personne de contact : à définir
+* Compétences requises : gestion, bureautique, rigueur, ponctualité
+* Connaissances utiles : comptabilité, python/django
+
+### Ressources
+
+- Sur [ce wiki](hub-admin) **à vérifier**
+
+### Cannaux de communication
+
+- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
+
+### Outils en ligne
+
+- [commandes](https://admin.neutrinet.be)
+- [suivi et administration des membres](https://admin.neutrinet.be/admin)
+- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
 - Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
-
-**à déplacer vers hub-admin?**
-
-- [PVs](neutrinet/pvs/home)
-- [Statuts ASBL](neutrinet/statuts)
-- [Soumettre les comptes annuels](neutrinet/comptes-annuels)
 
 ## hub-cube
 
 :penguin: Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
 Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
 
-* Personne de contact : à définir
-* Sur ce wiki : commencez par la page [documentation](documentation/brique)
-* Cannal de communication dédié : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
+* Personne de contact : tierce
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
+
+### Ressources
+
+* Sur [ce wiki](documentation/brique)
+
+### Cannaux de communication
+
+* Sur invitation : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
 
 ## hub-infra
 
 :panda_face: Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
-* Personne de contact : à définir
-* Cannal de communication dédié : [sur mattermost - accès restreint](https://chat.neutrinet.be/neutrinet/channels/hub-tech)
+* Personne de contact : Tharyrok
 * Compétences requises : administartion système GNU/Linux (debian)
 * Connaissances utilse : openvpn, réseau (routage, BGP, iptables), workflow de déploiement classique (php, python, ruby, other), administration jvm (zookeeper, maven for the ISP-ng for the VPN)
+
+### Cannaux de communication
+
+* Sur invitation : [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-infra)
+
+### Ressources
+
 * Dépôts principaux sur : [Github/Neutrinet](https://github.com/neutrinet)
- 
-- [Infrastructure des serveurs](documentation/infra/home)
-- [Le support](documentation/support)
-
-
+* [Infrastructure des serveurs](documentation/infra/home)
+* [Le support](documentation/support)
 
 
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
