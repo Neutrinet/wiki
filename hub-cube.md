@@ -1,5 +1,5 @@
-<!-- TITLE: La Brique -->
-<!-- SUBTITLE: Ses joies, ses peines et sa documentation -->
+<!-- TITLE: Hub cube -->
+<!-- SUBTITLE: Contenu dédié à la brique (le cube) -->
 
 - [Installer une brique Olimex](brique/install)
 - [Installer Yunohost et le VPN Neutrinet sur un serveur X86](brique/install-x86)
