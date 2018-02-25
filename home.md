@@ -39,16 +39,24 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 :ant: Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
 
-* Personne de contact : à définir
-* Sur ce wiki : commencez par la page [hub-communication](hub-communication)
-* Cannaux de communication publiques : 
-	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **accès à ouvrir ?**
-	* [mailing liste](mailto:neutrinet@lists.entransition.be)
-	* [irc](https://webchat.freenode.net/?channels=neutrinet)
-* Cannal de communication restreints : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
+### Infos générales
+
+* Personne de contact : Emmanuel
 * Compétence requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
+### Ressources
+
+* Sur ce [wiki](hub-communication)
+* Sur notre [Nextcloud](https://files.neutrinet.be/s/xGAQCAMRK229H2g)
+
+### Cannaux de communication
+
+* D'accès publiques : 
+	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **accès à ouvrir ?**
+	* [mailing liste](mailto:neutrinet@lists.entransition.be)
+	* [irc](https://webchat.freenode.net/?channels=neutrinet)
+* Sur invitation: [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
 ## hub-admin
 
 :cat: Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
