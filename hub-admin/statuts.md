@@ -1,17 +1,17 @@
-# Neutrinet ASBL
+<!-- TITLE: Neutrinet ASBL -->
 
-## Conseil d'administration
+# Conseil d'administration
 
 - Wannes De Smet
 - Laurent Peuch
 - Balthazar Thomas
 - Durieux Frédéric
 
-### Suppléant
+# Suppléant
 
 - Olivier Meunier
 
-## Statuts
+# Statuts
 
 **Article 1.** L'association prend pour dénomination : Neutrinet ASBL
 
