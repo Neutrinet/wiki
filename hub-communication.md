@@ -30,6 +30,6 @@ https://www.ffdn.org/
 - Présentation au [Fosdem 2017](https://video.fosdem.org/2017/AW1.125/) : [MP4](https://video.fosdem.org/2017/AW1.125/ffdn.mp4) | [WEBM (VP8)](https://video.fosdem.org/2017/AW1.125/ffdn.vp8.webm)
 - Voir aussi : https://media.ffdn.org/
 
-# Sur le Do It Yuorself
+# Sur le Do It Yourself
 
 - [Do-It-Yourself Internet Service Providers](https://diyisp.org)
