@@ -1,4 +1,4 @@
-<!-- TITLE: Hub Cube -->
+<!-- TITLE: Cube -->
 <!-- SUBTITLE: Dédié (corps et âme) à la brique Internet -->
 
 
