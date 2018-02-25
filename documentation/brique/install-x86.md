@@ -1,4 +1,4 @@
-<!-- Installation sur X86 -->
+<!-- TITLE: Installation sur X86 -->
 
 TODO: Heu ... c'est pas très clair ... à relire!
 # Installation
