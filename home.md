@@ -81,7 +81,7 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
 
-## hub-tech
+## hub-infra
 
 :panda_face: Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
