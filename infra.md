@@ -1,6 +1,6 @@
 <!-- TITLE: Infrastructure -->
 
-NOTE: Utiliser cette page comme une table des matière est redondant avec le menu sur [all pages](/all).
+NOTE: Utiliser cette page comme une table des matière est redondant avec le menu sur [all pages](/all). Ceci dit ça peut aussi faire plus propre mais ça demande d'y maintenir les liens si il y a des changement.
 # Les serveurs
 - [Présentation de l'infra](infra/presentation_infra)
 - [Présentation des serveurs](infra/presentation_serveurs)
