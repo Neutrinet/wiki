@@ -5,7 +5,7 @@ Cette page va retracer la mise en place de la nouvelle infra de neutrinet ainsi 
 
 L'objectif voulu avec cette infra est la remise en place du vpn en un minimum de temps.
 
-# Materrielle et lieux
+# Matériel et lieux
 
 ## i3d
 Nous avons un contrat de collocation chez i3d à Rotterdam qui nous fournis 1U avec 2 liens à 50Mbps 95% (sur le mois) et une session bgp.
@@ -32,7 +32,7 @@ Voici une liste non exosive d'outils que nous utilisons :
  - Tinc (Un autre vpn)
  - GlusterFS
 
-# Le reseau
+# Le réseau
 ## Les vlan
 | Vlan | IP | utilisation | Membre |
 |---|---|---|---|
@@ -48,7 +48,7 @@ Voici une liste non exosive d'outils que nous utilisons :
 
 ## Schema physique
 
-![Reseau Physique](/uploads/infra/reseau-phy "Reseau Phy"){.align-center}
+![Reseau Phy](/uploads/infra/reseau-phy "Reseau Phy"){.align-center}
 
 ## Schema VM
 
