@@ -48,7 +48,7 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 * Sur ce [wiki](communication)
 * Sur notre [Nextcloud](https://files.neutrinet.be/s/xGAQCAMRK229H2g)
 
-### Cannaux de communication
+### Canaux de communication
 
 * Accès publiques : 
   * [mailing liste](mailto:neutrinet@lists.entransition.be)
