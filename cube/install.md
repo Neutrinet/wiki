@@ -159,3 +159,7 @@ Those passwords have been set to 'neutrinet' (without quotes) during the install
 # Configure the DNS records of your domain
 
 See [this page](dns).
+
+# Problems
+We try to keep a list of issues we face at https://wiki.neutrinet.be/cube/problems 
+If you have issues, or maybe you were able to find a fix for an issue, do not hesitate to contact us.
