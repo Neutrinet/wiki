@@ -69,3 +69,18 @@ Success! The service 'yunohost-firewall' has been enabled
 NOTE: At the start of running the script I get
 `/!\ This script has to be run as root *on* the Cube itself, on a labriqueinternet_A20LIME_2015-11-09.img SD card (or newer)`
 I have Lime2 (but the https://wiki.neutrinet.be/cube/install page doesn't differentiate between the two).
+
+## Possible solution ...
+
+On the Yunohost forum [here (fr)](https://forum.yunohost.org/t/post-installation-avant-mise-a-jour/4254) somebody solved the issue WITHOUT upgrading the system BEFORE doing the post-install but AFTER.
+
+It is possible to try it by commenting the line `upgrade_system` in the latest lines of the neutrinet.sh script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](cube/install).
+
+```
+...
+set_locales
+#upgrade_system
+
+postinstall_yunohost
+...
+```
