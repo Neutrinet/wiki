@@ -74,7 +74,7 @@ I have Lime2 (but the https://wiki.neutrinet.be/cube/install page doesn't differ
 
 On the Yunohost forum [here (fr)](https://forum.yunohost.org/t/post-installation-avant-mise-a-jour/4254) somebody solved the issue WITHOUT upgrading the system BEFORE doing the post-install but AFTER.
 
-It is possible to try it by commenting the line `upgrade_system` in the latest lines of the neutrinet.sh script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](cube/install).
+It is possible to try it by commenting the line `upgrade_system` in the latest lines of the neutrinet.sh script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](install).
 
 ```
 ...
