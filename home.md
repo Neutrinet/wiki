@@ -18,6 +18,8 @@
 - Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
 - Où ? 20, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
+:books: N'hésitez pas  à visiter la section `pvs` dans notre [documentation](all).
+
 # Ce que nous proposons
 ## VPN
 
