@@ -4,6 +4,7 @@ This procedure explains how to setup an Internet Cube and configure it for Neutr
 It is based on this document:  https://repo.labriqueinter.net/
 
 # What you need
+![Installationdebriquesinternet](/uploads/cube/installationdebriquesinternet.png "Installationdebriquesinternet"){.align-center}
 
 ## Neutrinet certs
 
