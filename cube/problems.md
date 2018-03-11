@@ -84,8 +84,3 @@ set_locales
 postinstall_yunohost
 ...
 ```
-
-# No VPN, no ping, no access
-
-If your cube is not accessible under it's domain name `https://somedomain.ext` but you can have access using ssh from your LAN.
-It may be usefull to use this [neutrinet-connectivity-fix.sh](https://gist.github.com/tbalthazar/8d14dba0fdc76bf31f981c94781ec7a3).
