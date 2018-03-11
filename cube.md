@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Infos en vrac, à étoffer ou à ranger -->
 
 
-- [Installer Yunohost et le VPN Neutrinet sur un serveur X86](cube/install-x86)
+- [Installer Yunohost et le VPN Neutrinet sur un serveur X86](cube/install-x-86)
 
 - [Configure Ethernet](https://wiki.labriqueinter.net/doku.php?id=howto:parametrer_une_brique_avec_un_connecteur_usb-ethernet_au_lieu_d_un_connecteur_usb-wifi)
 
