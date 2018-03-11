@@ -3,6 +3,19 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
+# Réunions 2018
+
+## Install Party Dimanche 18 mars de 14 à 18h
+
+- Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
+- Où ? [123, rue Royale à Bruxelles](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
+
+
+## Réunion des membres Mardi 20 mars à 19h30
+
+- Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
+- Où ? 20, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
+
 # Ce que nous proposons
 ## VPN
 
