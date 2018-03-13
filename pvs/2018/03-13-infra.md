@@ -3,7 +3,6 @@
 
 #Réunion hub tech - 13/03/18
 
-
 ##Ordre du jour
 
    * Ce fixer le 2eme mardi du mois à 20H pour la réunion hub tech: OK - mis dans l'agenda
