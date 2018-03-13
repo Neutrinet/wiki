@@ -62,7 +62,10 @@
 
    * Réunion nubo
        * \url{https://pads.domainepublic.net/p/42u}
-PLANNING:
+
+
+## PLANNING:
+https://framadate.org/ilAWy2IlUigQbW4t
 
    * Prévoir une réunion pour la doc
    * Préparer le we de la reinstall d'orval
