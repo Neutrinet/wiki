@@ -76,11 +76,56 @@ On the Yunohost forum [here (fr)](https://forum.yunohost.org/t/post-installation
 
 It is possible to try it by commenting the line `upgrade_system` in the latest lines of the `neutrinet.sh` script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](install).
 
+After you've ssh'ed into teh cube:
 ```
-...
+nano ./neutrinet.sh
+```
+Press ctrl+V until you hit the bottom and change
+
+```
+get_variables
+
+modify_hosts
+set_locales
+upgrade_system
+
+postinstall_yunohost
+create_yunohost_user
+add_labriqueinternet_app_list
+install_vpnclient
+configure_vpnclient
+install_hotspot
+configure_hostpot
+install_doctorcube
+install_neutrinet_ynh
+
+remove_dyndns_cron
+restart_api
+
+display_win_message
+```
+to
+```
+get_variables
+
+modify_hosts
 set_locales
 #upgrade_system
 
 postinstall_yunohost
-...
+upgrade_system
+create_yunohost_user
+add_labriqueinternet_app_list
+install_vpnclient
+configure_vpnclient
+install_hotspot
+configure_hostpot
+install_doctorcube
+install_neutrinet_ynh
+
+remove_dyndns_cron
+restart_api
+
+display_win_message
 ```
+You can also play around a bit commenting and uncommenting lines to narrow down where something goes wrong.
