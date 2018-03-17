@@ -76,7 +76,7 @@ On the Yunohost forum [here (fr)](https://forum.yunohost.org/t/post-installation
 
 It is possible to try it by commenting the line `upgrade_system` in the latest lines of the `neutrinet.sh` script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](install).
 
-After you've ssh'ed into teh cube:
+After you've ssh'ed into the cube:
 ```
 nano ./neutrinet.sh
 ```
