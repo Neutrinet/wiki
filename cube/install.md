@@ -8,7 +8,7 @@ It is based on this document:  https://repo.labriqueinter.net/
 
 ## Neutrinet certs
 
-To use our VPN, you need to follow [this registration process](https://wiki.neutrinet.be/documentation/vpn/order) to generate your private key and obtain your VPN certificate.
+To use our VPN, you need to follow [this registration process](/vpn/order) to generate your private key and obtain your VPN certificate.
 
 ## Components
 
