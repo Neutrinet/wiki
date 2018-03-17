@@ -76,7 +76,7 @@ On the Yunohost forum [here (fr)](https://forum.yunohost.org/t/post-installation
 
 It is possible to try it by commenting the line `upgrade_system` in the latest lines of the `neutrinet.sh` script you can find in `/root/neutrinet.sh` if you followed our [installation guide lines](install).
 
-After you've ssh'ed into the cube:
+At https://wiki.neutrinet.be/cube/install#configure-your-cube-for-use-with-neutrinet before you run *./neutrinet.sh*, you do the following:
 ```
 nano ./neutrinet.sh
 ```
@@ -128,6 +128,7 @@ restart_api
 
 display_win_message
 ```
-Then press *ctrl+X*, type *Y* and press enter
+Notice that the *upgrade_system* line is now active under the *postinstall_yunohost* line.
+Then press *ctrl+X*, type *Y* , press enter and continue where you left off by running *./neutrinet.sh*. 
 
-You can also play around a bit commenting and uncommenting lines to narrow down where something goes wrong.
+If it still fails, you can also try playing around a bit commenting and uncommenting lines to narrow down where something goes wrong.
