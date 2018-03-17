@@ -80,7 +80,7 @@ After you've ssh'ed into the cube:
 ```
 nano ./neutrinet.sh
 ```
-Press ctrl+V until you hit the bottom and change
+Press *ctrl+V* until you hit the bottom, then change
 
 ```
 get_variables
@@ -128,4 +128,6 @@ restart_api
 
 display_win_message
 ```
+Then press *ctrl+X*, type *Y* and press enter
+
 You can also play around a bit commenting and uncommenting lines to narrow down where something goes wrong.
