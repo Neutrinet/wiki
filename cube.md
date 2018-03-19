@@ -6,6 +6,9 @@
 
 - [Configure Ethernet](https://wiki.labriqueinter.net/doku.php?id=howto:parametrer_une_brique_avec_un_connecteur_usb-ethernet_au_lieu_d_un_connecteur_usb-wifi)
 
+- [wiki de la brique](https://wiki.labriqueinter.net/doku.php)
+
+- [un pad sur la brique](https://pad.lqdn.fr/p/brique-formation)
 # Se connecter avec un câble série
 
 - ordre pins, en partant du connecteur ethernet: bleu, rouge, vert (ou noir, vert, blanc pour le connecteur à 4 broches)
