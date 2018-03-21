@@ -9,6 +9,7 @@ It is based on this document:  https://repo.labriqueinter.net/
 ## Neutrinet certs
 
 To use our VPN, you need to follow [this registration process](/vpn/order) to generate your private key and obtain your VPN certificate.
+If, for some reason, you're reïnstalling your cube and you want to reuse your certificates, you can find them on your cube as user.crt, user.key, ca-server.crt and credentials in /etc/openvpn/keys
 
 ## Components
 
