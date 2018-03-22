@@ -1,4 +1,4 @@
-<!-- TITLE: 03 13 Infra -->
+<!-- TITLE: 03/13 (Infra) -->
 <!-- SUBTITLE: Réunion mumble du hub infra-->
 
 # Réunion hub tech - 13/03/18
