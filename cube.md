@@ -19,3 +19,10 @@
 
 - trouver l'UUID de votre disque, connecter le disque puis: `ls /dev/disk/by-uuid/` 
 - dans `/etc/fstab`, ajouter: `UUID=<uuid-du-disque> /mnt/<mon-point-de-montage> ext4 defaults,nofail,x-systemd.device-timeout=5 0 2`
+
+
+# Cartes mémoire
+
+![Microsdspeedtable](/uploads/cube/microsdspeedtable.png "Microsdspeedtable")
+
+Source : [wikibedia en anglais](https://en.wikipedia.org/wiki/Secure_Digital)
