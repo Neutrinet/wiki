@@ -14,10 +14,10 @@ Good to have knowledge: ASBL/VZW related knowledge, accounting (basic), maybe a 
 
 ## Active people:
 
-~~* Denis
+* Denis
 * Sombrefay - treasurer
 * Quentin
-* Bram - coordinator/dev~~
+* Bram - coordinator/dev
 * Thomas
 
 ## Activities
