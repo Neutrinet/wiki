@@ -1,5 +1,5 @@
-<!-- TITLE: 12/00 (A.G.) -->
-<!-- SUBTITLE: Assemblée Générale du ?? décembre 2016-->
+<!-- TITLE: Bilan -->
+<!-- SUBTITLE: Un bilan sur les activités de Neutrinet-->
 
 # Bilan de l'année 2015-2016
 
