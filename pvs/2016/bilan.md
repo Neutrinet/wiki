@@ -27,7 +27,7 @@
 * cartographie (voir peut-être [ce pad](https://pad.lqdn.fr/p/neutrinet-carto))
 * lancement des hubs
 
-# Communication/événements:
+# Communication/événements
 * café numérique
 * braderie de lille 2015
 * brique camp
@@ -43,7 +43,7 @@
 * esperanzah
 * talk au capitole
 
-# Brique:
+# Brique
 
 * commandes groupées:
   * Group Order #4 November 2015
@@ -77,7 +77,7 @@
   * retour des commandes et installations
 * nettoyage des anciennes commandes (blast\&co)
 
-# Server:
+# Server
 
 * migration de chez LDN complète
 * beaucoup de travail de wannes pour l'adminsys car migration sur les nouveaux serveurs
@@ -98,7 +98,7 @@
 * après midi chez wannes pour rebosser sur isp-ng
 * On a des backup
 
-# Compte/compta:
+# Compte/compta
 
 * après midi compta
 * compte de 2014 fais en retard (fais avec sombrefay)
@@ -109,7 +109,7 @@
 * compte de l'année déposés à valider
 * compta en accord avec la réalité et à jours très régulièrement (vu que c'est quasi automatique)
 
-# Banque/ASBL:
+# Banque/ASBL
 
 * on a eu pas mal de difficulté à faire changer les mandataires du compte
   * le moniteur a fait chier pour sombrefay pas domicilié en belgique
@@ -122,18 +122,18 @@
 * changer de banque ? difficile car numéro de compte connu et compta automatisé et on a déjà changé par le passé
 * nettoyage de la liste des membres et des cotisations (pas fini, ma faute ™)
 
-# IBPT:
+# IBPT
 
 * routine
 * 317€ cette année
 
-# WTC + DC:
+# WTC + DC
 
 * coup manqué :( (pas l'énergie, pas le temps)
 
-# Misc:
+# Misc
 
-* guide d'autodéfense numérique
+* [guide d'autodéfense numérique](https://guide.boum.org/)
 * pv.neutrinet.be
 * https://pad.lqdn.fr/p/neutrinet-carto
 
