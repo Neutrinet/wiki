@@ -1,5 +1,5 @@
 <!-- TITLE: Pvs -->
-<!-- SUBTITLE: Procès Verbaux ... quel vilain <s>maux</s> mot :flushed: -->
+<!-- SUBTITLE: Procès Verbaux ... quel vilain mot ;) -->
 
 # Disponible sur ce wiki
 
