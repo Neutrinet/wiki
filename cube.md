@@ -25,4 +25,4 @@
 
 ![Microsdspeedtable](/uploads/cube/microsdspeedtable.png "Microsdspeedtable")
 
-Source : [wikibepia en anglais](https://en.wikipedia.org/wiki/Secure_Digital)
+Source : [wikipedia en anglais](https://en.wikipedia.org/wiki/Secure_Digital)
