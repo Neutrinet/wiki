@@ -1,4 +1,4 @@
-<!-- TITLE: Communication -->
+<!-- TITLE: hub comm -->
 <!-- SUBTITLE: Faire circuler l'info & promouvoir Neutrinet -->
 
 Cette page sert de point de départ et de collecte de tout un tas d'informations utiles *(ou moins :D)* dont la communication pourrait avoir besoin.
