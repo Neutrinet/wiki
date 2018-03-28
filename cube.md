@@ -90,7 +90,10 @@ on admin2 of cube.neutrinet.be
 * produce more documentation and flyer and stuff for new members
 
 # Français
-À faire
+## Cannal de communication
+
+* Sur invitation : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
+
 
 # Nederlands
 Te doen
