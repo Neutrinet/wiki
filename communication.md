@@ -19,7 +19,7 @@ https://labriqueinter.net/ | https://internetcu.be/
 - [Pad brique-formation](https://pad.lqdn.fr/p/brique-formation)
 
 # Sur Yunohost
-
+![Yunohost](/uploads/yunohost.png "Yunohost"){.align-right}
 https://yunohost.org/
 
 - Présentation au [Fosdem 2017](https://video.fosdem.org/2017/AW1.125/) : [MP4](https://video.fosdem.org/2017/AW1.125/yunohost.mp4) | [WEBM (VP8)](https://video.fosdem.org/2017/AW1.125/yunohost.vp8.webm)
