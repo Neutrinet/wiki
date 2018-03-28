@@ -1,6 +1,8 @@
 <!-- TITLE: Pvs -->
 <!-- SUBTITLE: Procès Verbaux ... quel vilain mot ;) -->
 
+:information_source: Cette page est la **page dédiée aux différents PVs de réunion** et contient principalement des **liens vers chaque année**.
+:information_source: Pour voir **d'autres pages de ce wiki**, merci de visiter notre [documentation](all).
 # Disponible sur ce wiki
 
 * [2016](pvs/2016)
