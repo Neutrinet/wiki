@@ -1,12 +1,15 @@
 <!-- TITLE: hub admin -->
 <!-- SUBTITLE: Administration - Bestuur - Office -->
 
-:warning:  **OUTDATED - À RELIRE** :warning: 
+:information_source: Cette page est la **page dédiée du hub administratif**, pour voir **les autres pages**, merci de visiter la section `hub-admin` dans notre [documentation](all).
 # Origine
+:warning:  **OUTDATED - À RELIRE** :warning: 
+
 * Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-administrative-hub
 * Qui est devenu la page : https://neutrinet.be/hubs/administrative.html
 
 # English
+:warning:  **OUTDATED - À RELIRE** :warning: 
 
 Objective: handle everything related to administrative task and things that support those actions
 Needed knowledge: there is not absolutly needed at all knowledge to act in this hub
