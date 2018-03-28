@@ -33,3 +33,13 @@ https://www.ffdn.org/
 # Sur le Do It Yourself
 
 - [Do-It-Yourself Internet Service Providers](https://diyisp.org)
+
+# Ressources
+
+* Sur le [Nextcloud](https://files.neutrinet.be/s/xGAQCAMRK229H2g)
+
+# Canaux de communication
+
+* [mailing liste](mailto:neutrinet@lists.entransition.be)
+* [irc](https://webchat.freenode.net/?channels=neutrinet)
+* [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication) (Sur invitation pour le moment)
