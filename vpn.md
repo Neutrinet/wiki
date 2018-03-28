@@ -31,7 +31,7 @@ Nous avons besoin de 3 « organes » pour mener à bien nos activités :
 
 Nous **documentons** sur ce wiki chacun des «hubs» indépendemment sous `/vpn`, `/cube`, `/administration`, `/communication`,`/infra`.
 
-Nous **rapportons nos réunions** sur ce wiki dans `/pvs` dans ce wiki puisqu'ils sont:
+Nous **rapportons nos réunions** sur ce wiki dans `/pvs` puisqu'ils sont:
 
 * souvent associés a des réunions des membres qui sont actifs dans plusieurs hubs (donc le contenu « parle » des différents hubs),
 * parfois propre à un hub,
