@@ -1,7 +1,7 @@
 <!-- TITLE: hub admin -->
 <!-- SUBTITLE: Administration - Bestuur - Office -->
 
-:warning:  OUTDATED - À RELIRE :warning: 
+:warning:  **OUTDATED - À RELIRE** :warning: 
 # Origine
 * Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-administrative-hub
 * Qui est devenu la page : https://neutrinet.be/hubs/administrative.html
