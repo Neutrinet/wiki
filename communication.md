@@ -1,7 +1,7 @@
 <!-- TITLE: hub comm -->
 <!-- SUBTITLE: Faire circuler l'info & promouvoir Neutrinet -->
 
-:information_source: Cette page est la **page dédié du hub communication**, pour voir **les autres pages**, merci de visiter la section `hub-comm` dans notre [documentation](all).
+:information_source: Cette page est la **page dédiée du hub communication**, pour voir **les autres pages**, merci de visiter la section `hub-comm` dans notre [documentation](all).
 # Sur la brique
 ![Labriqueinter Net](/uploads/labriqueinter-net.png "Labriqueinter Net"){.align-right}
 https://labriqueinter.net/ | https://internetcu.be/
