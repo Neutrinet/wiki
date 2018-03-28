@@ -21,14 +21,13 @@ Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [comm
 :books: N'hésitez pas  à visiter la section `cube` dans notre [documentation](all).
 
 # Neutrinet ASBL
+![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
 Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
 
 *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
-
-![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
 ## hub-communication 
 
@@ -38,16 +37,7 @@ Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et vei
 * Compétence requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
-### Ressources
-
-* Sur ce [wiki](communication)
-* Sur notre [Nextcloud](https://files.neutrinet.be/s/xGAQCAMRK229H2g)
-
-### Canaux de communication
-
-* [mailing liste](mailto:neutrinet@lists.entransition.be)
-* [irc](https://webchat.freenode.net/?channels=neutrinet)
-* [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication) (Sur invitation pour le moment)
+:books: N'hésitez pas  à visiter la [page dédié](communication) et la section `hub-comm` dans notre [documentation](all).
 
 ## hub-admin
 
@@ -57,37 +47,18 @@ Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banqu
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
 * Connaissances utiles : comptabilité, python/django
 
-### Ressources
-
-:books: N'hésitez pas  à visiter la section `Neutrinet` dans notre [documentation](all).
-
-### Cannaux de communication
-
-- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
-
-### Outils en ligne
-
-- [commandes](https://admin.neutrinet.be)
-- [suivi et administration des membres](https://admin.neutrinet.be/admin)
-- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
-- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
+:books: N'hésitez pas  à visiter la [page dédié](administration) et la section `hub-admin` dans notre [documentation](all).
 
 ## hub-cube
 
-:penguin: Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
+Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
 Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
 
 * Personne de contact : tierce
 * Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
 * Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django, Java.
 
-### Ressources
-
-:books: N'hésitez pas  à visiter la section `cube` dans notre [documentation](all).
-
-### Cannaux de communication
-
-* Sur invitation : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
+:books: N'hésitez pas  à visiter la [page dédié](cube) et la section `hub-cube` dans notre [documentation](all).
 
 ## hub-infra
 
@@ -97,19 +68,10 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 * Compétences requises : administartion système GNU/Linux (debian)
 * Connaissances utilse : openvpn, réseau (routage, BGP, iptables), workflow de déploiement classique (php, python, ruby, other), administration jvm (zookeeper, maven for the ISP-ng for the VPN)
 
-### Cannaux de communication
-
-* Sur invitation : [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-infra)
-
-### Ressources
-
-* Dépôts principaux sur : [Github/Neutrinet](https://github.com/neutrinet)
-* Visitez la section `Infra` dans notre [documentation](all).
-* [Le support](outil/support)
-
+:books: N'hésitez pas  à visiter la [page dédié](infra) et la section `hub-infra` dans notre [documentation](all).
 
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
-
+Panda is CC-BY-SA by [fortherock](https://www.flickr.com/photos/fortherock/3898359035)
 # Réunions 2018
 
 ## Install Party du 3ème dimanche
@@ -125,12 +87,5 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 - Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
 - Où ? 20, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
-:books: N'hésitez pas  à visiter la section `pvs` dans notre [documentation](all).
+:books: N'hésitez pas  à visiter la [page dédié](pvs) et la section `pvs` dans notre [documentation](all).
 
-# Ancienne ressources
-
-L'ancien wiki [est toujours disponible](https://wiki-old.neutrinet.be), et vous pouvez voir la liste de [toutes ses pages](https://wiki-old.neutrinet.be/Special:AllPages), si jamais il vous semble que cela vaut la peine de rapatrier du contenu de l'ancien wiki vers le nouveau ...
-
-Pads en vrac 
-
-* https://pad.lqdn.fr/p/neutrinet-carto
