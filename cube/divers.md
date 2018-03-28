@@ -1,7 +1,7 @@
 <!-- TITLE: Divers -->
 <!-- SUBTITLE: Divers ressouces sur le cube -->
 
-:warning: **À ranger / Classer / Compléter ** :warning:
+:warning: **À ranger / Classer / Compléter** :warning:
 # Ressources externes
 
 * [Installer Yunohost et le VPN Neutrinet sur un serveur X86](cube/install-x-86)
