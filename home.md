@@ -29,7 +29,7 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 
-## hub admin
+## hub administration
 
 Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
@@ -49,7 +49,7 @@ Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et vei
 
 :books: N'hésitez pas  à visiter la [page dédié](communication) et la section `hub comm` dans notre [documentation](all).
 
-## hub infra
+## hub infrastructure
 
 :panda_face: Prendre en charge le maintien de l'infrastructure informatique et son évolution (installer de nouveaux services ou serveurs et explorer les possibilités nouvelles en terme d'hébergement).
 
