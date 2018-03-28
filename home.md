@@ -5,39 +5,34 @@
 
 # Ce que nous proposons
 ## VPN
-
 Prisonnier d'une connexion Internet non neutre?
-Vous voulez une adresse IP publique mais votre fournisseur ne vous en donnera pas?
+Vous voulez **votre adresse IP publique** mais votre fournisseur ne vous en donnera pas?
 Neutrinet a la solution pour vous!
 
-[Obtenez](vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+[Commandez](vpn/commander) votre propre connexion VPN :closed_lock_with_key: Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
 
 :books: N'hésitez pas  à visiter la section `vpn` dans notre [documentation](all).
 
 ## Brique Internet (cube)
-Envie d'exlporer les joies de l'auto-hébergement sur du matériel libre et peu coûteux?
-Avoir son propre **mini serveur** chez soi c'est possible (possible on vous dit, pas *magiquement faisable* :P ).
+Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
+Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
 :books: N'hésitez pas  à visiter la section `cube` dans notre [documentation](all).
 
-## Autre projets
-
-Peut-être que oui ... peut-être que non ... on verra pour 2025 si ensemble nous parvenont à proposer d'autres choses, d'autres alternatives aux fournisseurs d'accès actuels.
-
-# À propos de nous
-
-*L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
+# Neutrinet ASBL
 
 Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
 
+*L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
+
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
 ## hub-communication 
 
-:ant: Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
+Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents hubs.
 
 * Personne de contact : Emmanuel
 * Compétence requises : outil de communication, relationnel, agenda(s)
@@ -50,15 +45,13 @@ La Fédération FDN est une fédération de fournisseurs de services Internet à
 
 ### Canaux de communication
 
-* Accès publiques : 
-  * [mailing liste](mailto:neutrinet@lists.entransition.be)
-	* [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/town-square)  **à ouvrir ?**
-	* [irc](https://webchat.freenode.net/?channels=neutrinet)
-* Sur invitation: [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication)
+* [mailing liste](mailto:neutrinet@lists.entransition.be)
+* [irc](https://webchat.freenode.net/?channels=neutrinet)
+* [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication) (Sur invitation pour le moment)
 
 ## hub-admin
 
-:cat: Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
+Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
 * Personne de contact : à définir
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
