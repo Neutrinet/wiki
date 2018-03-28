@@ -1,8 +1,7 @@
 <!-- TITLE: hub comm -->
 <!-- SUBTITLE: Faire circuler l'info & promouvoir Neutrinet -->
 
-Cette page sert de point de départ et de collecte de tout un tas d'informations utiles *(ou moins :D)* dont la communication pourrait avoir besoin.
-
+:information_source: Cette page est la **page dédié du hub communication**, pour voir **les autres pages**, merci de visiter la section `hub-comm` dans notre [documentation](all).
 # Sur la brique
 ![Labriqueinter Net](/uploads/labriqueinter-net.png "Labriqueinter Net"){.align-right}
 https://labriqueinter.net/ | https://internetcu.be/
