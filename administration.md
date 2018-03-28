@@ -83,7 +83,15 @@ get a VISA card
 have a public accounting
 
 # Français
-À faire
+## Cannaux de communication
 
+- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
+
+## Outils en ligne
+
+- [commandes](https://admin.neutrinet.be)
+- [suivi et administration des membres](https://admin.neutrinet.be/admin)
+- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
+- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 # Nederlands
 Te doen
