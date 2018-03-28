@@ -4,6 +4,7 @@
 Cette page sert de point de départ et de collecte de tout un tas d'informations utiles *(ou moins :D)* dont la communication pourrait avoir besoin.
 
 # Sur la brique
+![Labriqueinter Net](/uploads/labriqueinter-net.png "Labriqueinter Net"){.align-right}
 https://labriqueinter.net/ | https://internetcu.be/
 
 - [Starter_guide : ébauche de flyer d'information (guide d'utilisation)](https://github.com/labriqueinternet/communication)
@@ -18,6 +19,7 @@ https://labriqueinter.net/ | https://internetcu.be/
 - [Pad brique-formation](https://pad.lqdn.fr/p/brique-formation)
 
 # Sur Yunohost
+
 https://yunohost.org/
 
 - Présentation au [Fosdem 2017](https://video.fosdem.org/2017/AW1.125/) : [MP4](https://video.fosdem.org/2017/AW1.125/yunohost.mp4) | [WEBM (VP8)](https://video.fosdem.org/2017/AW1.125/yunohost.vp8.webm)
@@ -25,6 +27,7 @@ https://yunohost.org/
 - Présentation à PSES 2017 : [WEBM](http://data.passageenseine.org/2017/aleks-ljf_internet-futur-yunohost.webm) + [PDF](http://data.passageenseine.org/2017/aleks-ljf_internet-futur-yunohost.pdf)
 
 # Sur la FFDN
+![Logo Ffdn 0](/uploads/logo-ffdn-0.png "Logo Ffdn 0"){.align-right}
 https://www.ffdn.org/
 
 - Présentation au [Fosdem 2017](https://video.fosdem.org/2017/AW1.125/) : [MP4](https://video.fosdem.org/2017/AW1.125/ffdn.mp4) | [WEBM (VP8)](https://video.fosdem.org/2017/AW1.125/ffdn.vp8.webm)
