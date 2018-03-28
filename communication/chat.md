@@ -1,7 +1,7 @@
 <!-- TITLE: Chat -->
 <!-- SUBTITLE: How to chat with us? -->
 
-:warning: **À compléter** :warning**
+:warning: **À compléter / Améliorer / Agrémenter** :warning:
 # irc
 * [Webchat](https://webchat.freenode.net/?channels=neutrinet)
 * #neutrinet on Freenode server.
