@@ -1,9 +1,9 @@
 <!-- TITLE: Neutrinet asbl -->
 <!-- SUBTITLE: Fournisseur associatif d'accès à Internet.-->
 
-![Logo](/uploads/logo.png "Logo"){.pagelogo}
+![Logo](/upl![Ffdneuropeneutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet")oads/logo.png "Logo"){.pagelogo}
 
-[Ffdneuropeneutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet"){.align-right}
+[FFFDN Europe Neutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet"){.align-right}
 
 Installé en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet) associatif. Cela signifie que nous sommes un groupe de personnes qui souhaite prendre soin de notre accès à [Internet](https://fr.wikipedia.org/wiki/Internet).
 
