@@ -1,7 +1,11 @@
 <!-- TITLE: Neutrinet asbl -->
-<!-- SUBTITLE: Fournisseur belge d'accès Internet associatif, par et pour ses utilisateurs·ices -->
+<!-- SUBTITLE: Fournisseur associatif d'accès à Internet.-->
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
+
+Installé en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet) associatif. Cela signifie que nous sommes un groupe de personnes qui souhaite prendre soin de notre accès à [Internet](https://fr.wikipedia.org/wiki/Internet).
+
+En tant qu'association sans but lucratif, nous nous reposons sur un volontariat  auto-organisés et nous défendons la [neutralité du réseau](https://www.laquadrature.net/fr/neutralite_du_Net), la [vie privée](https://www.anthologieprivacy.be/fr/node/602) et la [liberté d'expression](https://fr.wikipedia.org/wiki/Libert%C3%A9_d%27expression). 
 
 # Ce que nous proposons
 ## VPN
@@ -72,6 +76,29 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
 Panda is CC-BY-SA by [fortherock](https://www.flickr.com/photos/fortherock/3898359035)
+
+# Devenir Membre
+
+Si vous avez souscrit au service [VPN](#vpn), vous êtes déjà membre et n'avez pas besoin de payer votre cotisation séparément.
+
+Devenir membre de Neutrinet est simple : payer votre cotisation annuelle (25€ ou plus) :
+
+- à un membre de notre conseil d'administration lors d'une[réunion](#meeting)
+- à notre banque par virement bancaire et dites-le nous[par email](contact@neutrinet.be).
+
+| RecordBank | |
+|---|---|
+|Bank: |RecordBank |
+|Name: |Neutrinet ASBL |
+|Communication: |cotisation de ... |
+|IBAN: |BE52 6528 3497 8409 |
+|BIC: |HBKABE22 |
+
+La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
+
+Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à découvrir ce que nous faisons tout en nous permettant de mieux vous connaître! :)
+
+Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
 # Réunions 2018
 
 ## Install Party du 3ème dimanche
