@@ -3,10 +3,13 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
+[Ffdneuropeneutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet"){.align-right}
+
 Installé en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet) associatif. Cela signifie que nous sommes un groupe de personnes qui souhaite prendre soin de notre accès à [Internet](https://fr.wikipedia.org/wiki/Internet).
 
 En tant qu'association sans but lucratif, nous nous reposons sur un volontariat  auto-organisés et nous défendons la [neutralité du réseau](https://www.laquadrature.net/fr/neutralite_du_Net), la [vie privée](https://www.anthologieprivacy.be/fr/node/602) et la [liberté d'expression](https://fr.wikipedia.org/wiki/Libert%C3%A9_d%27expression). 
 
+Nous sommes membre de la [Fédération FDN](https://www.ffdn.org/) et nous participons au mouvement des [DIY-ISP (Do It Yourself, Internet Service Provider](https://www.diyisp.org).!
 # Ce que nous proposons
 ## VPN
 Prisonnier d'une connexion Internet non neutre?
@@ -24,9 +27,8 @@ Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [comm
 
 :books: N'hésitez pas  à visiter la section `hub cube` dans notre [documentation](all).
 
-# Neutrinet ASBL
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
-
+# Neutrinet ASBL
 Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org) dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34).
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
@@ -77,7 +79,7 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
 Panda is CC-BY-SA by [fortherock](https://www.flickr.com/photos/fortherock/3898359035)
 
-## Devenir Membre
+## devenir membre
 
 Si vous avez souscrit au service [VPN](#vpn), vous êtes déjà membre et n'avez pas besoin de payer votre cotisation séparément.
 
