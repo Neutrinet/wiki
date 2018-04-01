@@ -1,7 +1,7 @@
 <!-- TITLE: Neutrinet asbl -->
 <!-- SUBTITLE: Fournisseur associatif d'accès à Internet.-->
 
-![Logo](/upl![Ffdneuropeneutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet")oads/logo.png "Logo"){.pagelogo}
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
 ![FFFDN Europe Neutrinet](/uploads/ffdneuropeneutrinet.png "Ffdneuropeneutrinet"){.align-right}
 
