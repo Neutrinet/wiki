@@ -7,9 +7,7 @@ Installé en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fou
 
 En tant qu'association sans but lucratif, nous nous reposons sur un volontariat  auto-organisés et nous défendons la [neutralité du réseau](https://www.laquadrature.net/fr/neutralite_du_Net), la [vie privée](https://www.anthologieprivacy.be/fr/node/602) et la [liberté d'expression](https://fr.wikipedia.org/wiki/Libert%C3%A9_d%27expression). 
 
-Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34), et nous participons au mouvement des [DIY-ISP (Do It Yourself, Internet Service Provider](https://www.diyisp.org).
-
-![Ffdnlargeneutrinet](/uploads/ffdnlargeneutrinet.png "Ffdnlargeneutrinet"){.align-center}
+Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34), et nous participons au mouvement des [DIY-ISP (Do It Yourself, Internet Service Provider)](https://www.diyisp.org).
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
 # Ce que nous proposons
@@ -116,3 +114,4 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 :books: N'hésitez pas  à visiter la [page dédié](pvs) et la section `Pvs` dans notre [documentation](all).
 
+![Diyisp](/uploads/diyisp.jpg "Diyisp"){.align-center}
