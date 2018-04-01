@@ -77,19 +77,19 @@ Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communicati
 ![Panda](/uploads/panda.jpg "Panda"){.align-center}
 Panda is CC-BY-SA by [fortherock](https://www.flickr.com/photos/fortherock/3898359035)
 
-# Devenir Membre
+## Devenir Membre
 
 Si vous avez souscrit au service [VPN](#vpn), vous êtes déjà membre et n'avez pas besoin de payer votre cotisation séparément.
 
 Devenir membre de Neutrinet est simple : payer votre cotisation annuelle (25€ ou plus) :
 
-- à un membre de notre conseil d'administration lors d'une[réunion](#meeting)
-- à notre banque par virement bancaire et dites-le nous[par email](contact@neutrinet.be).
+- à un membre de notre conseil d'administration lors d'une [réunion](#meeting)
+- à notre banque par virement bancaire et dites-le nous [par email](contact@neutrinet.be).
 
-| RecordBank | |
+| Coordonées bancaires | |
 |---|---|
-|Bank: |RecordBank |
-|Name: |Neutrinet ASBL |
+|Banque: |RecordBank |
+|Nom: |Neutrinet ASBL |
 |Communication: |cotisation de ... |
 |IBAN: |BE52 6528 3497 8409 |
 |BIC: |HBKABE22 |
