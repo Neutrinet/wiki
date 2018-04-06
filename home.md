@@ -10,6 +10,9 @@ En tant qu'association sans but lucratif, nous nous reposons sur un volontariat 
 Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34), et nous participons au mouvement des [DIY-ISP (Do It Yourself, Internet Service Provider)](https://www.diyisp.org).
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des valeurs communes: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
+
+> [L'assemblée générale 2017 de la Fédération FDN](https://pad.tetaneutral.net/p/AGFFDN2018-orga) aura lieu du 5 au 8 mai 2018 au Château de [Justiniac en Ariège](https://www.openstreetmap.org/search?query=43.20810%2C1.49068#map=9/43.1200/1.7221).
+
 # Ce que nous proposons
 ## VPN
 Prisonnier d'une connexion Internet non neutre?
