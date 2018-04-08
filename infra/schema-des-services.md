@@ -7,6 +7,7 @@ Le but final est de tomber d'accord sur:
 - les services que l'on va installer (OpenVPN, FreeRadius, ...)
 - le(s) datastore(s) que l'on va utiliser (LDAP, Postgres, ...)
 - les applications que l'on va déveloper (members.neutrinet.be, ...)
+- la manière dont ces différents services vont communiquer ensemble et avec le(s) datastore(s)
 
 Cette page n'a pas pour but de:
 - décrire l'infrastructure physique des serveurs
