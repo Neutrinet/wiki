@@ -22,7 +22,8 @@ Si vous voulez le modifier:
 - faites vos modifications
 - exportez un PNG pour la prévisualisation ici
 - important: sauvez le schéma au format XML depuis https://draw.io, et uploadez le fichier XML ici pour que les autres puissent à leur tour le modifier
-[Schema Services Neutrinet](/uploads/infra/schema-services-neutrinet.xml "Schema Services Neutrinet")
+
+[Télécharger le fichier XML à utiliser sur Draw.io](/uploads/infra/schema-services-neutrinet.xml "Schema Services Neutrinet")
 
 ## Entités
 - Membre: un membre qui accède aux services de Neutrinet
