@@ -15,7 +15,7 @@
 
 ## Créer le fichier PDF à envoyer à BizTax
 - Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
-- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le NextCloud > Administrative > Compta > template-bilan-biztax.odt)
+- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le [NextCloud](https://files.neutrinet.be) > Administrative > Compta > template-bilan-biztax.odt)
 - Générer un PDF
 - Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
 
