@@ -20,34 +20,34 @@ Actuellement voici la liste des memnbres qui ont un acces au serveur :
 
 ## Présentation matterielle
 
-* [Notre hebergeur i3D](physical/i3d)
-* [Le serveur Troll](physical/troll)
-* [Le serveur Orval](physical/orval)
-* [Le serveur Comptoir](physical/comptoir)
+* [Notre hebergeur i3D](infra/physical/i3d)
+* [Le serveur Troll](infra/physical/troll)
+* [Le serveur Orval](infra/physical/orval)
+* [Le serveur Comptoir](infra/physical/comptoir)
 
 ## Présentation des vm
 Specifique au routage
-* [gw](vms/gw)
-* [vpn](vms/vpn)
+* [gw](infra/vms/gw)
+* [vpn](infra/vms/vpn)
 
 Specifique au service
-* [web](vms/web)
-* [mail](vms/mail)
-* [dns](vms/dns)
-* [support](vms/support)
+* [web](infra/vms/web)
+* [mail](infra/vms/mail)
+* [dns](infra/vms/dns)
+* [support](infra/vms/support)
 
 Specifique pour les admin sys
-* [monitor](vms/monitor)
+* [monitor](infra/vms/monitor)
 
 ## Subtilités logicielles
-* [Ansible](software/ansible)
-* [ldap](software/ldap)
-* [isp-ng](software/ispng)
-* [Nos carte ipmi](software/ipmiview)
+* [Ansible](infra/software/ansible)
+* [ldap](infra/software/ldap)
+* [isp-ng](infra/software/ispng)
+* [Nos carte ipmi](infra/software/ipmiview)
 
 ## Le reseau
-* [Routage](network/routage)
-* [Ip utiliser](network/ips)
+* [Routage](infra/network/routage)
+* [Ip utiliser](infra/network/ips)
 
 ## Cannaux de communication
 
