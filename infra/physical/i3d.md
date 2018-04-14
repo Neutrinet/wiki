@@ -30,5 +30,18 @@ C'est loin, tres loin mais avant de partir il faut s'assurer :
 Comter une semaine pour que vous soyer authoriser.
 Il faut ce rendre dans l'interface d'i3d et faire une demande au support avec copie de la CI et du permit
 
+## Sur place
+Une fois que vous avez passé la grille d'entrée il faut ce présenter au garde qui ce trouve à coté des barriere.
+Vous présenté vos papier d'identité et il vous remmetra une carte d'acces.
+Ensuite vous préner la permiere à gauche pour arriver sur le parking du DC.
+
+Une fois dans le DC on sais acceder à notre baie via la porte n° 8 ou 11. Notre baie ce trouve à l'enplacement : 
+
+Une ecrant clavier sur roue ce balade dans le dc, trouver le et vous serai en mesure de voire la matrice.
+
+Le mots de passe du wifi est : 
+
+Penser à vous idrater ^^ un distributeur ce trouve à l'entré du dc ainsi qu'une table et des chaises.
+
 # Le support
 Il est possible de demander des intervention au support. Il est préferable d'ouvrire le ticket puis de ce rendre sur le webchat.
