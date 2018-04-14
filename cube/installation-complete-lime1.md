@@ -32,6 +32,8 @@ Image de https://repo.labriqueinter.net/  : labriqueinternet_A20LIME_latest_jess
 ## carte microSD 
 ±4 minutes
 
+:books: En suivant [ce guide](https://wiki.neutrinet.be/cube/install)
+
 12h50 : début install carte SD
 12h51 : ./install-sd.sh -s /dev/sdb -f labriqueinternet_A20LIME_latest_jessie.img.tar.xz -g labriqueinternet_A20LIME_latest_jessie.img.tar.xz.asc
 12h54 : done
@@ -46,6 +48,8 @@ Jusqu'à ce qu'elle soit prête pour un post_install : ±8 minutes
 
 ## création compte VPN 
 Pour Netrinet via https://api.neutrinet.be/ : ±8 minutes
+
+:books: En suivant [ce guide](https://wiki.neutrinet.be/vpn/commander)
 
 13h52 : début enregistrement compte VPN pour le membre
 14h00 : compte créé, fichiers contenant les certificats téléchargés
