@@ -3,7 +3,7 @@
 
 # Résumé :
 
-* enregistrement du nom de domaine chez Gandi : ± 4 minutes (mais en version cochon, sans changer le propriétaire, j'ai oublié comme un con)
+* enregistrement du nom de domaine chez Gandi : ± 4 minutes
 * déballage + montage : ± 4 minutes
 * carte SD : ±4 minutes
 * premier boot -> prête pour un post_install : ±8 minutes
@@ -15,13 +15,16 @@
 
 # Détails
 
-
 ```text
 Lime1, 16Gb, Wifi Propriétaire
 Carte SD : 16Gb Kingston Industrial SDHC Class 10 UHS Class 1
 Image de https://repo.labriqueinter.net/  : labriqueinternet_A20LIME_latest_jessie.img.tar.xz   388M 2017-Sep-06 11:48
 ```
 
+## nom de domaine
+±4 minutes en version cochon, sans changer le propriétaire, un peu plus long en y faisant attention.
+
+Ça se fait sur notre compte chez [Gamdi.net](http://gandi.net/)
 
 ## déballage & montage 
 ± 4 minutes
