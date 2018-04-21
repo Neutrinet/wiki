@@ -6,8 +6,8 @@ You wish to exlpore the pleasures of the self hosting based on some fair price *
 Having your own micro server at home is feasable (feasable ... not *magicaly feasable* :P ).
 Enroll in a delicious learning curve of the free and open source world en [order your own cube](https://admin.neutrinet.be/) (page in french, if you need help please [contact](contact) us).
 
-:books: Do not hesitate to have a look on `hub cube` section in our [documentation](all).
-:books: Or the original project page [here](https://wiki.labriqueinter.net/doku.php).
+:information_source: This page is **the hub cube dedicated page**, to have a look on all other pages about the cube, have a look at `hub-cube` in our [documentation](all).
+:information_source: There are also usefull ressources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
 
 ## join the hub cube
 
@@ -19,12 +19,14 @@ It includes the orders follow-up (in collaboration with the [hub admin](administ
 * Compétences requises : patience, resourcefulness and desire to discover [Yunohost](https://yunohost.org) and the [internet cube](https://internetcu.be/)
 * Useful knowledge: GNU/Linux administration (terminal), bug reporting, searching forums, python/django. 
 # Français
+:calendar: Jetez un coup d'œil à notre [agenda](agenda) pour les rencontres et autre évènements.
+
 Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
 Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
-:books: N'hésitez pas  à visiter la section `hub cube` dans notre [documentation](all).
-:books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
+:information_source: Cette page est la **page dédiée du hub cube**, pour voir **les autres pages**, merci de visiter la section `hub-cube` dans notre [documentation](all).
+:information_source: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
 
 ## rejoindre le hub cube
 
