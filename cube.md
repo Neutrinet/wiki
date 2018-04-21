@@ -2,12 +2,40 @@
 <!-- SUBTITLE: Brique Internet, Cube, InternetBrik, Da Kub, ... -->
 
 # English
+:information_source: This is **the hub cube dedicated page**, to have a look on all other pages about this hub, have a look at `hub-cube` in our [documentation](all).
+:calendar: Have a look at our [agenda](agenda) for meetings and events.
+
 You wish to exlpore the pleasures of the self hosting based on some fair price **libre hardware**?
 Having your own micro server at home is feasable (feasable ... not *magicaly feasable* :P ).
 Enroll in a delicious learning curve of the free and open source world en [order your own cube](https://admin.neutrinet.be/) (page in french, if you need help please [contact](contact) us).
 
-:information_source: This page is **the hub cube dedicated page**, to have a look on all other pages about the cube, have a look at `hub-cube` in our [documentation](all).
-:information_source: There are also usefull ressources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
+:books: There are also usefull ressources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
+
+## Activities
+
+Group orders
+
+* follow orders placed on our [back office](https://admin.neutrinet.be/admin)
+* send emails using our [support](https://beta-support.neutrinet.be)
+* actually make the order (it more complicated than expected) on Olimex and other dealer for the microSD
+* receive the order (thanks modern delivery societies, this isn't has obvious has it can be sometime ...)
+
+Cube installation
+
+* generating certificats for everyone (python script, can be touchy)
+* make the installation, this include quite a lot of discussion and explanation while the installation part should be working out of the box
+* meet the member, either at 123 or at your place
+* debugging if needed ...
+
+Communication
+* information people that their order is here and how they can get it
+* send reminder regarding this
+
+Support
+* answer to emails
+* communicate with yunohost dev team and put bugs on dev.yunohost.org if needed
+* be there during the 3rd sunday of the month at 123 rue royale for support
+* share knowledge of how you've fixed stuff
 
 ## join the hub cube
 
@@ -18,101 +46,6 @@ It includes the orders follow-up (in collaboration with the [hub admin](administ
 * Required skills : patience, 
 * Compétences requises : patience, resourcefulness and desire to discover [Yunohost](https://yunohost.org) and the [internet cube](https://internetcu.be/)
 * Useful knowledge: GNU/Linux administration (terminal), bug reporting, searching forums, python/django. 
-# Français
-:calendar: Jetez un coup d'œil à notre [agenda](agenda) pour les rencontres et autre évènements.
-
-Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
-Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
-Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
-
-:information_source: Cette page est la **page dédiée du hub cube**, pour voir **les autres pages**, merci de visiter la section `hub-cube` dans notre [documentation](all).
-:information_source: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
-
-## rejoindre le hub cube
-
-Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
-Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
-
-* Personne de contact : tierce
-* Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
-* Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django.
-# Nederlands
-Te doen
-
-# To review
-:warning:  **OUTDATED - À RELIRE** :warning: 
-
-* Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-cube-hub
-* Qui est devenu la page : https://neutrinet.be/hubs/internet_cube.html
-
-Objective: providing the possibility for our (future) members to end up in a possession of a running Internet Cube and try to keep this state as long as the member wants it (aka "support")
-Needed knowledge: about half of the job is stock management (handling orders, ordering, assembling packs), so no absolutly needed knowledge
-Good to have knowledge:
-
-* how to talk about the project, answering common questions
-* for installation: linux sysadmin skill (basic, like using a shell + finding a device on a network)
-* know the common bugs and how to fix it or who to reach
-* for backoffice developpement python/django
-
-## Active people
-
-* Sombrefay - installation, logistic
-* Bram - coordinator]/logistic, support
-* Thomas - installation
-* Quentin - support
-* Denis - 3rd sunday
-* Tharyrok - support
-
-## Activities
-
-Group orders
-* collecting it and answering to questions on cube.neutrinet.be
-* making sure that questions
-* actually make the order (it more complicated than expected)
-* receiving the order (thanks modern delivery societies, this isn't has obvious has it can be sometime ...)
-	* possibility to receive cube at Denis place
-* assembling packs
-
-Communication
-* information people that their order is here and how they can get it
-* send reminder regarding this
-
-Cube installation
-* generating certificats for everyone (python script, can be touchy)
-* meeting with the member, either at 123 or at your place (like kload or sombrefay) and make the installation, this include quite a lot of discussion and explanation while the installation part should be working out of the box
-* debugging if needed ...
-* mount hdd to boot : http://neutrinet.be/index.php?title=Mount_brique
-
-Support
-* answer to emails
-* communicate with yunohost dev team and put bugs on dev.yunohost.org if needed
-* be there during the 3rd sunday of the month at 123 rue royale for support
-* share knowledge of how you've fixed stuff
-
-## Current things to do
-
-[dev] put a link in https://cube.neutrinet.be/admin to admin2 using django-admin-views
-[dev] Tharyrok : Hypercube by neutrinet -> detail on the mailing
-make a summary of our current cube situation
-* check who has paid
-* remind people that don't have them that their cube is waiting for them
-* since we were so slow we probably lost interest of some people in the mean time :( (haven't paid and won't)
-explore a solution to avoid this awefully long delay for cube ordering
-Tharyrok/Bram: fix http://support.neutrinet.be (switch to OsTicket)
-on admin2 of cube.neutrinet.be
-* list every perso that still needs to get their cube
-* same for paying
-* with emails list and so one
-
-## Used tools:
-
-* cube.neutrinet.be " https://github.com/labriqueinternet
-* https://github.com/labriqueinternet/configuration_scripts/blob/master/neutrinet.sh
-* https://github.com/Neutrinet/fritedombox_tools
-* contact@neutrinet.be cube@neutrinet.be support.neutrinet.be support@neutrinet.be
-* https://github.com/Neutrinet/cubeorderinginterface/
-* irc.freenode.net#neutrinet irc.geeknode.net#labriqueinter.net
-* dev.yunohost.org
 
 ## Future things that can be done
 
@@ -125,6 +58,39 @@ on admin2 of cube.neutrinet.be
 * script to automatically change all passwords
 * work on neutrinet help center to reduce support cost and empower users
 * produce more documentation and flyer and stuff for new members
+
+## Ressources and tools
+
+* cube.neutrinet.be https://github.com/labriqueinternet
+* https://github.com/labriqueinternet/configuration_scripts/blob/master/neutrinet.sh
+* https://github.com/Neutrinet/fritedombox_tools
+* contact@neutrinet.be cube@neutrinet.be support.neutrinet.be support@neutrinet.be
+* https://github.com/Neutrinet/cubeorderinginterface/
+* irc.freenode.net#neutrinet irc.geeknode.net#labriqueinter.net
+* dev.yunohost.org
+
+# Français
+:information_source: Ceci est la **page dédiée du hub cube**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-cube` dans notre [documentation](all).
+:calendar: Jetez un coup d'œil à notre [agenda](agenda) pour les rencontres et autre évènements.
+
+Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
+Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
+Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
+
+:books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
+
+## rejoindre le hub cube
+
+Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
+Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
+
+* Personne de contact : tierce
+* Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
+* Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django.
+# Nederlands
+Te doen
+
+
 
 
 
