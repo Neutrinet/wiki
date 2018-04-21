@@ -1,7 +1,9 @@
 <!-- TITLE: Comptabilite -->
-<!-- SUBTITLE: A quick summary of Comptabilite -->
+<!-- SUBTITLE: Comptabilité, Accountancy, boekhouding -->
 
-# Comptabilité
+# English
+to do
+# Français
 ## Compte bancaire
 - https://www.homebank.recordbank.be
 - Cliquer sur "téléchargement des mouvements" (dans le menu "boule bleue avec une flèche blanche")
@@ -22,3 +24,6 @@
 ## Tâches diverses
 - mettre les factures in/out dans le NextCloud > Administrative > Compta > année
 - marquer les emails/tickets concernant les factures que l'on reçoit via le [support](https://beta-support.neutrinet.be/) comme "fermés" avec un commentaire (payé, traité, ...)
+
+# Nederlands
+to doen
