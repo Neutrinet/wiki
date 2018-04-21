@@ -6,9 +6,7 @@
 # English
 We are organized in [hubs](all) to provide you some [Net-Neutraliser™ VPN](vpn)  :heart_eyes: and tha [Internet Cabe](cube).
 
-![Neutrinettext](/uploads/neutrinettext.png "Neutrinettext"){.align-right}
-
-*The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
+> *The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 
 We are an associative belgian [ISP](https://en.wikipedia.org/wiki/Internet_service_provider). This means that we are a group of people who want to take care of our internet access.
 
@@ -20,9 +18,7 @@ Do not hesitate to [contacter](contact) us or to visit us during one of [our mee
 # Français
 Nous sommes organisé en [hubs](all) pour vous proposer du [Net-Neutraliser™ VPN](vpn) :heart_eyes:  et de la [brique Internet](cube).
 
-![Neutrinettext](/uploads/neutrinettext.png "Neutrinettext"){.align-right}
-
-*L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
+> *L'association a pour objet le maintien, le développement et la promotion de l'usage des réseaux d'échange d'information, dans le respect du principe de neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos status](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 
 Installé en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet) associatif. Cela signifie que nous sommes un groupe de personnes qui souhaite prendre soin de notre accès à Internet.
 
