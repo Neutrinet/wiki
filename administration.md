@@ -62,21 +62,20 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 ## Outils en ligne
 
 - [commandes](https://admin.neutrinet.be)
-- [suivi et administration des membres](https://admin.neutrinet.be/admin)
 - [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
 - Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 
 ## Activités
 
 Gestion de l'ASBL
--	traitement des statuts (renouvellement, modification, modification, paperasse pour cela)
+-	gestion des [statuts](administration/statuts) (renouvellement, modification, modification, paperasse pour cela)
 -	déclaration fiscale
 -	contacter les membres pour les Assemblées Générales
 
 Relation avec l'IBPT (régulateur des télécommunications de la Belgique)
 - en général, c'est répondre à un article une fois par an et payer quelques trucs une fois par an.
 
-Gestion des membres
+Gestion des [membres](https://admin.neutrinet.be/admin)
 -	tenir et mettre à jour une liste de nos membres
 -	avoir la liste de nos futurs membres (personnes qui ont reçu [un cube](cube) ou un [vpn](vpn) mais qui n'ont pas commencé à payer leur facture)
 -	vérifier qui a commencé à payer pour leur accès VPN -> ils sont maintenant membres.
@@ -85,13 +84,13 @@ Banques (nous sommes à recordbanks pour l'instant, nous étions à bpost)
 - gérer la communication avec les banques
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 
-Comptabilité
-- tenir la comptabilité
-- en théorie, la comptabilité exporter les mouvements dans admin.neutrinet.be et vérifier que tout va bien et que c'est cohérente avec la réalité.
-- l'établissement de factures
-- le stockage de toutes les factures (important !)
-
-Suivi financier
+[comptabilité](administration/comptabilité)
+- tenir les comptes à jours (le plus régulièrement possible)
+- exporter les mouvements de la banque vers la [page publique de nos comptes](https://admin.neutrinet.be/accounts/) et vérifier que tout va bien et que c'est cohérent avec la réalité.
+- l'établissement de factures via le [nextcloud](https://files.neutrinet.be)
+- la conservation de toutes les factures (important !) dans le [nextcloud](https://files.neutrinet.be)
 - être en mesure de répondre à la question "pouvons-nous nous le permettre ?
+
+
 # Nederlands
 te doen
