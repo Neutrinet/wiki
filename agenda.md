@@ -13,7 +13,7 @@
 
 - When? Thursday 15th of May at 7:30 pm
 - What? Neutrinet's members meeting, open to everybody
-- Where? 20, Belliard street, 1040 Brussels, in EDRi offices : https://osm.org/go/0EoS3yxK5?node=3396312894
+- Where? 20, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
 :books: Do not hesitate to have a look on our [meeting reports](pvs) page and the `Pvs` section in our [documentation](all).
 # Français
