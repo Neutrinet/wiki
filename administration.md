@@ -76,8 +76,8 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 -	vérifier qui a commencé à payer pour leur accès VPN -> ils sont maintenant membres.
 - code source de l'outil backoffice : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 
-**Banques **
-*(nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant)*
+**Banques**
+Nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant.
 - gérer la communication avec les banques
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 
