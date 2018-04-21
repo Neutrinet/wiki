@@ -1,6 +1,7 @@
 <!-- TITLE: hub comm -->
 <!-- SUBTITLE: Communication, communicatie, enz. -->
 
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 # English
 todo
 # Français
