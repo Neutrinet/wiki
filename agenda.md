@@ -7,7 +7,7 @@
 
 - When ? Sunday 20th of May 2018 from 2 pm to 6 pm
 - What? Install party, friendly talks, open to everybody, bring your laptops, cubes...
-- Where? 123, rue Royale, Brussels : http://osm.org/go/0EoTjMnkL?m=&node=2345001227
+- Where? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
 
 ## Third Tuesday meeting
 
@@ -21,7 +21,7 @@
 
 - Quand ? dimanche 20 mai 2018 de 14 à 18h.
 - Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
-- Où ? [123, rue Royale à Bruxelles](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
+- Où ? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
 
 
 ## Réunion du 3ème mardi
