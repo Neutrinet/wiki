@@ -1,8 +1,10 @@
 <!-- TITLE: hub admin -->
 <!-- SUBTITLE: Administration - Bestuur - Office -->
-![Adminmonkey](/uploads/adminmonkey.png "Adminmonkey"){.pagelogo}
+
 # English
-todo 
+![Adminmonkey](/uploads/adminmonkey.png "Adminmonkey"){.align-right}
+
+todo
 ## Activities
 
 ASBL handling:
