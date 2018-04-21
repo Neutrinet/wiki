@@ -105,14 +105,14 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 ## Install Party du 3ème dimanche
 
-- Quand ? dimanche 15 avril 2018 de 14 à 18h.
+- Quand ? dimanche 20 mai 2018 de 14 à 18h.
 - Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
 - Où ? [123, rue Royale à Bruxelles](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
 
 
 ## Réunion du 3ème mardi
 
-- Quand ?  mardi 17 avril 2018 à 19h30.
+- Quand ?  mardi 15 mai 2018 à 19h30.
 - Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
 - Où ? 20, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
