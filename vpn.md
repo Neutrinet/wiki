@@ -1,6 +1,7 @@
 <!-- TITLE: hub vpn -->
 <!-- SUBTITLE: Net-Neutralizer -->
 
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 # English
 :information_source: This is **the hub vpn main page**, to have a look on all other pages about this hub, have a look at `hub-vpn` in our [documentation](all).
 
