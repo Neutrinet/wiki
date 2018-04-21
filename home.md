@@ -4,7 +4,7 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
 # English
-
+todo
 # Français
 Nous sommes organisé en [hub](all) pour vous proposer du [Net-Neutraliser™ VPN](vpn) :heart_eyes:  et de la [brique Internet](cube).
 
@@ -18,36 +18,14 @@ Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nou
 
 La Fédération FDN est une fédération de fournisseurs de services Internet à but non lucratif partageant des **valeurs communes**: travail bénévole, solidaire, démocratique et à but non lucratif; défense et promotion de la neutralité du Net.
 
-## devenir membre
+N'hésitez pas à nous [contacter](contact) ou à venir [nous rencontrer](agenda)
 
-Si vous avez souscrit au service [VPN](#vpn), vous êtes déjà membre et n'avez pas besoin de payer votre cotisation séparément.
-
-Devenir membre de Neutrinet est simple : payer votre cotisation annuelle (25€ ou plus) :
-
-- à un membre de notre conseil d'administration lors d'une [réunion](#meeting)
-- à notre banque par virement bancaire et dites-le nous [par email](contact@neutrinet.be).
-
-| Coordonées bancaires | |
-|---|---|
-|Banque: |RecordBank |
-|Nom: |Neutrinet ASBL |
-|Communication: |cotisation de ... |
-|IBAN: |BE52 6528 3497 8409 |
-|BIC: |HBKABE22 |
-
-La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
-
-Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à découvrir ce que nous faisons tout en nous permettant de mieux vous connaître! :)
-
-Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
-
-![Cats](/uploads/cats.jpg "Cats"){.align-center}
 # Nederlands
 
 Te doen
 
 
-
+![Cats](/uploads/cats.jpg "Cats"){.align-center}
 
 
 
