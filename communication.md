@@ -5,7 +5,7 @@
 todo
 # Français
 
-:information_source: Ceci est la **page dédiée du hub communication**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-comm` dans notre [documentation](all).
+:information_source: Ceci est la **page dédiée du hub communication**, pour voir les autres pages de ce hub, merci de visiter la section `hub-comm` dans notre [documentation](all).
 
 Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents [hubs](all).
 
