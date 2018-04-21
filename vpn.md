@@ -1,46 +1,21 @@
 <!-- TITLE: hub vpn -->
-<!-- SUBTITLE: Commande, Infos, certificats renewal -->
-
-:information_source: Cette page est la **page dédiée du hub vpn**, pour voir **les autres pages**, merci de visiter la section `hub-vpn` dans notre [documentation](all).
-# Origine
-:warning:  **! PROPOSITION !** :warning: 
-
-En revisitant le contenu de ce wiki, j'ai constaté qu'il y avait des pages dans une section `Vpn` dans notre [documentation](all).
-
-![Neutrinetwikivpn](/uploads/neutrinetwikivpn.png "Neutrinetwikivpn")
-
-J'ai donc renomé (au travers du titre de cette page) `vpn` vers `hub vpn`, ce qui ne change rien aux urls gui restent `https://wiki.neutrinet.be/vpn` ou au dossiers sur le serveur qui reste `/vpn`.
-
-# Pourquoi ?
-
-De mon point de vue...
-
-Nous proposons 2 « produits ou services » : 
-
-* vpn 
-* cube
-
-Même si le cube fonctionne principalement sur base du vpn pour nous (Neutrinet), il peut également s'en passer.
-Le vpn quand à lui peut-être utilisé sans cube!
-
-Nous avons besoin de 3 « organes » pour mener à bien nos activités :
-
-* admin
-* comm
-* infra
-
-Nous **documentons** sur ce wiki chacun des «hubs» indépendemment sous `/vpn`, `/cube`, `/administration`, `/communication`,`/infra`.
-
-Nous **rapportons nos réunions** sur ce wiki dans `/pvs` puisqu'ils sont:
-
-* souvent associés a des réunions des membres qui sont actifs dans plusieurs hubs (donc le contenu « parle » des différents hubs),
-* parfois propre à un hub,
-* parfois associés à une journée commune,
-* une fois par an associé à l'AG.
+<!-- SUBTITLE: Net-Neutralizer -->
 
 # English
-To do
+Trapped on a non-neutral Internet connection?
+Want **your public IP address** but your provider won't give you one?
+Neutrinet has the solution for you!
+
+[Get](vpn/order) Get your own Net-Neutralizer™ VPN connection with your own public IP space for 8€/month! (libre price and become a Neutrinet membre in the same time).
+
+:books: Do not hesitate to have a look on the `hub vpn` section in our [documentation](all).
 # Français
-À faire
+Prisonnier d'une connexion Internet non neutre?
+Vous voulez **votre adresse IP publique** mais votre fournisseur ne vous en donnera pas?
+Neutrinet a la solution pour vous!
+
+[Commandez](vpn/commander) votre propre connexion VPN  Net-Neutralizer™ avec votre propre IP publique à prix libre (8€/mois conseillé, et devenir membre de Neutrinet par la même ocasion)!
+
+:books: N'hésitez pas  à visiter la section `hub vpn` dans notre [documentation](all).
 # Nederlands
 Te doen
