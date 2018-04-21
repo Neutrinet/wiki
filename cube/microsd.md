@@ -50,4 +50,6 @@ Ce qui copiera votre clone.img.gz sur une nuvelle carte.
 
 Source : https://serverfault.com/questions/4906/using-dd-for-disk-cloning
 
+:warning: Si votre nouvelle carte est plus petite, même de quelques Mb que la carte d'origine, il faudra [réduire la taille (en)](http://www.aoakley.com/articles/2015-10-09-resizing-sd-images.php) du clone.
+
 # Nederlands
