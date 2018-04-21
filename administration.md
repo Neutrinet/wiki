@@ -6,27 +6,32 @@ todo
 ## Activities
 
 ASBL handling:
-		statuts handling (renewal, modification, paperwork for that)
-		fiscal declaration
-		contacting every one for the AG
-relation with IBPT (telecom regulator of Belgium)
-		generally that's basically answer a paper once per year and pay some stuff once per year
+-	statuts handling (renewal, modification, paperwork for that)
+-	fiscal declaration
+-	contacting every one for the AG
+
+Relation with IBPT (telecom regulator of Belgium)
+-	generally that's basically answer a paper once per year and pay some stuff once per year
+
 Members management
-		hold and update a list of our members
-		have the list of our future members (people that have received a cube but who hasn't started to pay their bill)
-		check who has started paying for their VPN access -> they are now a member
+-	hold and update a list of our members
+-	have the list of our future members (people that have received a cube but who hasn't started to pay their bill)
+-	check who has started paying for their VPN access -> they are now a member
+
 Banks (we are at recordbanks for now, we used to be at bpost)
-		handle communication with banks
-		have access to the bank account for paying stuff and refund members that have used their money for that
+-	handle communication with banks
+-	have access to the bank account for paying stuff and refund members that have used their money for that
+
 Accounting
-		do it, keep it up to that
-		in theory, accounting is now only important recordbanks csv into admin.neutrinet.be and checking that everything wents fine and that it is coherent with reality
-		making bills
-		storing all the bills (important!)
+-	do it, keep it up to that
+-	in theory, accounting is now only important recordbanks csv into admin.neutrinet.be and checking that everything wents fine and that it is coherent with reality
+-	making bills
+-	storing all the bills (important!)
+
 Financial tracking
-		how much is coming in, how much is going out
-		who is paying what and how and who should be paying
-		being able to answer to the question "can we afford that?"
+-	how much is coming in, how much is going out
+-	who is paying what and how and who should be paying
+-	being able to answer to the question "can we afford that?"
 	
 # Français
 :information_source: Ceci est la **page principale du hub administratif**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-admin` dans notre [documentation](all).
@@ -78,5 +83,14 @@ Gestion des membres
 Banques (nous sommes à recordbanks pour l'instant, nous étions à bpost)
 - gérer la communication avec les banques
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
+
+Comptabilité
+- tenir la comptabilité
+- en théorie, la comptabilité exporter les mouvements dans admin.neutrinet.be et vérifier que tout va bien et que c'est cohérente avec la réalité.
+- l'établissement de factures
+- le stockage de toutes les factures (important !)
+
+Suivi financier
+- être en mesure de répondre à la question "pouvons-nous nous le permettre ?
 # Nederlands
 te doen
