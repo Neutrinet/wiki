@@ -1,6 +1,7 @@
 <!-- TITLE: hub cube -->
 <!-- SUBTITLE: Brique Internet, Cube, InternetBrik, Da Kub, ... -->
 
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 # English
 :information_source: This is **the hub cube dedicated page**, to have a look on all other pages about this hub, have a look at `hub-cube` in our [documentation](all).
 :calendar: Have a look at our [agenda](agenda) for meetings and events.
