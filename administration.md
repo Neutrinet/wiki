@@ -59,38 +59,37 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 - Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
 
-## Outils en ligne
-
-- [commandes](https://admin.neutrinet.be)
-- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
-- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
-
 ## Activités
 
-Gestion de l'ASBL
+**Gestion de l'ASBL**
+
 -	gestion des [statuts](administration/statuts) (renouvellement, modification, modification, paperasse pour cela)
 -	déclaration fiscale
 -	contacter les membres pour les Assemblées Générales
 
-Relation avec l'IBPT (régulateur des télécommunications de la Belgique)
-- en général, c'est répondre à un article une fois par an et payer quelques trucs une fois par an.
+**Relation avec l'[IBPT](http://www.ibpt.be/)** 
+- en général, c'est répondre à un mail une fois par an et payer quelques trucs une fois par an.
 
-Gestion des [membres](https://admin.neutrinet.be/admin)
+**Gestion des [membres](https://admin.neutrinet.be/admin)**
 -	tenir et mettre à jour une liste de nos membres
 -	avoir la liste de nos futurs membres (personnes qui ont reçu [un cube](cube) ou un [vpn](vpn) mais qui n'ont pas commencé à payer leur facture)
 -	vérifier qui a commencé à payer pour leur accès VPN -> ils sont maintenant membres.
+- code source de l'outil backoffice : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 
-Banques (nous sommes à recordbanks pour l'instant, nous étions à bpost)
+**Banques **
+*(nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant)*
 - gérer la communication avec les banques
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 
-[comptabilité](administration/comptabilité)
-- tenir les comptes à jours (le plus régulièrement possible)
+**Comptabilité**
+- tenir la [comptabilité](administration/comptabilité) à jours (le plus régulièrement possible)
 - exporter les mouvements de la banque vers la [page publique de nos comptes](https://admin.neutrinet.be/accounts/) et vérifier que tout va bien et que c'est cohérent avec la réalité.
 - l'établissement de factures via le [nextcloud](https://files.neutrinet.be)
 - la conservation de toutes les factures (important !) dans le [nextcloud](https://files.neutrinet.be)
 - être en mesure de répondre à la question "pouvons-nous nous le permettre ?
 
+**Noms de domaines**
+- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
 
 # Nederlands
 te doen
