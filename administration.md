@@ -2,60 +2,7 @@
 <!-- SUBTITLE: Administration - Bestuur - Office -->
 
 # English
-to do
-
-# Français
-:information_source: Cette page est la **page dédiée du hub administratif**, pour voir **les autres pages**, merci de visiter la section `hub-admin` dans notre [documentation](all).
-
-Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
-
-* Personne de contact : à définir
-* Compétences requises : gestion, bureautique, rigueur, ponctualité
-* Connaissances utiles : comptabilité, python/django
-
-## devenir membre
-
-Si vous avez un abonnement à notre [VPN](vpn) et que vous nous versez une contribution vous êtes considéré comme un membre de Neutrinet.
-
-C'est ce qui a été convenu lors de [cette réunion du 24 février 2018](https://wiki.neutrinet.be/pvs/2018/02-24#quest-ce-quun-membre-neutrinet-en-2018)
-
-La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
-
-Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à [découvrir ce que nous faisons](agenda) tout en nous permettant de mieux vous connaître! :)
-
-Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
-
-## Cannaux de communication
-
-- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
-
-## Outils en ligne
-
-- [commandes](https://admin.neutrinet.be)
-- [suivi et administration des membres](https://admin.neutrinet.be/admin)
-- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
-- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
-
-# Nederlands
-te doen
-# To review
-:warning:  **OUTDATED - À RELIRE** :warning: 
-
-* Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-administrative-hub
-* Qui est devenu la page : https://neutrinet.be/hubs/administrative.html
-
-Objective: handle everything related to administrative task and things that support those actions
-Needed knowledge: there is not absolutly needed at all knowledge to act in this hub
-Good to have knowledge: ASBL/VZW related knowledge, accounting (basic), maybe a bit a law knowledge, how bank and administration works in generale, for backoffice tools development python/django
-
-## Active people:
-
-* Denis
-* Sombrefay - treasurer
-* Quentin
-* Bram - coordinator/dev
-* Thomas
-
+todo 
 ## Activities
 
 ASBL handling:
@@ -80,44 +27,56 @@ Financial tracking
 		how much is coming in, how much is going out
 		who is paying what and how and who should be paying
 		being able to answer to the question "can we afford that?"
+	
+# Français
+:information_source: Ceci est la **page principale du hub administratif**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-admin` dans notre [documentation](all).
 
-## Used tools
+Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
-dropbox (yeah ...)
-admin.neutrinet.be (accounting, member management)
-billy script
-pv.neutrinet.be
+* Personne de contact : à définir
+* Compétences requises : gestion, bureautique, rigueur, ponctualité
+* Connaissances utiles : comptabilité, python/django
 
-## Current things to do
+## Devenir membre de Neutrinet
 
-answer to IBPT email received on the 18/3
-update member listing with recents cube ordering
-ask members that don't have a VPN connection for their cotisation
-update the financial planning/status
-update our accounting to match reality in our new tool (once this is done we will have public accounting)
-Thomas: uses https://github.com/frankwiles/django-admin-views to put link into https://admin.neutrinet.be/admin/ to https://admin.neutrinet.be/accounts/ and https://admin.neutrinet.be/accounts/uploadrecordbank_csv/
-Bram history of modification of the bank movement by user
-link transfer bank to user membre
-port the user diff for bank movements
-explore the possibility of another bank that don't stupidly block our account
-		triodos?
-		newb?
-		keytrade?
-		other?
-repay Bram for the latest orders done by his account (and the fine)
-it would be great to have a calendar for Neutrinet (export caldav/ics)
-AurÃ©lien: centralize informations on how to communicate between each other (include pgp keys)
+Si vous avez un abonnement à notre [VPN](vpn) et que vous nous versez une contribution vous êtes considéré comme un membre de Neutrinet.
 
-## Future things that can be done
+C'est ce qui a été convenu lors de [cette réunion du 24 février 2018](https://wiki.neutrinet.be/pvs/2018/02-24#quest-ce-quun-membre-neutrinet-en-2018)
 
-go away from dropbox to use the Owncloud already deployed by Wannes
-switch to an open pricing for cotisation
-improve backoffice tools
-automatised all the things
-open a plan B bank account (keytrade ?)
-get a VISA card
-have a public accounting
+La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
 
+Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à [découvrir ce que nous faisons](agenda) tout en nous permettant de mieux vous connaître! :)
 
+Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
+
+## Cannaux de communication
+
+- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
+
+## Outils en ligne
+
+- [commandes](https://admin.neutrinet.be)
+- [suivi et administration des membres](https://admin.neutrinet.be/admin)
+- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
+- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
+
+## Activités
+
+Gestion de l'ASBL
+-	traitement des statuts (renouvellement, modification, modification, paperasse pour cela)
+-	déclaration fiscale
+-	contacter les membres pour les Assemblées Générales
+
+Relation avec l'IBPT (régulateur des télécommunications de la Belgique)
+- en général, c'est répondre à un article une fois par an et payer quelques trucs une fois par an.
+
+Gestion des membres
+-	tenir et mettre à jour une liste de nos membres
+-	avoir la liste de nos futurs membres (personnes qui ont reçu [un cube](cube) ou un [vpn](vpn) mais qui n'ont pas commencé à payer leur facture)
+-	vérifier qui a commencé à payer pour leur accès VPN -> ils sont maintenant membres.
+
+Banques (nous sommes à recordbanks pour l'instant, nous étions à bpost)
+- gérer la communication avec les banques
+- avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 # Nederlands
-Te doen
+te doen
