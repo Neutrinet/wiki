@@ -1,8 +1,19 @@
 <!-- TITLE: hub comm -->
-<!-- SUBTITLE: Faire circuler l'info & promouvoir Neutrinet -->
+<!-- SUBTITLE: Communication, communicatie, enz. -->
+
+# English
+todo
+# Français
+
+Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents [hubs](all).
+
+* Personne de contact : Emmanuel
+* Compétence requises : outil de communication, relationnel, agenda(s)
+* Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
 :information_source: Cette page est la **page dédiée du hub communication**, pour voir **les autres pages**, merci de visiter la section `hub-comm` dans notre [documentation](all).
-# Sur la brique
+
+## Sur la brique
 ![Labriqueinter Net](/uploads/labriqueinter-net.png "Labriqueinter Net"){.align-right}
 https://labriqueinter.net/ | https://internetcu.be/
 
@@ -17,7 +28,7 @@ https://labriqueinter.net/ | https://internetcu.be/
 
 - [Pad brique-formation](https://pad.lqdn.fr/p/brique-formation)
 
-# Sur Yunohost
+## Sur Yunohost
 ![Yunohost](/uploads/yunohost.png "Yunohost"){.align-right}
 https://yunohost.org/
 
@@ -25,23 +36,26 @@ https://yunohost.org/
 
 - Présentation à PSES 2017 : [WEBM](http://data.passageenseine.org/2017/aleks-ljf_internet-futur-yunohost.webm) + [PDF](http://data.passageenseine.org/2017/aleks-ljf_internet-futur-yunohost.pdf)
 
-# Sur la FFDN
+## Sur la FFDN
 ![Logo Ffdn 0](/uploads/logo-ffdn-0.png "Logo Ffdn 0"){.align-right}
 https://www.ffdn.org/
 
 - Présentation au [Fosdem 2017](https://video.fosdem.org/2017/AW1.125/) : [MP4](https://video.fosdem.org/2017/AW1.125/ffdn.mp4) | [WEBM (VP8)](https://video.fosdem.org/2017/AW1.125/ffdn.vp8.webm)
 - Voir aussi : https://media.ffdn.org/
 
-# Sur le Do It Yourself
+## Sur le Do It Yourself
 
 - [Do-It-Yourself Internet Service Providers](https://diyisp.org)
 
-# Ressources
+## Ressources
 
 * Sur le [Nextcloud](https://files.neutrinet.be/s/xGAQCAMRK229H2g)
 
-# Canaux de communication
+## Canaux de communication
 
 * [mailing liste](mailto:neutrinet@lists.entransition.be)
 * [irc](https://webchat.freenode.net/?channels=neutrinet)
 * [mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-communication) (Sur invitation pour le moment)
+
+# Nederlands
+te doen
