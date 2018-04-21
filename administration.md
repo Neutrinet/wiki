@@ -34,7 +34,7 @@ Financial tracking
 -	being able to answer to the question "can we afford that?"
 	
 # Français
-:information_source: Ceci est la **page principale du hub administratif**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-admin` dans notre [documentation](all).
+:information_source: Ceci est la **page principale du hub administratif**, pour voir les autres pages de ce hub, merci de visiter la section `hub-admin` dans notre [documentation](all).
 
 Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
 
