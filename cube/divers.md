@@ -10,12 +10,6 @@
 * [un pad étendu sur la brique](https://pad.lqdn.fr/p/brique-formation)
 
 
-# Se connecter avec un câble série
-
-- ordre pins, en partant du connecteur ethernet: bleu, rouge, vert (ou noir, vert, blanc pour le connecteur à 4 broches)
-- sudo screen /dev/ttyUSB0 115200
-- connecter en tant que root
-
 # Monter un disque dur externe
 
 - trouver l'UUID de votre disque, connecter le disque puis: `ls /dev/disk/by-uuid/` 
