@@ -1,5 +1,5 @@
 <!-- TITLE: Neutrinet asbl -->
-<!-- SUBTITLE: Fournisseur associatif d'accès à Internet.-->
+<!-- SUBTITLE: FAI Associatif, Non profit ISP, Associatieve internetprovider-->
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
