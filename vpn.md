@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Net-Neutralizer -->
 
 # English
-:information_source: This is **the hub vpn dedicated page**, to have a look on all other pages about this hub, have a look at `hub-vpn` in our [documentation](all).
+:information_source: This is **the hub vpn main page**, to have a look on all other pages about this hub, have a look at `hub-vpn` in our [documentation](all).
 
 Trapped on a non-neutral Internet connection?
 Want **your public IP address** but your provider won't give you one?
