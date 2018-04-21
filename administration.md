@@ -1,9 +1,8 @@
 <!-- TITLE: hub admin -->
 <!-- SUBTITLE: Administration - Bestuur - Office -->
 
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 # English
-![Adminmonkey](/uploads/adminmonkey.png "Adminmonkey"){.align-right}
-
 todo
 ## Activities
 
