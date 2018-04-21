@@ -1,15 +1,36 @@
 <!-- TITLE: hub admin -->
 <!-- SUBTITLE: Administration - Bestuur - Office -->
 
+# English
+to do
+
+# Français
 :information_source: Cette page est la **page dédiée du hub administratif**, pour voir **les autres pages**, merci de visiter la section `hub-admin` dans notre [documentation](all).
-# Origine
+
+Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
+
+* Personne de contact : à définir
+* Compétences requises : gestion, bureautique, rigueur, ponctualité
+* Connaissances utiles : comptabilité, python/django
+
+## Cannaux de communication
+
+- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
+
+## Outils en ligne
+
+- [commandes](https://admin.neutrinet.be)
+- [suivi et administration des membres](https://admin.neutrinet.be/admin)
+- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
+- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
+
+# Nederlands
+te doen
+# To review
 :warning:  **OUTDATED - À RELIRE** :warning: 
 
 * Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-administrative-hub
 * Qui est devenu la page : https://neutrinet.be/hubs/administrative.html
-
-# English
-:warning:  **OUTDATED - À RELIRE** :warning: 
 
 Objective: handle everything related to administrative task and things that support those actions
 Needed knowledge: there is not absolutly needed at all knowledge to act in this hub
@@ -85,16 +106,6 @@ open a plan B bank account (keytrade ?)
 get a VISA card
 have a public accounting
 
-# Français
-## Cannaux de communication
 
-- Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
-
-## Outils en ligne
-
-- [commandes](https://admin.neutrinet.be)
-- [suivi et administration des membres](https://admin.neutrinet.be/admin)
-- [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
-- Codes source : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 # Nederlands
 Te doen
