@@ -38,10 +38,16 @@ Cloner une carte vers un ficier compressé
 
 `$ lsblk`
 
-par exemple : /dev/mmcblk0
+Par exemple : /dev/mmcblk0
 
-`$ sudo dd if=/dev/mmcblk0 | gzip -c  > /image.img.gz`
+`$ sudo dd if=/dev/mmcblk0 | gzip -c  > clone.img.gz`
 
+Ce qui créera un fichier clone.img.gz dans le dossier courrant.
+
+`gunzip -c clone.img.gz | dd of=/dev/mmcblk0`
+
+Ce qui copiera votre clone.img.gz sur une nuvelle carte.
 
 Source : https://serverfault.com/questions/4906/using-dd-for-disk-cloning
+
 # Nederlands
