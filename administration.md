@@ -78,6 +78,7 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 **Banques**
 Nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant.
+- n° de compte repris sur la page [contact](contact).
 - gérer la communication avec les banques
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 
