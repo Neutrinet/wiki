@@ -1,15 +1,30 @@
 <!-- TITLE: hub cube -->
-<!-- SUBTITLE: Infos en vrac, à étoffer ou à ranger sur la brique Internet -->
+<!-- SUBTITLE: Brique Internet, Cube, InternetBrik, Da Kub, ... -->
 
-:information_source: Cette page est la **page dédiée du hub cube**, pour voir **les autres pages**, merci de visiter la section `hub-cube` dans notre [documentation](all).
-# Origine
+# English
+You wish to exlpore the pleasures of the self hosting based on some fair price **libre hardware**?
+Having your own micro server at home is feasable (feasable ... not *magicaly feasable* :P ).
+Enroll in a delicious learning curve of the free and open source world en [order your own cube](https://admin.neutrinet.be/) (page in french, if you need help please [contact](contact) us).
+
+:books: Do not hesitate to have a look on `hub cube` section in our [documentation](all).
+:books: Or the original project page [here](https://wiki.labriqueinter.net/doku.php).
+
+# Français
+Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
+Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
+Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
+
+:books: N'hésitez pas  à visiter la section `hub cube` dans notre [documentation](all).
+:books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
+
+# Nederlands
+Te doen
+
+# To review
 :warning:  **OUTDATED - À RELIRE** :warning: 
 
 * Le pad de mars 2016 : https://pad.lqdn.fr/p/neutrinet-cube-hub
 * Qui est devenu la page : https://neutrinet.be/hubs/internet_cube.html
-
-# English
-:warning:  **OUTDATED - À RELIRE** :warning: 
 
 Objective: providing the possibility for our (future) members to end up in a possession of a running Internet Cube and try to keep this state as long as the member wants it (aka "support")
 Needed knowledge: about half of the job is stock management (handling orders, ordering, assembling packs), so no absolutly needed knowledge
@@ -92,11 +107,5 @@ on admin2 of cube.neutrinet.be
 * work on neutrinet help center to reduce support cost and empower users
 * produce more documentation and flyer and stuff for new members
 
-# Français
-## Cannal de communication
-
-* Sur invitation : [sur mattermost - restreint](https://chat.neutrinet.be/neutrinet/channels/hub-cube)
 
 
-# Nederlands
-Te doen
