@@ -13,6 +13,18 @@ Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banqu
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
 * Connaissances utiles : comptabilité, python/django
 
+## devenir membre
+
+Si vous avez un abonnement à notre [VPN](vpn) et que vous nous versez une contribution vous êtes considéré comme un membre de Neutrinet.
+
+C'est ce qui a été convenu lors de [cette réunion du 24 février 2018](https://wiki.neutrinet.be/pvs/2018/02-24#quest-ce-quun-membre-neutrinet-en-2018)
+
+La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
+
+Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à [découvrir ce que nous faisons](agenda) tout en nous permettant de mieux vous connaître! :)
+
+Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
+
 ## Cannaux de communication
 
 - Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
