@@ -5,13 +5,13 @@
 todo
 # Français
 
+:information_source: Ceci est la **page dédiée du hub communication**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-comm` dans notre [documentation](all).
+
 Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents [hubs](all).
 
 * Personne de contact : Emmanuel
 * Compétence requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
-
-:information_source: Cette page est la **page dédiée du hub communication**, pour voir **les autres pages**, merci de visiter la section `hub-comm` dans notre [documentation](all).
 
 ## Sur la brique
 ![Labriqueinter Net](/uploads/labriqueinter-net.png "Labriqueinter Net"){.align-right}
