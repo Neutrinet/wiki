@@ -1,5 +1,5 @@
 <!-- TITLE: Contact -->
-<!-- SUBTITLE: A quick summary of Contact -->
+<!-- SUBTITLE: Reach us, nous joindre, contacteer ons -->
 
 # English
 - Come to meet us [during on of our meetings](agenda)
