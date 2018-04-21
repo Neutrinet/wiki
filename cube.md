@@ -9,6 +9,15 @@ Enroll in a delicious learning curve of the free and open source world en [order
 :books: Do not hesitate to have a look on `hub cube` section in our [documentation](all).
 :books: Or the original project page [here](https://wiki.labriqueinter.net/doku.php).
 
+## join the hub cube
+
+Take care of the research, set-up, maintenance and support of the [internet cube](https://internetcu.be/) for the Neutrinet members.
+It includes the orders follow-up (in collaboration with the [hub admin](administration)) and maybe a little bit of [communication](communication).
+
+* Key player(s) : tierce
+* Required skills : patience, 
+* Compétences requises : patience, resourcefulness and desire to discover [Yunohost](https://yunohost.org) and the [internet cube](https://internetcu.be/)
+* Useful knowledge: GNU/Linux administration (terminal), bug reporting, searching forums, python/django. 
 # Français
 Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
 Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
@@ -17,6 +26,14 @@ Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [comm
 :books: N'hésitez pas  à visiter la section `hub cube` dans notre [documentation](all).
 :books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
 
+## rejoindre le hub cube
+
+Prendre en charge la recherche, la mise en route et le maintien de [labriqueinter.net](http://labriqueinter.net/) pour les membres de 
+Neutrinet. Cela inclu le suivi des commandes (avec le hub-admin), la communication (avec le hub-communication) et le support.
+
+* Personne de contact : tierce
+* Compétences requises : patience, débrouillardise et envie de découvrir [Yunohost](https://yunohost.org) et [labriqueinter.net](http://labriqueinter.net/)
+* Connaissances utiles : notions d'administration de GNU/Linux (terminal), remonter des bugs, chercher sur des forums, python/django.
 # Nederlands
 Te doen
 
