@@ -27,6 +27,36 @@ $ sudo dd if=/dev/zero of=test bs=1048576 count=512
 536870912 bytes (537 MB) copied, 47.1847 s, 11.4 MB/s
 ```
 
+## Lecture seule
+
+Carte SD en lecture seule?
+
+En mettant la carte SD dans son adaptateur MicroSD to SD.
+En s'assurant que le verrou de l'adaptateur est bien sur la position déverrouillée.
+En mettant le tout dans un lecteur de carte SD sur un PC GNU/Linux.
+
+`$ lsblk`
+
+Pour retrouver la carte SD qui devrait se trouver par exemple sur /dev/mmcblk0 ou /dev/sdb.
+
+`$ sudo hdparm /dev/mmcblk0 `
+
+ou /dev/sdb ou tout autre chemin vers la carte SD
+
+Le résultat devrait renvoyer quelque chose comme ça :
+
+
+```text
+/dev/mmcblk0:
+ HDIO_DRIVE_CMD(identify) failed: Invalid argument
+ readonly      =  0 (off)
+ readahead     = 256 (on)
+ geometry      = 490976/4/16, sectors = 31422464, start = 0
+```
+
+
+Et si readonly = 1(on) apparaît ... ça veut dire que la carte est en LECTURE SEULE ce qui la rend inexploitable.  Les données n'étant pas perdues elles pourront être lue et recopiées si nécessaire, voir [clonée](#cloner)
+
 ## Cloner
 
 Cloner une carte vers un ficier compressé
@@ -51,5 +81,6 @@ Ce qui copiera votre clone.img.gz sur une nuvelle carte.
 Source : https://serverfault.com/questions/4906/using-dd-for-disk-cloning
 
 :warning: Si votre nouvelle carte est plus petite, même de quelques Mb que la carte d'origine, il faudra [réduire la taille (en)](http://www.aoakley.com/articles/2015-10-09-resizing-sd-images.php) du clone.
+
 
 # Nederlands
