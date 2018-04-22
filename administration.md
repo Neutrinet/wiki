@@ -9,7 +9,7 @@ todo
 ASBL handling:
 -	statuts handling (renewal, modification, paperwork for that)
 -	fiscal declaration
--	contacting every one for the AG
+-	contacting everyone for the AG
 
 Relation with IBPT (telecom regulator of Belgium)
 -	generally that's basically answer a paper once per year and pay some stuff once per year
@@ -37,7 +37,7 @@ Financial tracking
 # Français
 :information_source: Ceci est la **page principale du hub administratif**, pour voir les autres pages de ce hub, merci de visiter la section `hub-admin` dans notre [documentation](all).
 
-Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banque, ...) et *proactif* (gestion des membres, finance, AG, ...) et les outils qui vont avec.
+Prendre en charge le travail administratif *réactif* (comptabilité, ASBL, banque...) et *proactif* (gestion des membres, finance, AG...) et les outils qui vont avec.
 
 * Personne de contact : à définir
 * Compétences requises : gestion, bureautique, rigueur, ponctualité
@@ -45,17 +45,17 @@ Prendre en charge le travail administratif *reactif* (comptabilité, ASBL, banqu
 
 ## Devenir membre de Neutrinet
 
-Si vous avez un abonnement à notre [VPN](vpn) et que vous nous versez une contribution vous êtes considéré comme un membre de Neutrinet.
+Si vous avez un abonnement à notre [VPN](vpn) et que vous nous versez une contribution, vous êtes considéré comme un membre de Neutrinet.
 
 C'est ce qui a été convenu lors de [cette réunion du 24 février 2018](https://wiki.neutrinet.be/pvs/2018/02-24#quest-ce-quun-membre-neutrinet-en-2018)
 
 La loi belge nous oblige à vous demander votre prénom, votre nom et votre adresse domiciliaire.
 
-Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à [découvrir ce que nous faisons](agenda) tout en nous permettant de mieux vous connaître! :)
+Bien que nous n'attendions pas de nouveaux membres spontanés et inconnus, nous vous recommandons de passer un peu de temps à [découvrir ce que nous faisons](agenda) tout en nous permettant de mieux vous connaître ! :)
 
 Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et participer à la vie de Neutrinet mais c'est une belle façon de nous soutenir. Il est obligatoire si vous souhaitez vous abonner à l'un de nos services.
 
-## Cannaux de communication
+## Canaux de communication
 
 - Sur invitation : [sur mattermost](https://chat.neutrinet.be/neutrinet/channels/hub-admin)
 
@@ -63,7 +63,7 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 **Gestion de l'ASBL**
 
--	gestion des [statuts](administration/statuts) (renouvellement, modification, modification, paperasse pour cela)
+-	gestion des [statuts](administration/statuts) (renouvellement, modification, paperasse pour cela)
 -	déclaration fiscale
 -	contacter les membres pour les Assemblées Générales
 
@@ -72,8 +72,8 @@ Il n'est pas obligatoire d'être membre de l'ASBL/VZW pour contribuer et partici
 
 **Gestion des [membres](https://admin.neutrinet.be/admin)**
 -	tenir et mettre à jour une liste de nos membres
--	avoir la liste de nos futurs membres (personnes qui ont reçu [un cube](cube) ou un [vpn](vpn) mais qui n'ont pas commencé à payer leur facture)
--	vérifier qui a commencé à payer pour leur accès VPN -> ils sont maintenant membres.
+-	avoir la liste de nos futurs membres (personnes qui ont reçu [une Brique](cube) ou un [VPN](vpn) mais qui n'ont pas commencé à payer leur facture)
+-	vérifier qui ont commencé à payer pour un accès VPN -> ils sont maintenant membres.
 - code source de l'outil backoffice : [backoffice (aka carnet rose)](https://github.com/Neutrinet/backoffice)
 
 **Banques**
@@ -83,11 +83,11 @@ Nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant.
 - avoir accès au compte bancaire pour payer des choses et rembourser les membres qui ont utilisé leur argent pour cela.
 
 **Comptabilité**
-- tenir la [comptabilité](administration/comptabilité) à jours (le plus régulièrement possible)
+- tenir la [comptabilité](administration/comptabilité) à jour (le plus régulièrement possible)
 - exporter les mouvements de la banque vers la [page publique de nos comptes](https://admin.neutrinet.be/accounts/) et vérifier que tout va bien et que c'est cohérent avec la réalité.
 - l'établissement de factures via le [nextcloud](https://files.neutrinet.be)
 - la conservation de toutes les factures (important !) dans le [nextcloud](https://files.neutrinet.be)
-- être en mesure de répondre à la question "pouvons-nous nous le permettre ?
+- être en mesure de répondre à la question « pouvons-nous nous le permettre » ?
 
 **Noms de domaines**
 - [gestion des noms de domaines](https://admin.gandi.net/dashboard/)
