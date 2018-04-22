@@ -11,7 +11,7 @@ todo
 Prendre en charge la promotion de Neutrinet auprès du *monde extérieur* et veiller à la bonne circulation de l'information au sein des différents [hubs](all).
 
 * Personne de contact : Emmanuel
-* Compétence requises : outil de communication, relationnel, agenda(s)
+* Compétences requises : outil de communication, relationnel, agenda(s)
 * Connaissances utiles : neutrinet, le milieux associatif, le milieu du logiciel libre et les outils & valeurs portées par l'association.
 
 ## Sur la brique
