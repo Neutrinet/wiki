@@ -3,7 +3,7 @@
 
 # English
 - Come to meet us [during on of our meetings](agenda)
-- Off course, [by email](contact@neutrinet.be).
+- Off course, [by email](mailto:contact@neutrinet.be).
 
 | Bank account details | |
 |---|---|
@@ -14,7 +14,7 @@
 |BIC: |HBKABE22 |
 # Français
 - En venant nous rencontrer [lors d'une réunions](agenda)
-- Bien entendu [par courriel](contact@neutrinet.be).
+- Bien entendu [par courriel](mailto:contact@neutrinet.be).
 
 | Coordonées bancaires | |
 |---|---|
