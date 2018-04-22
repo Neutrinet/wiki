@@ -2,46 +2,46 @@
 <!-- SUBTITLE: Notre datacenter -->
 
 # Présentation
-[I3D](https://www.i3d.net/) est la societe ou nos serveur ce trouve. Actuellement nous avons 1U à rotterdoamne.
+[I3D](https://www.i3d.net/) est la société où nos serveurs se trouvent. Actuellement, nous avons  1U à Rotterdam.
 
 # Le contrat
-Le crontrat ce trouve ici : 
+Le crontrat se trouve ici : 
 
-Mais en gros i3d nous fournis 1U avec 2 liens à 50Mbps 95% (sur le mois) et une session bgp.
+Mais, en gros, I3d nous fournit 1U avec 2 liens à 50Mbps 95 % (sur le mois) et une session BGP.
 
 # Facturation
-Il nous envoie la facture et le #hub-administratif s'occupe de la payer.
+Il nous envoit la facture et le #hub-administratif s'occupe de la payer.
 
 # Comment s'y rendre
 Van Nelleweg 1
 3044 BC Rotterdam
 Netherlands
 
-C'est loin, tres loin mais avant de partir il faut s'assurer : 
-* etre avec une personnes authoriser
-* que cette personne à sa carte d'identité/permit de conduire
+C'est loin, très loin, mais avant de partir il faut s'assurer : 
+* d'être avec une personnes autorisée
+* que cette personne aie sa carte d'identité ou son permis de conduire
 
-## qui à les acces
+## Qui a les accès ?
 * e-Jim
 * Tharyrok
 * Wannes
 
-## demande d'acces
-Comter une semaine pour que vous soyer authoriser.
-Il faut ce rendre dans l'interface d'i3d et faire une demande au support avec copie de la CI et du permit
+## Demander l'accès
+Compter une semaine pour que vous soyez autorisé.
+Il faut se rendre dans l'interface d'i3d et faire une demande au support avec copie de la carte d'identité et du permis deconduire
 
 ## Sur place
-Une fois que vous avez passé la grille d'entrée il faut ce présenter au garde qui ce trouve à coté des barriere.
-Vous présenté vos papier d'identité et il vous remmetra une carte d'acces.
-Ensuite vous préner la permiere à gauche pour arriver sur le parking du DC.
+Une fois passé la grille d'entrée, il faut se présenter au garde qui se trouve à coté des barrières. 
+Il remettra une carte d'accès sur présentation des papiers d'identités.
+Ensuite, prendre la permière à gauche pour arriver sur le parking du DC.
 
-Une fois dans le DC on sais acceder à notre baie via la porte n° 8 ou 11. Notre baie ce trouve à l'enplacement : 
+Une fois dans le DC on sait accèder à notre baie via la porte n° 8 ou 11. Notre baie se trouve à l'emplacement : 
 
-Une ecrant clavier sur roue ce balade dans le dc, trouver le et vous serai en mesure de voire la matrice.
+Une écran et clavier sur roue se baladent dans le DC, trouvez-le et vous serez en mesure de voir la matrice.
 
-Le mots de passe du wifi est : 
+Le mot de passe du WiFi est : 
 
-Penser à vous idrater ^^ un distributeur ce trouve à l'entré du dc ainsi qu'une table et des chaises.
+Pensez à vous hydrater ^^ un distributeur se trouve à l'entrée du DC ainsi qu'une table et des chaises.
 
 # Le support
-Il est possible de demander des intervention au support. Il est préferable d'ouvrire le ticket puis de ce rendre sur le webchat.
+Il est possible de demander des interventions au support. Il est préferable d'ouvrir le ticket puis de se rendre sur le webchat.
