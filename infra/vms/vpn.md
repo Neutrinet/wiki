@@ -2,24 +2,24 @@
 <!-- SUBTITLE: Infrastructure - vm vpn -->
 
 # Présentation
-Cette vm fait tourné le programe ispng qui est utiliser pour le routage du vpn
+Cette VM fait tourner le programme ISPng qui est utilisé pour le routage du VPN.
 
-# Caracteristique
-Hostaneme   : vpn.neutri.net
-IPV4        : 80.67.181.3 -- 172.16.42.3
-IPV6        : 2001:913:1000::3
+# Caractéristiques
+Hostname   : vpn.neutri.net
+IPv4        : 80.67.181.3 -- 172.16.42.3
+IPv6        : 2001:913:1000::3
 HDD         : 10 GB
 CPU         : 4 vcpu
 RAM         : 4096M
 OS          : Debian 8 (jessie)
 
-# Acces ssh
+# Accès SSH
 * bram
 * jim
 * tbalthazar
 * tharyrok
 
-# logicielle
+# Logiciels
 * nginx
 * openvpn
 * postgres
@@ -40,8 +40,9 @@ OS          : Debian 8 (jessie)
  * 1195 tcp
  * 1195 udp
  
-# autre
-## ldap
-[C'est ici que cela ce passe](../software/ldap)
-## ispng
-[C'est ici que cela ce passe](../software/ispng)
+# Autre
+## LDAP
+[C'est ici que cela se passe](../software/ldap)
+
+## ISPng
+[C'est ici que cela se passe](../software/ispng)
