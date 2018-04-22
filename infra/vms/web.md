@@ -2,24 +2,24 @@
 <!-- SUBTITLE: Infrastructure - vm web -->
 
 # Présentation
-Cette vm délivre la plusport de nos site web
+Cette VM délivre la plupart de nos sites webs.
 
-# Caracteristique
-Hostaneme   : web.neutri.net
-IPV4        : 80.67.181.4 172.16.42.4
-IPV6        : 2001:913:1000::4
+# Caractéristiques
+Hostname   : web.neutri.net
+IPv4        : 80.67.181.4 172.16.42.4
+IPv6        : 2001:913:1000::4
 HDD         : 75 GB
 CPU         : 4 vcpu
 RAM         : 4096
 OS          : Debian 8 (jessie)
 
-# Acces ssh
+# Accès SSH
 * bram
 * jim
 * tbalthazar
 * tharyrok
 
-# logicielle
+# Logiciels
 * node
 * matterbridge
 * mongodb
@@ -80,4 +80,4 @@ OS          : Debian 8 (jessie)
 * pm2-beta-wiki-neutrinet-be.service
 * realms-wiki.service
 
-# autre
+# Autre
