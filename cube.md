@@ -77,7 +77,7 @@ Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et 
 Avoir son propre mini serveur chez soi c'est possible (possible... pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
-:books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
+:books: Vous pouvez en savoir plus sur le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
 
 ## rejoindre le hub cube
 
