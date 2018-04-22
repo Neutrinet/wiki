@@ -12,7 +12,7 @@ As a non-profit organization, we rely on self-organized volunteerism to defend [
 
 Neutrinet is a member of the [FDN Federation](https://www.ffdn.org), whose [charter(french)](https://www.ffdn.org/en/node/34) we have ratified and with whom we share **common values** of *voluntary, supportive, democratic and non-profit work*.  We participate to the [DIY-ISP](https://www.diyisp.org/) (Do It Yourself, Internet Service Provider) movement.
 
-Do not hesitate to [contacter](contact) us or to visit us during one of [our meetings](agenda).
+Do not hesitate to [contact](contact) us or to visit us during one of [our meetings](agenda).
 
 > *The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv_pdf/2014/01/21/14021338.pdf) 
 # Français
