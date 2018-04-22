@@ -30,7 +30,7 @@ Pour mettre le courriel dans le bon hub, vous avez, sur la droite, une liste des
 
 # Répondre à un courriel
 
-Pour répondre à un ticket, il faut cliquer sur `répondre` en dessous du ticket.
+Pour répondre à un ticket, il faut cliquer sur `Répondre` en dessous du ticket.
 
 Si vous avez un encadré rouge, la réponse est une note publique (l'outil invite alors votre correspondant à venir sur la version web du ticket).
 ![Image internal note](/uploads/documentation-support/screen-002.png){.align-center}
@@ -44,6 +44,6 @@ Par contre si vous avez ceci :
 
 
 # Les spams
-En bas à droite du ticket, vous avez un bouton et ensuite une flèche vers le haut, un menu va apparaître et vous permettre de marque le ticket comme `spam`.
+En bas à droite du ticket, à droite du bouton `Mettre à jour`, vous avez une  flèche vers le haut, un menu va apparaître et vous permettre de marque le ticket comme spam.
 
 ![Image spam](/uploads/documentation-support/screen-004.png){.align-center}
