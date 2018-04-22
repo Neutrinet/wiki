@@ -37,6 +37,7 @@ Si vous avez un encadré rouge, la réponse est une note publique (l'outil invit
 
 
 Par contre si vous avez ceci : 
+
 ![Image repsond mail](/uploads/documentation-support/screen-003.png){.align-center}
 
 … la réponse sera bien envoyée par courriel.
