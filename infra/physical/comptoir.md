@@ -1,17 +1,17 @@
-<!-- TITLE: Troll -->
-<!-- SUBTITLE: Notre serveur Troll -->
+<!-- TITLE: Comptoir -->
+<!-- SUBTITLE: Notre serveur Comptoir -->
 
 # Présentation
-Ce serveur est un [ERLite-3](https://www.ubnt.com/edgemax/edgerouter-lite/) sous openbsd.
+Ce serveur est un [ERLite-3](https://www.ubnt.com/edgemax/edgerouter-lite/) sous OpenBSD.
 
-Il sert uniquement à utliser tinc pour être dans le même segment reseau que les carte ipmi qui ce trouve sur orval et troll.
+Il sert uniquement à utliser tinc pour être dans le même segment réseau que les cartes ipmi qui se trouvent sur Orval et Troll.
 
 # IP
-ipv4 : 5.200.2.17
-ipv6 : 2a00:1630:10:1012::3
-honstame : comptoir.neutri.net
+IPv4 : 5.200.2.17
+IPv6 : 2a00:1630:10:1012::3
+Hostname : comptoir.neutri.net
 
-# Qui à acces
+# Qui y a accès ?
 * Tharyrok
 * e-Jim
 
@@ -20,8 +20,9 @@ honstame : comptoir.neutri.net
 ```
 doas su -
 ```
+
 ## Connexion au tinc
 
 ## Créer un certificat au tinc
 
-## Créer la cles usb
+## Créer la clé USB
