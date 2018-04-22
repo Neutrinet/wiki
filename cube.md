@@ -3,14 +3,14 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 # English
-:information_source: This is **the hub cube dedicated page**, to have a look on all other pages about this hub, have a look at `hub-cube` in our [documentation](all).
+:information_source: This is **the hub cube dedicated page**, to have a look at all other pages about this hub, see `hub-cube` in our [documentation](all).
 :calendar: Have a look at our [agenda](agenda) for meetings and events.
 
-You wish to exlpore the pleasures of the self hosting based on some fair price **libre hardware**?
-Having your own micro server at home is feasable (feasable ... not *magicaly feasable* :P ).
-Enroll in a delicious learning curve of the free and open source world en [order your own cube](https://admin.neutrinet.be/) (page in french, if you need help please [contact](contact) us).
+You wish to exlpore the pleasures of the self hosting based on some fair priced **libre hardware**?
+Having your own micro server at home is feasible (feasible... not *magically feasible* :P ).
+Enroll in a delicious learning curve of the free and open source world and [order your own cube](https://admin.neutrinet.be/) (page in french, if you need help please [contact](contact) us).
 
-:books: There are also usefull ressources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
+:books: There are also useful resources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
 
 ## Activities
 
@@ -18,24 +18,24 @@ Group orders
 
 * follow orders placed on our [back office](https://admin.neutrinet.be/admin)
 * send emails using our [support](https://beta-support.neutrinet.be)
-* actually make the order (it more complicated than expected) on Olimex and other dealer for the microSD
-* receive the order (thanks modern delivery societies, this isn't has obvious has it can be sometime ...)
+* actually make the order (it is more complicated than expected) on Olimex and other dealer for the microSD
+* receive the order (thanks to modern delivery societies, this isn't as obvious as it can be sometime...)
 
 Cube installation
 
-* generating certificats for everyone (python script, can be touchy)
-* make the installation, this include quite a lot of discussion and explanation while the installation part should be working out of the box
+* generate certificates for everyone (python script, can be touchy)
+* make the installation, this include quite a lot of discussion and explanations while the installation part should be working out of the box
 * meet the member, either at 123 or at your place
-* debugging if needed ...
+* debug if needed...
 
 Communication
-* information people that their order is here and how they can get it
-* send reminder regarding this
+* inform people that their order are here and how they can get it
+* send reminders regarding this
 
 Support
 * answer to emails
-* communicate with yunohost dev team and put bugs on dev.yunohost.org if needed
-* be there during the 3rd sunday of the month at 123 rue royale for support
+* communicate with yunohost dev team and report bugs on dev.yunohost.org if needed
+* be there during the 3rd sunday of the month at 123 rue Royale for support
 * share knowledge of how you've fixed stuff
 
 ## join the hub cube
@@ -44,8 +44,7 @@ Take care of the research, set-up, maintenance and support of the [internet cube
 It includes the orders follow-up (in collaboration with the [hub admin](administration)) and maybe a little bit of [communication](communication).
 
 * Key player(s) : tierce
-* Required skills : patience, 
-* Compétences requises : patience, resourcefulness and desire to discover [Yunohost](https://yunohost.org) and the [internet cube](https://internetcu.be/)
+* Required skills : patience, resourcefulness and desire to discover [Yunohost](https://yunohost.org) and the [internet cube](https://internetcu.be/)
 * Useful knowledge: GNU/Linux administration (terminal), bug reporting, searching forums, python/django. 
 
 ## Future things that can be done
@@ -74,8 +73,8 @@ It includes the orders follow-up (in collaboration with the [hub admin](administ
 :information_source: Ceci est la **page dédiée du hub cube**, pour voir **les autres pages de ce hub**, merci de visiter la section `hub-cube` dans notre [documentation](all).
 :calendar: Jetez un coup d'œil à notre [agenda](agenda) pour les rencontres et autre évènements.
 
-Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux?
-Avoir son propre mini serveur chez soi c'est possible (possible ... pas *magiquement faisable* :P ).
+Envie d'exlporer les joies de l'auto-hébergement sur du **matériel libre** et peu coûteux ?
+Avoir son propre mini serveur chez soi c'est possible (possible... pas *magiquement faisable* :P ).
 Engagez-vous dans une délicieuse courbe d'apprentissage du monde libre en [commandant une brique](https://admin.neutrinet.be/).
 
 :books: Ou encore le projet d'origine sur le wiki de [la brique Inter.net](https://wiki.labriqueinter.net/doku.php).
