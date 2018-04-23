@@ -13,10 +13,10 @@ Il y est possible de répondre aux courriels d'un ou de plusieurs hubs ou trier 
 
 Petit rappel : 
 
-- Le Hub Admin : s'occupe de tout ce qui est administratif à l'asbl (comptabilité, status...)
-- Le Hub Communication : s'occupe de la communication externe et interne de Neutrinet (prévenir des réunions, conférence...)
-- Le Hub Cube : s'occupe de l'installation, la réparation et le dépannage des Briques internet.
-- Le Hub Infra : s'occupe de la gestion des serveurs de Neutrinet et du support du VPN.
+- Le [Hub Admin](administration) : s'occupe de tout ce qui est administratif à l'asbl (comptabilité, status...)
+- Le [Hub Communication](communication) : s'occupe de la communication externe et interne de Neutrinet (prévenir des réunions, conférence...)
+- Le [Hub Cube](cube) : s'occupe de l'installation, la réparation et le dépannage des Briques internet.
+- Le [Hub Infra](infra) : s'occupe de la gestion des serveurs de Neutrinet et du support du VPN.
  
 
 # Trier les courriels
