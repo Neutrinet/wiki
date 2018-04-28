@@ -5,7 +5,7 @@
 # Français
 ## Vérifier
 
-Il est recommandé de faire un backup avant ou mieux encore un [clone](#Cloner) !
+Il est recommandé de faire un backup avant ou mieux encore un [clone](#cloner) !
 
 Éteindre la brique.
 
