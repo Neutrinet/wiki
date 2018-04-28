@@ -3,6 +3,22 @@
 
 # English
 # Français
+## Vérifier
+
+Il est recommandé de faire un backup avant ou mieux encore un [clone](#Cloner) !
+
+Éteindre la brique.
+
+Sortir la carte MicroSD de son slot et la mettre dans un adaptateur MicroSD vers SDCard.
+
+Mettre la carte dans un ordinateur équipé de GNU/Linux.
+
+`$ lsblk` pour identifier la carte qui devrait s'appeler `sdb` ou `sdc` ou  `mmcblk0` et les partitions qui la compose `sdb1` ou `sdc1` ou `mmcblk0p1`.
+
+`sudo fsck.ext4 /dev/sdb1` ou `sudo fsck.ext4 /dev/mmcblk0p1` pour vérifier l'intégrité de la table d'allocation et voir si elle contient des erreurs.
+
+Si il y a des erreurs, vous pouvez tenter une réparation automatique `sudo fsck.ext4 -p /dev/sdb1` ou `sudo fsck.ext4 -p /dev/mmcblk0p1`.
+
 ## Class et vitesse
 
 ![Microsdspeedtable](/uploads/cube/microsdspeedtable.png "Microsdspeedtable")
