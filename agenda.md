@@ -11,7 +11,7 @@
 
 ## Third Tuesday meeting
 
-- When? Thursday 15th of May at 7:30 pm
+- When? Tuesday 15th of May at 7:30 pm
 - What? Neutrinet's members meeting, open to everybody
 - Where? 20, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
