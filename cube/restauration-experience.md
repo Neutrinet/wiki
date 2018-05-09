@@ -39,6 +39,8 @@ Pour restaurer Yunohost, la procédure officielle est :
 
 ## Installation
 
+Sur mon ordinateur. Je mets la carte microSD que quand le script le demande.
+
 ```
 $ wget https://repo.labriqueinter.net/install-sd.sh
 $ chmod 0755 install-sd.sh
