@@ -112,8 +112,8 @@ get_variables
 add_labriqueinternet_app_list
 install_vpnclient
 configure_vpnclient
-# install_hotspot
-# configure_hostpot
+install_hotspot
+configure_hostpot
 install_doctorcube
 install_neutrinet_ynh
 
