@@ -69,8 +69,6 @@ $ scp /dernière_sauvegarde_de_ma_Brique.tar.gz root@brique:/home/yunohost.backu
 -----
 
 
-Facultatif
-
 Je ne sais pas si c'est toujours nécessaire, mais j'avais souvent des erreurs de `locales` lors de la restauration de mes sauvegardes (voir plus bas), ceci permet d'éviter de polluer les logs avec ces erreurs :
 
 ```
