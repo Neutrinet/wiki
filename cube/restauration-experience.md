@@ -161,6 +161,9 @@ Donc :
 ```
 root@brique:~# yunohost app install https://github.com/Neutrinet/neutrinet_ynh
 ```
+
+> [**Question**] Je ne sais pas pourquoi le script `neutrinet.sh` n'a pas installé l'application `neutrinet_ynh`.
+{.is-info}
 ---
 
 ## Finalisation
