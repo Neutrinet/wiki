@@ -12,7 +12,7 @@ Comme j'ai une sauvegarde Yunohost de moins d'une semaine, je décide de mettre 
 
 Malgré que ma carte microSD soit corrompue, j'ai pu en faire une image disque sur mon ordinateur avec [cette commande-ci](https://wiki.neutrinet.be/cube/microsd#cloner) : `sudo dd if=/dev/[carte_microSD] | gzip -c > clone.img.gz` 
 
-> [?] L'image compressée fait 51,6 Go au lieu de 64, mais pour pouvoir la monter, il faut la décompresser, du coup je me retrouve avec 51,6 + 64 = 115,6 Go d'espace disque nécessaire. Finalement, une commande pour avoir un simple .img de la taille de la carte SD serait plus commode. (Je ne connais pas cette commande.)
+> [**Question**] L'image compressée fait 51,6 Go au lieu de 64, mais pour pouvoir la monter, il faut la décompresser, du coup je me retrouve avec 51,6 + 64 = 115,6 Go d'espace disque nécessaire. Finalement, une commande pour avoir un simple .img de la taille de la carte SD serait plus commode. (Je ne connais pas cette commande.)
 {.is-info}
 
 Pour la monter directement sur l'ordinateur, j'ai suivi [la procédure suivante](https://www.linuxquestions.org/questions/linux-general-1/how-to-mount-img-file-882386/#post4365399). Ayant dû décompresser mon fichier clone.img.gz, je me suis retrouvé avec l'image dans `clone.img/data` (le fichier data faisant ~ 64 Go). Le chemin de l'image à donner pour la monter est donc `clone.img/data`.
@@ -121,7 +121,7 @@ restart_api
 display_win_message
 ```
 
-> J'avais fait un test en exécutant `modify_hosts` et `set_locales` avant la restauration de la sauvegardes pour éviter l'errer des `locale settings` mais ça n'a pas fonctionné. Je ne sais pas du coup s'il y a un moment où il faut tout de même exécuter `modify_hosts`. De même que je ne sais pas si tout ce qui s'exécute ici est indispensable.
+> [**Remarque/question**] J'avais fait un test en exécutant `modify_hosts` et `set_locales` avant la restauration de la sauvegardes pour éviter l'errer des `locale settings` mais ça n'a pas fonctionné. Je ne sais pas du coup s'il y a un moment où il faut tout de même exécuter `modify_hosts`. De même que je ne sais pas si tout ce qui s'exécute ici est indispensable.
 {.is-info}
 
  
@@ -150,7 +150,7 @@ notAfter=Oct 16 15:34:07 2017 GMT
 
 Alors que le certificat avait été renouvelé !
 
-> [?] Le fichier `neutrinet_variaibles` contient toutes les informations nécessaires pour configurer le compte VPN chez Neutrinet, mais ces informations *ne sont pas à jour*. Je ne sais pas où seraient ces informations à jour.
+> [**Question**] Le fichier `neutrinet_variaibles` contient toutes les informations nécessaires pour configurer le compte VPN chez Neutrinet, mais ces informations *ne sont pas à jour*. Je ne sais pas où seraient ces informations à jour.
 {.is-info}
 
 Normalement, l'application `neutrinet_ynh` devrait mettre à jour automatiquement le certificate, mais `yunohost app list -i` montre qu'elle n'est pas installée, hors, le script `neutrinet.sh` aurait dû l'installer. 
