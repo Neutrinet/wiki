@@ -183,7 +183,7 @@ root@brique:~# yunohost tools upgrade
 
 ## Erreur de `yunohost backup restore` à cause d'une sauvegarde corrompue
 
-Lors de la première tentative de restauration, j'ai utilisé une sauvegarde corrompue (faite le jour où les problèmes ont commencés à apparaître sur ma Brique). `yunohost backupr restore dernière_sauvegarde_de_ma_Brique` donnait :
+Lors de la première tentative de restauration, j'ai utilisé une sauvegarde corrompue (faite le jour où les problèmes ont commencés à apparaître sur ma Brique). `yunohost backup restore dernière_sauvegarde_de_ma_Brique` donnait :
 
 ```
 Attention : Le montage de l’archive de sauvegarde a échoué
@@ -320,7 +320,7 @@ J'avais, après `yunohost backup restore`, les lignes suivantes :
 Attention : Le fichier de configuration « /etc/nginx/conf.d/yunohost_panel.conf.inc » a été modifié manuellement et ne sera pas mis à jour
 ```
 
-J'avais en effet modifié ce fichier manuellement il y a longtemps pour résoudre [un problème temporaire](https://forum.yunohost.org/t/erreur-nginx-dans-etc-nginx-conf-d-yunohost-panel-conf-inc/3105/11)
+J'avais en effet modifié ce fichier manuellement il y a longtemps pour résoudre [un problème temporaire](https://forum.yunohost.org/t/erreur-nginx-dans-etc-nginx-conf-d-yunohost-panel-conf-inc/3105/11).
 
 Comment permettre à Yunohost de le mettre à jour à l'avenir ? Remplacer le fichier par le plus récent ne résoud pas le problème. Tant qu'il n'y a pas de modifications de ce fichier, ce n'est pas gênant, mais sur le long terme (ou sur le principe), ça peut l'être.
 
