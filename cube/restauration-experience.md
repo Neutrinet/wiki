@@ -78,6 +78,8 @@ root@brique:/# dpkg-reconfigure locales
 
 Et, dans les menus, choisir `fr_FR.UTF-8` ou `fr_BE.UTF-8` et l'installer par défaut.
 
+> [**Question**] Je ne sais pas si ce problème est propre à ma configuration, ni s'il est connu, ni si c'est important.
+{.is-info}
 
 -----
 
