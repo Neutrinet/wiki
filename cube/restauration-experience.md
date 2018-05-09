@@ -5,7 +5,7 @@
 
 Soit une Brique Lime2 avec une microSD de 64 Go. Celle-ci pose [des problème et semble corrompue](https://forum.yunohost.org/t/brique-foireuse-carte-sd-autre/4780).
 
-Comme j'ai une sauvegarde Yunohost de moins d'une semaine, je décide de mettre une nouvelle carte microSD (une 32 Go) dans ma Brique et restaurer le système.
+Comme j'ai une sauvegarde Yunohost de moins d'une semaine (fichier AAAAMMJJ-HHMMSS.tar.js d'environ 4 Go), je décide de mettre une nouvelle carte microSD (une 32 Go) dans ma Brique et restaurer le système.
 
 
 ## [Facultatif] Image disque de la carte microSD
@@ -282,6 +282,7 @@ Je ne sais pas à quoi est due cette erreur ni si elle est systématique.
 
 ## Erreurs propres à ma configuration
 
+J'ai eu quelques erreurse que j'ai tues plus haut parce qu'elles n'ont pas empêché le déroulement de la restauration ou sont (probablement) dues à des modifications ou tests propres à ma Brique.
 
 ### Hotspot [OK]
 
