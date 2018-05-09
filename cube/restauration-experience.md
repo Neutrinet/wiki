@@ -61,7 +61,11 @@ root@brique:~# exit
 $ scp /dernière_sauvegarde_de_ma_Brique.tar.gz root@brique:/home/yunohost.backup/archives/
 ```
 
----
+
+
+-----
+
+
 Facultatif
 
 Je ne sais pas si c'est toujours nécessaire, mais j'avais souvent des erreurs de `locales` lors de la restauration de mes sauvegardes (voir plus bas), ceci permet d'éviter de polluer les logs avec ces erreurs :
@@ -72,7 +76,11 @@ root@brique:/# dpkg-reconfigure locales
 ```
 
 Et, dans les menus, choisir `fr_FR.UTF-8` ou `fr_BE.UTF-8` et l'installer par défaut.
----
+
+
+-----
+
+
 
 Suite :
 
