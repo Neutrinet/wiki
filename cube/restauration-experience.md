@@ -41,7 +41,7 @@ Pour restaurer Yunohost, la procédure officielle est :
 
 Sur mon ordinateur. Je mets la carte microSD que quand le script le demande.
 
-```bash
+```
 $ wget https://repo.labriqueinter.net/install-sd.sh
 $ chmod 0755 install-sd.sh
 $ ./install-sd.sh -2
@@ -53,6 +53,7 @@ $ ./install-sd.sh -2
 Je place la carte microSD dans la Brique et je branche celle-ci.
 
 ## Restauration
+Connexion à la Brique, copie du fichier de sauvegarde :
 
 ```
 $ ssh root@brique
@@ -84,7 +85,7 @@ Et, dans les menus, choisir `fr_FR.UTF-8` ou `fr_BE.UTF-8` et l'installer par d�
 
 
 
-Suite :
+Suite, restauration de la sauvegarde :
 
 ```
 $ ssh root@brique
