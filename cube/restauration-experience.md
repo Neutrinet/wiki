@@ -123,7 +123,7 @@ restart_api
 display_win_message
 ```
 
-> [**Remarque/question**] J'avais fait un test en exécutant `modify_hosts` et `set_locales` avant la restauration de la sauvegardes pour éviter l'errer des `locale settings` mais ça n'a pas fonctionné. Je ne sais pas du coup s'il y a un moment où il faut tout de même exécuter `modify_hosts`. De même que je ne sais pas si tout ce qui s'exécute ici est indispensable.
+> [**Question**] J'avais fait un test en exécutant `modify_hosts` et `set_locales` avant la restauration de la sauvegardes pour éviter l'errer des `locale settings` mais ça n'a pas fonctionné. Je ne sais pas du coup s'il y a un moment où il faut tout de même exécuter `modify_hosts`. De même que je ne sais pas si tout ce qui s'exécute ici est indispensable.
 {.is-info}
 
  
@@ -231,7 +231,7 @@ tar: apps/wallabag2/backup/sources/var/cache/prod/pools/MXg66VSeE9/K/S/ovz6k9K5-
 tar: Arrêt avec code d'échec à cause des erreurs précédentes
 ```
 
-Les erreurs ne concernent que Wallabag2 que j'avais installé mais pas employé ni configuré (et un peu oublié…) et etherpad_mypads dont j'avais une version assez ancienne et pas à jour et, surtout, dont j'ai une sauvegarde manuelle des quelques pads que j'employais.
+Les erreurs ne concernent que Wallabag que j'avais installé mais pas employé ni configuré (et un peu oublié…) et etherpad_mypads dont j'avais une version assez ancienne et pas à jour et, surtout, dont j'ai une sauvegarde manuelle des quelques pads que j'employais.
 
 Je suppose que c'est à cause de ces erreurs que `yunohost backup restore` me donne `Attention : Le montage de l’archive de sauvegarde a échoué` et que je peux l'ignorer.
 
