@@ -64,3 +64,15 @@ Un acces proxmox est aussi possible il faut demander à tharyrok.
 |Gateways 1 et 2|Avec les hypversiveurs|voir plus haut. Chacun a une session BGP avec les deux hyperviseurs ET ils annoncent ce qu'ils ont dans leur kernel (filtré pour laisser passer que les /24) afin qu'ils annoncent le /24 que keepalived (le daemon VRRP) leur met quand il deviennent master. En slave, ils n'annoncent rien.|Ils sont dans le TINC aussi, via le bridge de leur hyperviseur respectif.|
 |Gateways 1 et 2| VMs VPN| Les VMs VPN annoncent à chacune des GW les routes des sessions VPN dont elles ont la charge (en /32 puis en /56 + en /128 en IPv6 quand le temps viendra de tester ça). Par contre, elles ne prennent pas en compte les routes annoncées par les GW, met on 80.67.181.1 comme GW par défaut |Non, elle ne sont pas dans le TINC.|
 |Chimay (la VM chez des amis)|Le transitaire de là-bas qui parlerait BGP|Par défaut, il y aurait un gros prepend pour faire croire au transitaire qu'il y a plein de hop et qu'il ne faut pas passer par ici, sauf si le reste est down. Mais on annonce quand même tout notre /24 en static et en temps normal on le route vers 10.10.10.1 via le TINC. En cas de plantage de notre infra chez i3d, et donc s'il devient master VRRP (alors qu'il a une priorté très basse), il route vers son service VPN (ne pourra fonctionner qu'une fois qu'on est basé sur radius et non plus ISP-ng)|Oui, il est dans TINC dans le Vlan 10|
+
+#Réunion infra du 12 mai 2018
+
+Donc, on s'est donné RDV chez Tierce (soit-il béni sur plein de générations) pour travailler sur 
+
+   * La nouvelle infra
+   * La documentation de l'infra
+   * Mettre tout sous Ansible
+   * Se pencher sur les éventuels achats futurs.
+   * Un autre point que j'ai oublié là maintenant
+Dans les faits, on se surtout pencher sur le premier point, et même surtout sur le routing.
+Tharyrok a fait un labo sur son PC représentant tout les éléments du réseau et nous avons fait fondre nos cerveaux pour tenter de mettre au point une stratégie de routage fiable, pas trop compliquée,et 
