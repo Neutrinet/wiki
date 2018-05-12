@@ -3,6 +3,7 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
+![Cats](/uploads/cats.jpg "Cats"){.align-center}
 # English
 We are organized in [hubs](all) to **provide you** some [Net-Neutraliser™ VPN](vpn)  :heart_eyes: and [Tha Internet Cube](cube).
 
@@ -37,7 +38,7 @@ status](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf)
 Te doen
 
 
-![Cats](/uploads/cats.jpg "Cats"){.align-center}
+
 
 
 
