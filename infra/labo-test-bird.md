@@ -56,8 +56,9 @@ Un acces proxmox est aussi possible il faut demander à tharyrok.
 ## Routing (bird)
 | Host | Sessions BIRD | Spécificités de ces sessions |  TINC |
 |---|---|---|---|---|
-|Orval| Avec Gateway 1 et Gateway 2 chacun + Avec le transitaire (i3d)|Il prend les routes depuis les GW en filtrant pour ne prendre que celle issue de notre bloc d'IP. Comme seul la gateway qui est master VRRP a une route vers nos IP (le master VRRP a deux virtuals IP (10.10.10.1 et 80.67.181.1) ainsi qu'une route virtuelle vers 80.67.181.0/24 via 80.67.181.1), seule celle-ci annonce sa route aux deux hyperviseur. ||
-|||||
+|Orval et Troll| Avec le transitaire (I3d) |Chacun annonce les routes qu'il apprend des gateways. On laisse i3d choisir celui qu'il veut parmi les deux. [side note: on pourrait faire du VRRP là aussi] |Tinc est configuré sur un bond sur les interface eth1 de chacune des ces machines|
+|Orval et Troll| Avec Gateway 1 et Gateway 2 chacun + Avec le transitaire (i3d)|Il prend les routes depuis les GW en filtrant pour ne prendre que celle issue de notre bloc d'IP. Comme seul la gateway qui est master VRRP a une route vers nos IP (le master VRRP a deux virtuals IP (10.10.10.1 et 80.67.181.1) ainsi qu'une route virtuelle vers 80.67.181.0/24 via 80.67.181.1), seule celle-ci annonce sa route aux deux hyperviseur. ||
+|Gateways 1 et 2|avec les hypversiveux|voir plus haut. Chacun a une session BGP avec les deux hyperviseurs ET ils annoncent ce qu'ils ont dans leur kernel (filtré pour laisser passer que les /24) afin qu'ils annoncent le /24 que keepalived (le daemon VRRP) leur met quand il deviennent master. En slave, ils n'annoncent rien.|Ils sont dans le TINC aussi, via le bridge de leur hyperviseur respectif. |
 |||||
 |||||
 |||||
