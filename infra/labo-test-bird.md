@@ -30,7 +30,7 @@ Un acces proxmox est aussi possible il faut demander à tharyrok.
 | WAN_TERNET | 178.63.130.148/32 | 178.63.43.60 |
 | | 10.42.40.1/24 | |
 | | | |
-| WAN_I3D | 10.42.40.2/24 | 10.42.40.1 |
+| WAN_I3D | 10.42.40.2/24 | BGP |
 | | 10.42.50.1/24 | |
 | | | |
 | Troll | 10.42.50.14/24 | BGP |
