@@ -16,3 +16,11 @@ Un acces proxmox est aussi possible il faut demander à tharyrok.
 | | | | |
 | 40 | Internet | 10.42.40.0/24 | WAN_TERNET, WAN_I3D |
 | 50 | I3D | 10.42.50.0/24 | WAN_I3D, Troll, Orval |
+
+## AS
+| ID | Name |
+|---|---|---|
+| 64496 | Internet |
+| 64500 | I3D |
+| 64510 | Neutrinet |
+
