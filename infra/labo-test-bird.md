@@ -24,7 +24,7 @@ Un acces proxmox est aussi possible il faut demander à tharyrok.
 | 64500 | I3D |
 | 64510 | Neutrinet |
 
-## AS
+## IP
 | Host | IP | GW |
 |---|---|---|
 | WAN_TERNET | 178.63.130.148/32 | 178.63.43.60 |
