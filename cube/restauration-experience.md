@@ -5,7 +5,7 @@
 
 Soit une Brique Lime2 avec une microSD de 64 Go. Celle-ci pose [des problème et semble corrompue](https://forum.yunohost.org/t/brique-foireuse-carte-sd-autre/4780).
 
-Comme j'ai une sauvegarde Yunohost de moins d'une semaine (fichier AAAAMMJJ-HHMMSS.tar.js d'environ 4 Go), je décide de mettre une nouvelle carte microSD (une 32 Go) dans ma Brique et restaurer le système.
+Comme j'ai une sauvegarde Yunohost de moins d'une semaine (fichier AAAAMMJJ-HHMMSS.tar.gz d'environ 4 Go), je décide de mettre une nouvelle carte microSD (une 32 Go) dans ma Brique et restaurer le système.
 
 
 ## [Facultatif] Image disque de la carte microSD
@@ -152,7 +152,7 @@ notAfter=Oct 16 15:34:07 2017 GMT
 
 Alors que le certificat avait été renouvelé !
 
-> [**Question**] Le fichier `neutrinet_variaibles` contient toutes les informations nécessaires pour configurer le compte VPN chez Neutrinet, mais ces informations *ne sont pas à jour*. Je ne sais pas où seraient ces informations à jour.
+> [**Question**] Le fichier `neutrinet_variables` contient toutes les informations nécessaires pour configurer le compte VPN chez Neutrinet, mais ces informations *ne sont pas à jour*. Je ne sais pas où seraient ces informations à jour.
 {.is-info}
 
 Normalement, l'application `neutrinet_ynh` devrait mettre à jour automatiquement le certificate, mais `yunohost app list -i` montre qu'elle n'est pas installée, hors, le script `neutrinet.sh` aurait dû l'installer. 
