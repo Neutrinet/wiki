@@ -17,7 +17,10 @@
 |BIC: |HBKABE22 |
 # Français
 - En venant nous rencontrer [lors d'une réunion](agenda)
-- Bien entendu, [par courriel](mailto:contact@neutrinet.be).
+- Pour les quesitons d'ordre général :  [par courriel](mailto:contact@neutrinet.be)
+- Pour du support : [par courriel](mailto:support@neutrinet.be)
+- Pour du support : IRC #neutrinet sur Freenode (webchat [ici](https://webchat.freenode.net/?channels=neutrinet) su vous voulez)
+- Pour du support : sur [notre Mattermost](https://chat.neutrinet.be)
 
 | Coordonnées bancaires | |
 |---|---|
