@@ -3,7 +3,10 @@
 
 # English
 - Come to meet us [during one of our meetings](agenda)
-- Of course, [by email](mailto:contact@neutrinet.be).
+- For general questions :  [by email](mailto:contact@neutrinet.be)
+- For support : [by email](mailto:support@neutrinet.be)
+- For support : IRC #neutrinet on Freenode (webchat [here](https://webchat.freenode.net/?channels=neutrinet) if you need)
+- For support : on [our Mattermost](https://chat.neutrinet.be)
 
 | Bank account details | |
 |---|---|
