@@ -1,4 +1,4 @@
-<!-- TITLE: 05/12-Infra -->
+<!-- TITLE: 05/12 (Infra) -->
 <!-- SUBTITLE: Réunion d'avril du hub infra -->
 
 # Réunion infra du 12 mai 2018
