@@ -2,9 +2,15 @@
 <!-- SUBTITLE: Reach us, nous joindre, contacteer ons -->
 
 # English
+## Meetings
 - Come to meet us [during one of our meetings](agenda)
+
+## General
+
 - For general questions :  [by email](mailto:contact@neutrinet.be)
 - For our **announcements, news or reminders about our activities**, you can join [this mailing list](https://lists.entransition.be/wws/info/neutrinet)
+
+## Support
 
 - For support (mail) : [here](mailto:support@neutrinet.be)
 - For support (irc) : #neutrinet on Freenode (webchat [here](https://webchat.freenode.net/?channels=neutrinet) if you need)
@@ -20,9 +26,17 @@
 |IBAN: |BE52 6528 3497 8409 |
 |BIC: |HBKABE22 |
 # Français
+
+## Réunions
+
 - En venant nous rencontrer [lors d'une réunion](agenda)
+
+## Généralités
+
 - Pour les quesitons d'ordre général :  [par courriel](mailto:contact@neutrinet.be)
 - Pour **nos annonces, nouvelles, et rappels à propos de nos activités**, abonnez vous à [cette mailing list](https://lists.entransition.be/wws/info/neutrinet)
+
+## Support
 
 - Pour du support (courriel) : [ici](mailto:support@neutrinet.be)
 - Pour du support (irc) : #neutrinet sur Freenode (webchat [ici](https://webchat.freenode.net/?channels=neutrinet) su vous voulez)
