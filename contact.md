@@ -17,6 +17,7 @@
 - For support (chat) : on our [Mattermost](https://chat.neutrinet.be)
 - For support (forum) : under the [internet-cube](https://forum.yunohost.org/c/support/internet-cube) category of the Yunohost support forum.
 
+## Bank
 
 | Bank account details | |
 |---|---|
@@ -43,6 +44,7 @@
 - Pour du support (clavardage) : sur notre [Mattermost](https://chat.neutrinet.be)
 - Pour du support (forum) : sous la catégorie [internet-cube](https://forum.yunohost.org/c/support/internet-cube) du forum de Yunohost.
 
+## Banque
 
 | Coordonnées bancaires | |
 |---|---|
