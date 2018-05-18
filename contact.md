@@ -7,6 +7,7 @@
 - For support : [by email](mailto:support@neutrinet.be)
 - For support : IRC #neutrinet on Freenode (webchat [here](https://webchat.freenode.net/?channels=neutrinet) if you need)
 - For support : on [our Mattermost](https://chat.neutrinet.be)
+- For our annonces, news or reminders about our activities, you can join [this mailing list](https://lists.entransition.be/wws/info/neutrinet)
 
 | Bank account details | |
 |---|---|
@@ -21,6 +22,7 @@
 - Pour du support : [par courriel](mailto:support@neutrinet.be)
 - Pour du support : IRC #neutrinet sur Freenode (webchat [ici](https://webchat.freenode.net/?channels=neutrinet) su vous voulez)
 - Pour du support : sur [notre Mattermost](https://chat.neutrinet.be)
+- Pour nos annonces, nouvelles, et rappels à propos de nos activités, abonnez vous à [cette mailing list](https://lists.entransition.be/wws/info/neutrinet)
 
 | Coordonnées bancaires | |
 |---|---|
