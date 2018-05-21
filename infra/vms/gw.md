@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Infrastructure - vm gw -->
 
 # Présentation
-Cette vm permet le routage pour AS204059
+Cette vm permet le routage pour [AS204059](https://bgp.he.net/AS204059)
 
 Elle établit une session BGP avec Troll & Orval qui, eux-mêmes, le font avec i3d.
 
