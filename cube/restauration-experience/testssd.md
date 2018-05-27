@@ -4,7 +4,7 @@ Tout ceci n'est pas forcément utile…
 
 Comme j'ai pu, du coup, faire differents tests sur des cartes microSD, je mets ici les vérifications que j'ai faites.
 
-## Tests 
+# Tests 
 
 J'ai testé différentes commandes et outils sur trois cartes microSD :
 
@@ -22,7 +22,7 @@ D'après la [page Wikipedia anglaise](https://en.wikipedia.org/wiki/Secure_Digit
 
 Voici les différentes commandes et outils :
 
-A. `fsck.ext4 /dev/[carteSD]`, d'après [https://wiki.neutrinet.be/cube/microsd#verifier] pour 1 et 2 ; `fsck.fat /dev/[carteSD]` pour la 3.
+A. `fsck.ext4 /dev/[carteSD]`, d'après  [ce qui se trouve ici](https://wiki.neutrinet.be/cube/microsd#verifier) pour 1 et 2 ; `fsck.fat /dev/[carteSD]` pour la 3.
 
 B. `badblocks -s -v -n /dev/[carteSD]`, d'après [https://help.endian.com/hc/en-us/articles/218146758-Verify-if-the-micro-SD-card-is-corrupt] ([notes et remarque](https://forum.yunohost.org/t/restauration-dune-brique-suite-a-une-carte-sd-corrompue/4780/3?u=ptrph)).
 
@@ -34,7 +34,7 @@ Pour un simple test de vitesse en écriture directement sur la Brique, il y a [p
 
 ---
 
-### A.1. **`fsck` sur carte 64 Go corrompue**
+## A.1. `fsck` sur carte 64 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci voit la carte mais ne peut pas la monter (« can't read superblock »).
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -52,7 +52,7 @@ fsck.ext4: impossible d'initialiser les drapeaux du superbloc sur /dev/mmcblk0p1
 /dev/mmcblk0p1 : **ATTENTION : le système de fichiers contient encore des erreurs**
 ```
 
-### A.2. **`fsck` sur carte 32 Go fonctionnelle**
+## A.2. `fsck` sur carte 32 Go fonctionnelle
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte.
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -63,7 +63,7 @@ e2fsck 1.43.5 (04-Aug-2017)
 /dev/mmcblk0p1 : propre, 204914/1816416 fichiers, 5011775/7791488 blocs
 ```
 
-### A.3. **`fsck` sur carte 16 Go corrompue**
+## A.3. `fsck` sur carte 16 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte (mais peut planter à la lecture ou copie de certains fichiers).
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -99,7 +99,7 @@ Perform changes ? (y/n) n
 
 
 
-### B.1. **`badblocks` sur carte 64 Go corrompue**
+## B.1. `badblocks` sur carte 64 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci voit la carte mais ne peut pas la monter (« can't read superblock »).
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -130,7 +130,7 @@ Interruption, nettoyage en cours
 
 (Les chiffres défilent tout de suite, signe d'une carte corrompue, processus interrompu, ça ne sert à rien d'aller jusqu'au bout.)
 
-### B.2. **`badblocks` sur carte 32 Go fonctionnelle**
+## B.2. `badblocks` sur carte 32 Go fonctionnelle
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte.
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -152,7 +152,7 @@ Interruption, nettoyage en cours
 (Interprétation des erreurs : lecture/écriture/comparaison.)
 
 
-### B.3. **`badblocks` sur carte 16 Go corrompue**
+## B.3. `badblocks` sur carte 16 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte (mais peut planter à la lecture ou copie de certains fichiers).
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -185,7 +185,7 @@ Interruption, nettoyage en cours
 (Plus lent que pour la carte de 64 Go. Interrompu manuellement aussi.)
 
 
-### C.1. **`f3write`/`f3read` sur carte 64 Go corrompue**
+## C.1. `f3write`/`f3read` sur carte 64 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci voit la carte mais ne peut pas la monter (« can't read superblock »).
 `lsblk` indique que la carte est sur `/dev/mmcblk0` (`/dev/mmcblk0p1` pour la partition).
@@ -193,7 +193,7 @@ Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-c
 Comme la partition ne monte pas, le test est impossible.
 
 
-### C.2. **`f3write`/`f3read` sur carte 32 Go fonctionnelle**
+## C.2. `f3write`/`f3read` sur carte 32 Go fonctionnelle
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte.
 Elle est montée sur `media/utilisateur/carteSD`.
@@ -286,7 +286,7 @@ Average reading speed: 77.45 MB/s
 ```
 
 
-### C.3. **`f3write`/`f3read` sur carte 16 Go corrompue**
+## C.3. `f3write`/`f3read` sur carte 16 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci peut monter la carte (mais peut planter à la lecture ou copie de certains fichiers).
 Elle est montée sur `media/utilisateur/carteSD`.
@@ -320,7 +320,7 @@ Writing speed not available
 Le test en lecture n'est pas possible du coup (`f3read` lit les fichiers écrits par `f3write` et compare leur intégrité).
 
 
-### D.1. **`f3probe` sur carte 64 Go corrompue**
+## D.1. `f3probe` sur carte 64 Go corrompue
 
 Carte microSD dans adaptateur SD connecté à l'ordinateur via un lecteur de carte SD en USB. L'ordinateur voit la carte mais ne peut pas la monter (« can't read superblock »).
 `lsblk` indique que la carte est sur `/dev/sdc` (`/dev/sdc1` pour la partition).
@@ -338,7 +338,7 @@ f3probe: Can't open device `/dev/sdc': Read-only file system
 Pour une raison que j'ignore, via l'adaptateur USB, cette carte est en lecture seule (elle ne l'est pas sans, et les autres cartes sur le même adaptateur ne le sont pas).
 
 
-### D.2. **`f3probe` sur carte 32 Go fonctionnelle**
+## D.2. `f3probe` sur carte 32 Go fonctionnelle
 
 Carte microSD dans adaptateur SD connecté à l'ordinateur via un lecteur de carte SD en USB. L'ordinateur peut monter la carte.
 `lsblk` indique que la carte est sur `/dev/sdc` (`/dev/sdc1` pour la partition).
@@ -371,7 +371,7 @@ Probe time: 8'09"
 ```
 
 
-### D.3. **`f3probe` sur carte 16 Go corrompue**
+## D.3. `f3probe` sur carte 16 Go corrompue
 
 Carte microSD dans adaptateur SD connecté à l'ordinateur via un lecteur de carte SD en USB. L'ordinateur peut monter la carte (mais peut planter à la lecture ou copie de certains fichiers).
 `lsblk` indique que la carte est sur `/dev/sdc` (`/dev/sdc1` pour la partition).
@@ -405,7 +405,7 @@ Probe time: 1'06"
 
 ---
 
-## Conclusion
+# Conclusion
 
 `badblocks` permet de rapidement vérifier que la carte peut-être physiquement corrompue, alors que `fsck` vérifie avant tout le système de fichier (si je ne m'abuse et peut-être en simplifiant). Étant donné la structure des cartes SD, `badblocks` ne peut pas être fiable sur le nombre de blocs défectueux.
 F3 (`f3write`/`f3read`) permet plutôt de tester les performances et la fiabilité des cartes. Ce qui peut être utile avant installation (carte récupérée, retrouvée…), ou après un certain temps afin de voir si elle tient toujours le coup, ou pour vérifier qu'une carte neuve a les performances et la capacité annoncée (ce qui est la raison première de F3).
