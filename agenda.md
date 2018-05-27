@@ -5,13 +5,13 @@
 
 ## Third Sunday Install Party
 
-- When? Sunday 20th of May 2018 from 2 pm to 6 pm
+- When? Sunday 17th of June 2018 from 2 pm to 6 pm
 - What? Install party, friendly talks, open to everybody, bring your laptops, cubes...
 - Where? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
 
 ## Third Tuesday meeting
 
-- When? Tuesday 15th of May at 7:30 pm
+- When? Tuesday 19th of June at 7:30 pm
 - What? Neutrinet's members meeting, open to everybody
 - Where? 12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
@@ -19,18 +19,18 @@
 
 ## Other Events
 
-- [2018 FDN Federation General Assembly](https://pad.tetaneutral.net/p/AGFFDN2018-orga) from 5th to 8th  Mai 2018 in [Justiniac in Ariège](https://www.openstreetmap.org/search?query=43.20810%2C1.49068#map=9/43.1200/1.7221).
+- Saturday 30th June 2018 for the [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) as friends of the workshop **Déshabillez-moi, Big Brother !**
 # Français
 ## Install Party du 3ème dimanche
 
-- Quand ? Dimanche 20 mai 2018 de 14 à 18h.
+- Quand ? Dimanche 17 juin 2018 de 14 à 18h.
 - Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
 - Où ? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
 
 
 ## Réunion du 3ème mardi
 
-- Quand ? Mardi 15 mai 2018 à 19h30.
+- Quand ? Mardi 19 juin 2018 à 19h30.
 - Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
 - Où ? 12, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
@@ -38,7 +38,9 @@
 
 ## Autres Évènements
 
-- [L'assemblée générale 2018 de la Fédération FDN](https://pad.tetaneutral.net/p/AGFFDN2018-orga) aura lieu du 5 au 8 mai 2018 au Château de [Justiniac en Ariège](https://www.openstreetmap.org/search?query=43.20810%2C1.49068#map=9/43.1200/1.7221).
+- Samedi 30 juin 2018 pour les [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) en accompagnement de l'atelier **Déshabillez-moi, Big Brother !**
+
+
 
 # Nederlands
 Te vertalen.
