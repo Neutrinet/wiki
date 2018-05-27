@@ -118,6 +118,14 @@ Test en cours avec un motif aléatoire : badblocks: Erreur d'entrée/sortie lor
 4
 5
 […]
+830
+831
+832
+0.00% effectué, 0:04 écoulé. (0/0/832 erreurs)
+
+Interrupted at block 832
+
+Interruption, nettoyage en cours
 ```
 
 (Les chiffres défilent tout de suite, signe d'une carte corrompue, processus interrompu, ça ne sert à rien d'aller jusqu'au bout.)
@@ -174,7 +182,7 @@ Interrupted at block 64
 Interruption, nettoyage en cours
 ```
 
-(Plus lent que pour la carte de 64 Go, les erreurs se font à la comparaison et pas à la lecture. Interrompu manuellement aussi.)
+(Plus lent que pour la carte de 64 Go. Interrompu manuellement aussi.)
 
 
 ### C.1. **`f3write`/`f3read` sur carte 64 Go corrompue**
@@ -399,7 +407,8 @@ Probe time: 1'06"
 
 ## Conclusion
 
-`badblocks` permet de rapidement vérifier que la carte peut-être physiquement corrompue, alors que `fsck` vérifie avant tout le système de fichier (si je ne m'abuse et peut-être en simplifiant). Étant donné la structure des cartes SD, `badblocks` ne peut pas être fiable sur le nombre de blocs défectueux, mais peut donner un indice sur le type d'erreurs (lecture, écriture, comparaison).
+`badblocks` permet de rapidement vérifier que la carte peut-être physiquement corrompue, alors que `fsck` vérifie avant tout le système de fichier (si je ne m'abuse et peut-être en simplifiant). Étant donné la structure des cartes SD, `badblocks` ne peut pas être fiable sur le nombre de blocs défectueux.
 F3 (`f3write`/`f3read`) permet plutôt de tester les performances et la fiabilité des cartes. Ce qui peut être utile avant installation (carte récupérée, retrouvée…), ou après un certain temps afin de voir si elle tient toujours le coup, ou pour vérifier qu'une carte neuve a les performances et la capacité annoncée (ce qui est la raison première de F3).
 Comme `f3probe` peut détruire les fichiers contenus sur la carte, il n'est pas pertinent pour diagnostiquer une carte qui contient des données. Il peut être utile pour vérifier rapidement qu'une carte neuve n'est pas contrefaite ou s'assurer qu'elle soit bien défectueuse avant d'être jetée.
 Comme les cartes SD s'usent, il est probablement sage de ne pas faire trop de tests non plus…
+(Faites des sauvegardes.)
