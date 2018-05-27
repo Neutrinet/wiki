@@ -32,8 +32,6 @@ D. `f3probe`, voir aussi [https://fight-flash-fraud.readthedocs.io/en/latest/usa
 
 Pour un simple test de vitesse en écriture directement sur la Brique, il y a [plus simple comme commande](https://wiki.neutrinet.be/cube/microsd#class-et-vitesse).
 
----
-
 ## A.1. `fsck` sur carte 64 Go corrompue
 
 Carte microSD dans adaptateur SD connecté directement à l'ordinateur. Celui-ci voit la carte mais ne peut pas la monter (« can't read superblock »).
