@@ -1,5 +1,4 @@
-<!-- TITLE: TestsSD -->
-<!-- SUBTITLE: Tests de cartes SD -->
+<!-- TITLE: Tests de cartes SD -->
 
 Tout ceci n'est pas forcément utile…
 
