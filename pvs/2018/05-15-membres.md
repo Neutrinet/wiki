@@ -46,7 +46,7 @@ Valérie, Tierce et Tharyrok y sont allés.
 ## Retour sur la journée de travail du hub infra
 
    * /dev/null (c'était ce samedi 12 mai et Jim et tharyrok ont parlé de réseau, bird, bgp, route, slash32, slash24, push dans le kernel du zgwirg de ???? )
-   * [Pad](https://annuel2.framapad.org/p/neutrinet-infra-2018-05-12)
+   * https://annuel2.framapad.org/p/neutrinet-infra-2018-05-12
    * Ils ont causé de BGP et ils ont conceptualisé une sorte d'infra vpn redondante et qui a même été testé en labo (merci les VMs sur le pc de tharyrok)
        * en gros ... c'était hub-routage
 
@@ -55,14 +55,14 @@ Valérie, Tierce et Tharyrok y sont allés.
    * les réunions brique ont lieu le deuxième lundi du mois sur le mumble de LDN
        * https://wiki.ldn-fai.net/wiki/Mumble
        * Réunions PAS que techniques. Les 50 premiers % sont centrés sur l'humain
-       * \url{https://pad.computhings.be/p/brique} (notes de tierce + liens vers les deux premières réunions brique de 2018)
-       * \url{https://wiki.labriqueinter.net/doku.php?id=meetings:index}
+       * https://pad.computhings.be/p/brique (notes de tierce + liens vers les deux premières réunions brique de 2018)
+       * https://wiki.labriqueinter.net/doku.php?id=meetings:index
        * Besoins d'humains pour faire des choses d'humain. Les machines-techniciens n'y arrivent pas.
-       * \url{https://labriqueinter.net/dotcubefiles.html}
-   * Une catégorie ouverte sur le Forum de Yunohost : \url{https://forum.yunohost.org/c/support/internet-cube}
-   * faire une lettre à la royauté pour leur offrir une brique sur \url{https://leroietlareine.be} et \url{https://koning-in.be} ^\_^ \url{https://lesroi-eines.be}
-##Support et canaux de communication
-
+       * https://labriqueinter.net/dotcubefiles.html
+   * Une catégorie ouverte sur le Forum de Yunohost : https://forum.yunohost.org/c/support/internet-cube
+   * faire une lettre à la royauté pour leur offrir une brique sur https://leroietlareine.be et https://koning-in.be ^_^ https://lesroi-eines.be
+ 
+## Support et canaux de communication
 
    * Neutrinet continue à faire du support - si on va vers ...
        * la liste neutrinet@lists.entransition.be sert aux annonces
@@ -71,15 +71,15 @@ Valérie, Tierce et Tharyrok y sont allés.
        * Mattermost et irc pour les discussions en temps réel
            * mais c'est pas publique ni indexable publiquement mais c'est pas grave
            * TODO : mettre le canal Support affiché par défaut pour les nouveaux membres
-       * Faire un pied de page pour la liste de distribution qui reprend les différents moyens de communication listés ci-dessous, plus une phrase "Vous pouvrrez peut-être trouver une solution à vos soucis techniques en effectuant une recherche sur le forum Yunohost, rubrique "La Brique Internet": \url{https://forum.yunohost.org/c/support/internet-cube}
-   * Genre comme ça quoi ? : \url{https://wiki.neutrinet.be/contact} +1+1
-##Remplacement du 123
-
+       * Faire un pied de page pour la liste de distribution qui reprend les différents moyens de communication listés ci-dessous, plus une phrase "Vous pouvrrez peut-être trouver une solution à vos soucis techniques en effectuant une recherche sur le forum Yunohost, rubrique "La Brique Internet": https://forum.yunohost.org/c/support/internet-cube
+   * Genre comme ça quoi ? : https://wiki.neutrinet.be/contact +1+1
+  
+## Remplacement du 123
 
    * Quid des EPN? Philippe de l'EPN Ixellois serait partant. Délai de +/- 3 mois pour organiser quelque chose.
    * Emmanuel à rencontré aussi le responsable de l'EPN de Boisfort
-   * Réseau CABAN - EPNs Bruxellois.  \url{http://caban.be/} 
-   * \url{https://annuel2.framapad.org/p/neutrinet-autres-lieux} (merci à JM pour cette belle liste)
+   * Réseau CABAN - EPNs Bruxellois.  http://caban.be/
+   * https://annuel2.framapad.org/p/neutrinet-autres-lieux (merci à JM pour cette belle liste)
    * + le LaboKube (où Nurpa avait fait la projection de Nothing To Hide)
 
    * Valerie:
@@ -89,14 +89,15 @@ Valérie, Tierce et Tharyrok y sont allés.
    * GPG party
    * Crypto party (avec Nurpa ... ou ce qu'il en reste :p)
    * Café vie privée
-   * RGPD praty ^\_^
+   * RGPD praty ^_^
    * /dev/null party
    * /dev/urandom party
 
    * Point politique e-Jim 
        * +1 pour les epn car proche des gens <3
        * s'occupe de les contacter
-##S'occuper des (futur) serveurs
+ 
+## S'occuper des (futur) serveurs
 
 
    * Appel aux dons ?
