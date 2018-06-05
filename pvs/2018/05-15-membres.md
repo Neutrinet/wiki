@@ -114,7 +114,7 @@ Valérie, Tierce et Tharyrok y sont allés.
 
 ---
 
-Pour pour la réunion suivant :
+Pour la réunion suivant :
 
    * Avancement du hub DC
    * Un(e) administrateur(trice) de plus
