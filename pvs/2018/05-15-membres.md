@@ -123,10 +123,8 @@ Pour pour la réunion suivant :
    * Stickers
 
 En freestyle
-Tharyrok : 
-    Ne veux plus parler de comment on fait sur les mailing list car on en parle trop
-Tierce : 
-    Neutrinet vient seulement de se « stabiliser » ;) c'est mieux pour identifier qui fait quoi et à qui s'adresser
+- Tharyrok :  Ne veux plus parler de comment on fait sur les mailing list car on en parle trop
+- Tierce : Neutrinet vient seulement de se « stabiliser » ;) c'est mieux pour identifier qui fait quoi et à qui s'adresser
 
 
 
