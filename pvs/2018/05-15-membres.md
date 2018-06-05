@@ -99,22 +99,22 @@ Valérie, Tierce et Tharyrok y sont allés.
  
 ## S'occuper des (futur) serveurs
 
-
    * Appel aux dons ?
    * Par exemple : 142€ pour un financement \url{https://www.thinkmate.com/system/superserver-1028tp-dtr}
 
    * Obligation d'avoir un acces IPMI correcte /!\
 
-##Journée cool - Journée des anciens - ...
+## Journée cool - Journée des anciens - ...
 
 - À lier avec une journée de travail en septembre ?
 - Détachée d'une journée de travail, possible avant septembre alors…
 - Essayer de faire revenir ceux qui ont fait vivre Neutrinet.
 
-##Et c'est déjà bien .. :)
+## Et c'est déjà bien .. :)
 
+---
 
-Pour pour la réu suivant :
+Pour pour la réunion suivant :
 
    * Avancement du hub DC
    * Un(e) administrateur(trice) de plus
@@ -122,7 +122,7 @@ Pour pour la réu suivant :
    * Un membre pour suivre la fédé (non pour tierce, tharyrok)
    * Stickers
 
-EN free style
+En freestyle
 Tharyrok : 
     Ne veux plus parler de comment on fait sur les mailing list car on en parle trop
 Tierce : 
