@@ -25,39 +25,35 @@ Valérie, Tierce et Tharyrok y sont allés.
        * Tierce a décidé de rejoindre le Bureau de la Fédération \o/ 
        * Tharyrok a rejoint le groupe Nouvelles (+ Sysadmin + Inclusion)
        * Les français ont réalisé qu'il se passait aussi des choses chouettes hors de leurs frontières 
-   * 
-
    * Plusieurs fai ont révélé qu'avoir un local pour eux c'est génial et cool pour les membres
-
    * Tierce : 
        * son discours nous a bien remis sur terre et nous a rappelé que nous sommes des humains \o/
        * quand les gens ont des besoin ils prennent les outils adéquats
        * une vision plus européenne
-
-   * Valérie:
+   * Valérie :
        * Une super intégration et la bienveillance pour tous, en harmonie.
        * +++
-##Banque
 
+## Banque
 
    * Record Bank racheté par ING.  Du coup, on ne peut pas accéder à notre compte, car il faut un lecteur de carte ING et un ING ID.
    * i3d pour fin du mois (si on a pas récup accès ING, tharyrok dépannera) 
    * Si on change de banque (genre Triodos parce que c'est possible pour les asbl et même les associations de fait)
        * il faut  prévoir la « portabilité » pour les versements des membres 
        * donc garder les deux banques en // pendant un an si on fait ça
-   * Jim va contacter Ttriodos
-##Retour sur la journée de travail du hub infra
-
+   * Jim va contacter Triodos
+ 
+## Retour sur la journée de travail du hub infra
 
    * /dev/null (c'était ce samedi 12 mai et Jim et tharyrok ont parlé de réseau, bird, bgp, route, slash32, slash24, push dans le kernel du zgwirg de ???? )
-   * \url{https://annuel2.framapad.org/p/neutrinet-infra-2018-05-12}
-   * ils ont causé de BGP et ils ont conceptualisé une sorte d'infra vpn redondante et qui a même été testé en labo (merci les VMs sur le pc de tharyrok)
+   * [Pad](https://annuel2.framapad.org/p/neutrinet-infra-2018-05-12)
+   * Ils ont causé de BGP et ils ont conceptualisé une sorte d'infra vpn redondante et qui a même été testé en labo (merci les VMs sur le pc de tharyrok)
        * en gros ... c'était hub-routage
-##Retour sur les réunions Brique
 
+## Retour sur les réunions Brique
 
    * les réunions brique ont lieu le deuxième lundi du mois sur le mumble de LDN
-       * \url{https://wiki.ldn-fai.net/wiki/Mumble} 
+       * https://wiki.ldn-fai.net/wiki/Mumble
        * Réunions PAS que techniques. Les 50 premiers % sont centrés sur l'humain
        * \url{https://pad.computhings.be/p/brique} (notes de tierce + liens vers les deux premières réunions brique de 2018)
        * \url{https://wiki.labriqueinter.net/doku.php?id=meetings:index}
