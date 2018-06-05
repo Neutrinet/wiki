@@ -1,5 +1,5 @@
 <!-- TITLE: 03/20 (Membres) -->
-<!-- SUBTITLE: Réunion des membres -->
+<!-- SUBTITLE: Réunion du 15 mai 2018 -->
 
 ## Relecture des autres réunions membres de 2018
 
