@@ -5,9 +5,9 @@
 
 [Réunion précédentes](https://wiki.neutrinet.be/pvs/2018/03-20-membres)
 [PVs de 2018](https://wiki.neutrinet.be/pvs/2018/01-18)
-Question sur le matos de la brique, on reste sur les lime
+Question sur le matos de la brique, on reste sur les Lime
 Recherche un lieux pour le 123
-Diagnostique du serveur troll et des pannes qui on eu lieux
+Diagnostique du serveur Troll et des pannes qui on eu lieu
 
 ## Retour sur l'AG de la Fédération FDN
 
@@ -21,11 +21,11 @@ Valérie, Tierce et Tharyrok y sont allés.
        * Pas de discussion décisives en ce qui concerne Neutrinet directement
        * GT zéro-log (aucune journalisation sur les serveurs) qui peut aider à la compliance RGPD
        * Groupe essaimage et nouveaux membres pourraient nous aider.
-       * GT Formation pourrais aider aussi
+       * GT Formation pourrait aider aussi
        * Tierce a décidé de rejoindre le Bureau de la Fédération \o/ 
        * Tharyrok a rejoint le groupe Nouvelles (+ Sysadmin + Inclusion)
        * Les français ont réalisé qu'il se passait aussi des choses chouettes hors de leurs frontières 
-   * Plusieurs fai ont révélé qu'avoir un local pour eux c'est génial et cool pour les membres
+   * Plusieurs FAI ont révélé qu'avoir un local pour eux c'est génial et cool pour les membres
    * Tierce : 
        * son discours nous a bien remis sur terre et nous a rappelé que nous sommes des humains \o/
        * quand les gens ont des besoin ils prennent les outils adéquats
@@ -39,7 +39,7 @@ Valérie, Tierce et Tharyrok y sont allés.
    * Record Bank racheté par ING.  Du coup, on ne peut pas accéder à notre compte, car il faut un lecteur de carte ING et un ING ID.
    * i3d pour fin du mois (si on a pas récup accès ING, tharyrok dépannera) 
    * Si on change de banque (genre Triodos parce que c'est possible pour les asbl et même les associations de fait)
-       * il faut  prévoir la « portabilité » pour les versements des membres 
+       * il faut prévoir la « portabilité » pour les versements des membres (domiciliations)
        * donc garder les deux banques en // pendant un an si on fait ça
    * Jim va contacter Triodos
  
