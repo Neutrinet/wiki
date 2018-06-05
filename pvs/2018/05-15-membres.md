@@ -1,22 +1,20 @@
 <!-- TITLE: 03/20 (Membres) -->
 <!-- SUBTITLE: Réunion des membres -->
 
-Dernière réunion: \url{https://wiki.neutrinet.be/pvs/2018/03-20-membres}
+## Relecture des autres réunions membres de 2018
 
-##Retour des autres réunions membres de 2018
-\url{https://wiki.neutrinet.be/pvs/2018/03-20-membres}
-\url{https://wiki.neutrinet.be/pvs/2018/01-18}
+[Réunion précédentes](https://wiki.neutrinet.be/pvs/2018/03-20-membres)
+[PVs de 2018](https://wiki.neutrinet.be/pvs/2018/01-18)
 Question sur le matos de la brique, on reste sur les lime
 Recherche un lieux pour le 123
 Diagnostique du serveur troll et des pannes qui on eu lieux
 
-##Retour sur l'AG de la Fédération FDN
+## Retour sur l'AG de la Fédération FDN
 
 Valérie, Tierce et Tharyrok y sont allés. 
 
-
-   * PVs de l'AG de la FFDN : \url{https://www.ffdn.org/wiki/doku.php?id=evenements:ag2018}
-   * retour perso de tharyrok : \url{https://mstdn.tharyrok.eu/@tharyrok/100008026979395040}
+   * [PVs de l'AG de la FFDN](https://www.ffdn.org/wiki/doku.php?id=evenements:ag2018)
+   * [Retour perso de tharyrok](https://mstdn.tharyrok.eu/@tharyrok/100008026979395040)
    * Retours par rapport à Neutrinet :
        * Première AG organisée avec animateurs
        * On se rend compte qu'on ne connait rien à la fédé, ni à ce qu'elle peut nous apporter, ou ce qu'on peut lui apporter
