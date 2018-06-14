@@ -18,6 +18,8 @@ Neutrinet is a member of the [FDN Federation](https://www.ffdn.org), whose [char
 > *The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality 
 and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development 
 and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf) 
+
+We have a [STATUS](https://status.neutrinet.be/) page (a work in progress).
 # Français
 Nous sommes organisés en [hubs](all) pour **vous proposer** du [Net-Neutraliser™ VPN](vpn) :heart_eyes:  et de [la brique Internet](cube).
 
@@ -33,6 +35,8 @@ Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nou
 neutralité du réseau et la défense des droits fondamentaux incluant notamment les droits à la libre expression, à l'accès à l'information et au respect de la vie 
 privée, avec les objectifs de développement humain et d'autonomisation des utilisateurs des réseaux.* Article 4 de [nos 
 status](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf) 
+
+Nous  [STATUS](https://status.neutrinet.be/) sur une page (en cours de développement).
 # Nederlands
 
 Te doen
