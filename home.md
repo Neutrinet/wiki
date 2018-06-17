@@ -39,7 +39,10 @@ status](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf)
 Nous  [STATUS](https://status.neutrinet.be/) sur une page (en cours de développement).
 # Nederlands
 
-We zijn in [hubs] georganiseerd om u een  [Net-Neutraliser™ VPN](vpn)  :heart_eyes: en een [Tha Internet Cube](cube) **te bieden**.
+We zijn in [hubs](all) georganiseerd om u een  [Net-Neutraliser™ VPN](vpn)  :heart_eyes: en een [Tha Internet Cube](cube) **te bieden**.
+
+We zijn een belgische associatieve internetaanbieder [ISP](https://nl.wikipedia.org/wiki/Internetprovider). Dit betekent dat wij een groep mensen zijn die voor onze internettoegang willen zorgen.
+
 
 
 
