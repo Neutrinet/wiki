@@ -41,7 +41,9 @@ Nous  [STATUS](https://status.neutrinet.be/) sur une page (en cours de développ
 
 We zijn in [hubs](all) georganiseerd om u een  [Net-Neutraliser™ VPN](vpn)  :heart_eyes: en een [Tha Internet Cube](cube) **te bieden**.
 
-We zijn een belgische associatieve internetaanbieder [ISP](https://nl.wikipedia.org/wiki/Internetprovider). Dit betekent dat wij een groep mensen zijn die voor onze internettoegang willen zorgen.
+We zijn een associatieve belgische internetaanbieder [ISP](https://nl.wikipedia.org/wiki/Internetprovider). Dit betekent dat wij een groep mensen zijn die voor onze internettoegang willen zorgen.
+
+
 
 
 
