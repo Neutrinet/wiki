@@ -8,6 +8,7 @@
 * [Configure Ethernet (incomplet)](https://wiki.labriqueinter.net/doku.php?id=howto:parametrer_une_brique_avec_un_connecteur_usb-ethernet_au_lieu_d_un_connecteur_usb-wifi)
 * [wiki de la briqueinter.net](https://wiki.labriqueinter.net/doku.php)
 * [un pad étendu sur la brique](https://pad.lqdn.fr/p/brique-formation)
+* [installer Yunohost sur un disque Sata externe (en Anglais)](https://wiki.labriqueinter.net/doku.php?id=howto:install_sata)
 
 
 # Monter un disque dur externe
