@@ -3,8 +3,8 @@
 
 # Apps Neutrinet
 
-Notre script d'installation ajoute une _liste d'applications_ à Yunohost afin de pouvoir installer et mettre à jour les applications spécifiques à Neutrinet.
-Il n'y a pour l'instant qu'une seule application: [neutrinet_ynh](https://github.com/Neutrinet/neutrinet_ynh).
+Notre [script d'installation](https://github.com/labriqueinternet/configuration_scripts/blob/master/neutrinet.sh) installe l'application neutrinet_ynh qui ajoute une [liste d'applications](https://github.com/Neutrinet/neutrinet_ynh/blob/master/scripts/install#L75) à Yunohost afin de pouvoir installer et mettre à jour les applications spécifiques à Neutrinet.
+Il n'y a pour l'instant qu'une seule application dans cette liste: [neutrinet_ynh](https://github.com/Neutrinet/neutrinet_ynh).
 Celle-ci configure le VPN, renouvelle les certificats si besoin, ...
 
 ## Mise à jour
