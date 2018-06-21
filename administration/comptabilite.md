@@ -5,7 +5,7 @@
 to do
 # Français
 ## Compte bancaire
-- https://www.homebank.recordbank.be
+- https://www.ing.be/fr/business/login
 - Cliquer sur "téléchargement des mouvements" (dans le menu "boule bleue avec une flèche blanche")
 - Entrer les date "de/à" (la moulinette d'import gère les doublons)
 
