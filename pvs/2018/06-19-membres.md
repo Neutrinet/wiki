@@ -19,35 +19,26 @@ Pour rappel
 	* on pourrait le faire avec Nubo 
 	* Déjà trois réunion de prises : https://pads.domainepublic.net/p/42u
 
+* une coopérative devrait être créée pour la gestion de la baie (Nubo, dom public, neutrinet,..)
+  * neutrinet serait membre pour faire le réseau
+  * quelqu'un devrait pouvoir reprendre le réseau
+  * un pool de sysadmin devraient exister
 
-    un coopérative devrait être créée pour la gestion de la baie (Nubo, dom public, neutrinet,..)
+* la formation / transmission des connaissances devraient être une exigence
 
-    neutrinet serait membre pour faire le réseau
+Conclusion: On en parle en hub infra samedi --> on a mis tout le monde présent au courant
 
-    quelqu'un devrait pouvoir reprendre le réseau
-
-    un pool de sysadmin devraient exister
-
-    la formation / transmission des connaissances devraient être une exigence
-
-
-    Piste: CIRB
-
-    Conclusion: On en parle en hub infra samedi --> on a mis tout le monde présent au courant
-
-
-    Tharyrok : j'ai rien foutu
-
-
+Tharyrok : j'ai rien foutu
 
 ## Petites Singularités Bonjour !
 
-icity28 (appel à projet p2p and decentralisation)
-contributopia
+* Un [forum](https://ps.zoethical.com/)
+* Une répons proposée pour un appel à projet européen [ICT28 (appel à projet p2p and decentralisation)](https://ps.zoethical.com/t/consortium-foundational-meeting-brussels-2018-02-05/1227)
+* Go [contributopia](https://contributopia.org/en/home/)
 
 
 
-## Un petit mot sur le remplacement de serveur
+## Remplacement de serveur
 
 Refaire une communication sur un financement pour ≠ configs et en fonction du résultat on irait vers ce qui est possible.
 
@@ -66,22 +57,23 @@ Quid des dons en nature genre au CIRB ? Patric Colmant s'occupe de logiciels lib
 
 dysroot ; inBerlin, le CCC
 
-## Un(e) administrateur(trice) de plus
+## Un(e) administrateur(trice) de plus ?
 
-Pour la prochaine AG (fin d'année)
-Actuellement 4 au moniteur mais  2 en activité.
-Conflit ? ...
-Ajouter (tierce)
-Changer le siège de l'assos? Genre chez e-jim.
+* Pour la prochaine AG (fin d'année)
+* Actuellement 4 au moniteur mais  2 en activité.
+* Conflit ? ...
+* Ajouter (tierce)
+* Changer le siège de l'assos? Genre chez e-jim.
 
 
-## Un membre pour suivre la fédé (non pour tierce, tharyrok) - CA
+## Participation au CA de FFDN
+Un membre de Neutrinet pour suivre la fédé (non pour tierce, tharyrok)? Qui veut?
 
-Membre du C.A. de la fédé : 2 réunions par an
-Rôle du C.A. de la FFDN : adhésions; lignes directrices de la fédé (faire le relais)
-Plus de place maintenant - il fait falloir augmenter le nombre dans les statuts. 
-Leur [dernière réu](https://pad.tetaneutral.net/p/FFDN-CA-20180618) + [celle d'avant](https://www.ffdn.org/wiki/doku.php?id=compte_rendus:ca:20180521)
-[AG 2018](https://www.ffdn.org/wiki/doku.php?id=evenements:ag2018:ag_formelle) (chercher “Groupe rôle du bureau / représentativité du CA”)
+* Membre du C.A. de la fédé : 2 réunions par an
+* Rôle du C.A. de la FFDN : adhésions; lignes directrices de la fédé (faire le relais)
+* Plus de place maintenant - il fait falloir augmenter le nombre dans les statuts. 
+* Leur [dernière réu](https://pad.tetaneutral.net/p/FFDN-CA-20180618) + [celle d'avant](https://www.ffdn.org/wiki/doku.php?id=compte_rendus:ca:20180521)
+* [AG 2018](https://www.ffdn.org/wiki/doku.php?id=evenements:ag2018:ag_formelle) (chercher “Groupe rôle du bureau / représentativité du CA”)
 
 
 ## Esperanzah
@@ -105,7 +97,8 @@ Rechercher magasins & co.
 À continuer dans le hub comm'
 
 
-## Plainte pour non-conformité auprès de la Commission Européenne + lettre ouverte
+## Plainte et lettre ouverte
+Dépot d'une plainte pour non-conformité auprès de la Commission Européenne + lettre ouverte
 
 Rétention de données dans les télécoms ( les logs par les FAI)
 Directive de 2006 a été attaquée devant Cour de Justice et terminée. Mais son contenu existe dans des lois. En Belgique aussi. Loi dit qu'on doit garder des logs pdt 12 mois, pouvoir les remettre aux officiers de justice.
@@ -115,7 +108,7 @@ Projet : signer une lettre ouverte au parlement. Déposer une plainte à la Comm
 Nurpa a signé la lettre ouverte.
 Est-ce qu'on veut signer la lettre ouverte?
 
- Pour la plainte, voir Liga voor Mensenrechten. Est-ce qu'on veut déposer la plainte ? 
+Pour la plainte, voir Liga voor Mensenrechten. Est-ce qu'on veut déposer la plainte ? 
 
 Envoyer un .doc par fax (ou par mail) à la commission européenne :
 
