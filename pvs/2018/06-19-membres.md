@@ -1,14 +1,13 @@
 <!-- TITLE: 06/19 (Membres) -->
 <!-- SUBTITLE: Réunions de membres -->
 
-## Présents
 
 Tierce, Valérie, e-Jim, Jean-Marie, Tharyrok, Emmanuel, Natacha, Helekin
 
 PV de la réunion précédente : https://wiki.neutrinet.be/pvs/2018/05-15-membres
 
 
-## Avancement du hub DC
+# Avancement du hub DC
 
 Faut une date : https://nuages.domainepublic.net/m/BClyO/vote/ (déjà le second mail qui demande!!)
 
@@ -30,7 +29,7 @@ Conclusion: On en parle en hub infra samedi --> on a mis tout le monde présent 
 
 Tharyrok : j'ai rien foutu
 
-## Petites Singularités Bonjour !
+# Petites Singularités Bonjour !
 
 * Un [forum](https://ps.zoethical.com/)
 * Une répons proposée pour un appel à projet européen [ICT28 (appel à projet p2p and decentralisation)](https://ps.zoethical.com/t/consortium-foundational-meeting-brussels-2018-02-05/1227)
@@ -38,7 +37,7 @@ Tharyrok : j'ai rien foutu
 
 
 
-## Remplacement de serveur
+# Remplacement de serveur
 
 Refaire une communication sur un financement pour ≠ configs et en fonction du résultat on irait vers ce qui est possible.
 
@@ -57,7 +56,7 @@ Quid des dons en nature genre au CIRB ? Patric Colmant s'occupe de logiciels lib
 
 dysroot ; inBerlin, le CCC
 
-## Un(e) administrateur(trice) de plus ?
+# Un(e) administrateur(trice) de plus ?
 
 * Pour la prochaine AG (fin d'année)
 * Actuellement 4 au moniteur mais  2 en activité.
@@ -66,7 +65,7 @@ dysroot ; inBerlin, le CCC
 * Changer le siège de l'assos? Genre chez e-jim.
 
 
-## Participation au CA de FFDN
+# Participation au CA de FFDN
 Un membre de Neutrinet pour suivre la fédé (non pour tierce, tharyrok)? Qui veut?
 
 * Membre du C.A. de la fédé : 2 réunions par an
@@ -76,12 +75,12 @@ Un membre de Neutrinet pour suivre la fédé (non pour tierce, tharyrok)? Qui ve
 * [AG 2018](https://www.ffdn.org/wiki/doku.php?id=evenements:ag2018:ag_formelle) (chercher “Groupe rôle du bureau / représentativité du CA”)
 
 
-## Esperanzah
+# Esperanzah
 
 Tharyrok y sera. Tierce répond pour le 22. Emmanuel s'il faut. Valérie: pffff?
 
 
-## Stickers + ???
+# Stickers + ???
 
 Qui veut des stickers? Qui va dessiner. 
 T-shirts? Hoodies? Pinn's 
@@ -97,7 +96,7 @@ Rechercher magasins & co.
 À continuer dans le hub comm'
 
 
-## Plainte et lettre ouverte
+# Plainte et lettre ouverte
 Dépot d'une plainte pour non-conformité auprès de la Commission Européenne + lettre ouverte
 
 Rétention de données dans les télécoms ( les logs par les FAI)
@@ -123,22 +122,22 @@ Lettre ouverte de la quadrature à l'europe :
     non : 0
     
 
-## petit tour de vie des hubs
+# petit tour de vie des hubs
 
-### hub communication
+## hub communication
 
 très volontaire mais discrinique depuis janvier... tentatives nombreuses de faire une réunion. Il n'y a pas encore eu de réunion. 
 idée pour le hub com : 
 * faire un moment un peu festif pour revoir les visages présents, futurs et anciens de neutrinet
 * faire un évènement qui invite plusieures assocs? 
 
-### hub admin
+## hub admin
 
 carte de banque est arrivée ! 
 Dépôt des comptes annuels . A Forest .
 Déclaration d'impôts . 
 
-### hub infra
+## hub infra
 
 Est actif. Fait des réunions. Est en restructuration complète. 
 Dernière réunion : i3D; on a actuellement 2 serveurs sur même U. Coût actuel 173 €/mois.
@@ -147,25 +146,25 @@ Le extra U revient à 30 € / mois. Passer à 2 U est possible financièrement.
      
 **Objectif : tout finir pour le 17 septembre 20h00.** 
 
-### Cube
+## Cube
 
 hub va bien.  Première fois sans personne dimanche passé.
 Plus d'accès au 123. C'était la dernière réunion. Le stock est chez tierce. 
 Idée nouvel endroit pour les install party : 46 avenue Princesse Elisabeth. Arrêt tram Princesse Elisabeth à Schaerbeek.  (faut y aller jeudi) C'est chez Peter. Il y a 3 pompes à vide ! ptr_here@riseup.net
     
 
-## Réunions de juillet et aout
+# Réunions de juillet et aout
 
 * Réunion des mardi : voir si bureaux d'EDRi disponibles pendant les congés… attendre réponse.
 * Réunion des dimanches : voir en fonction du lieu…
 
 
-## Fête des Anciens
+# Fête des Anciens
 
 * Faire un moment un peu festif pour revoir les visages présents, futurs et anciens de neutrinet
 * MI-septembre | Trouver un lieu | 
 * Faire un évènement qui invite plusieurs assocs?
 
-## Une charte de savoir vivre 
+# Une charte de savoir vivre 
 
 (code de conduite) --> report à la réunion prochaine  
