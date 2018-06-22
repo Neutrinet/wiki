@@ -1,7 +1,6 @@
 <!-- TITLE: Banque -->
-<!-- SUBTITLE: A quick summary of Banque -->
+<!-- SUBTITLE: Chez ING -->
 
-# Banque
 
 Le compte bancaire de l'ASBL a été ouvert chez Record Bank, entre temps rachetée par ING.
 Les 2 administrateurs qui ont mandat sur le compte sont:
