@@ -27,8 +27,8 @@ to do
 
 ## Déclaration fiscale
  "La date limite légale de dépôt (de la déclaration fiscale, via biztax) est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
- Clôture exercice de Neutrinet : 31 décembre N
- 
+
+Clôture exercice de Neutrinet : 31 décembre N
  L'AG doit donc être organisée en janvier, février, mars, avril,  mai ou juin.
  
  Date limite du dépôt de la déclaration IPM : 27 septembre pour 2018 car nous disposons de la "période complémentaire".
