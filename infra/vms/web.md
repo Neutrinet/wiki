@@ -30,25 +30,34 @@ OS          : Debian 8 (jessie)
 * supervisor
 
 ## nginx (vhost)
+
+**En prod**
+
 * admin.neutrinet.be
 * api.neutrinet.be
-* auth.neutrinet.be
-* beta.neutrinet.be
 * beta-wiki.neutrinet.be
 * chat.neutrinet.be
 * cube.neutrinet.be
-* ffdnapi.neutrinet.be
 * files.neutrinet.be
-* forum.neutrinet.be
 * hackeragenda.be
 * hackeragenda.fr
-* hackeragenda.urlab.be
 * neutrinet.be
 * support.neutrinet.be
 * user.neutrinet.be
 * vg.hackeragenda.be
 * wiki.neutrinet.be
 * wiki-old.neutrinet.be
+
+**Sandbox**
+
+* auth.neutrinet.be
+* beta.neutrinet.be
+
+**Cassé ou ???**
+
+* ffdnapi.neutrinet.be (redirect vers neutrine.be)
+* hackeragenda.urlab.be (not found)
+* forum.neutrinet.be (bad gw)
 
 ## postgresql
 * admin-neutrinet-be
