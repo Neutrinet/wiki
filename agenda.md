@@ -7,7 +7,7 @@
 
 - When? Sunday 17th of June 2018 from 2 pm to 6 pm
 - What? Install party, friendly talks, open to everybody, bring your laptops, cubes...
-- Where? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
+- Where?
 
 ## Third Tuesday meeting
 
