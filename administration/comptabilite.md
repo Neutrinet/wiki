@@ -39,6 +39,8 @@ Où ? Au greffe du Tribunal de Commerce : Boulevard de la deuxième armée Brita
 
 Quand ? Le dépôt des comptes annuels doit intervenir au plus tard dans le mois suivant leur approbation (ou leur refus) par l'AG. Compte tenu de la date butoir de l’approbation des comptes, le dépôt des comptes doit donc être opéré au plus tard sept mois après la clôture de l’exercice écoulé.
 
+Pour plus d'infos, un chouette document [ici](http://vieassociative.be/sites/default/files/20140724-comptes-annuels-petite-asbl.pdf)
+
 
 
 # Nederlands
