@@ -25,7 +25,7 @@
 
 - Quand ? Dimanche 17 juin 2018 de 14 à 18h.
 - Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
-- Où ? [123, rue Royale, Brussels](http://osm.org/go/0EoTjMnkL?m=&node=2345001227)
+- Où ? 
 
 
 ## Réunion du 3ème mardi
