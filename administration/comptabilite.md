@@ -30,11 +30,16 @@ Où ? Quand? Via biztax, annuellement.
 "La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
 
 Clôture exercice de Neutrinet : 31 décembre N.
-L'AG doit donc être organisée en janvier, février, mars, avril,  mai ou juin. 
+L'AG doit donc être organisée en janvier, février, mars, avril, ou mai. 
  
 Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
 
- 
+##  Dépôt des comptes annuels
+Où ? Au greffe du Tribunal de Commerce : Boulevard de la deuxième armée Britannique 148 à 1190 FOREST  Tel. : 02/348.96.70   [site](http://www.juridat.be/tribunal_commerce/bruxelles/)
+
+Quand ? Le dépôt des comptes annuels doit intervenir au plus tard dans le mois suivant leur approbation (ou leur refus) par l'AG. Compte tenu de la date butoir de l’approbation des comptes, le dépôt des comptes doit donc être opéré au plus tard sept mois après la clôture de l’exercice écoulé.
+
+
 
 # Nederlands
 to doen
