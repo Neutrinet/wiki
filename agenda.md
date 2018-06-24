@@ -4,43 +4,54 @@
 # English
 
 ## Third Sunday Install Party
+*Install party, friendly talks, open to everybody, bring your laptops, cubes...*
 
-- When? Sunday 17th of June 2018 from 2 pm to 6 pm
-- What? Install party, friendly talks, open to everybody, bring your laptops, cubes...
-- Where?
+Sunday 15th of July 2018 from 2 pm to 6 pm.
+
+46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://hacklab.brussels/).
+
+Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
 
 ## Third Tuesday meeting
+*Neutrinet's members meeting, open to everybody*
 
-- When? Tuesday 19th of June at 7:30 pm
-- What? Neutrinet's members meeting, open to everybody
-- Where? 12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
+Tuesday 19th of June at 7:30 pm
+ 
+12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
-:books: Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` section in our [documentation](all).
+Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` section in our [documentation](all).
 
 ## Other Events
 
-- Saturday 30th June 2018 for the [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) as friends of the workshop **Déshabillez-moi, Big Brother !**
+Saturday 30th June 2018 for the [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) as friends of the workshop **Déshabillez-moi, Big Brother !**
+
+The 3,4 and 5 August 2018 at the Village des Possibles in the [Esperanzah](https://www.esperanzah.be/) festival with [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
+
 # Français
 ## Install Party du 3ème dimanche
+*Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...*
 
-- Quand ? Dimanche 17 juin 2018 de 14 à 18h.
-- Quoi ? Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...
-- Où ? 
+Dimanche 15 juillet 2018 de 14 à 18h.
+
+46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://hacklab.brussels/).
+
+Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
 
 ## Réunion du 3ème mardi
+*Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.*
 
-- Quand ? Mardi 19 juin 2018 à 19h30.
-- Quoi ? Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
-- Où ? 12, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894)
+Mardi 17 juillet 2018 à 19h30.
 
-:books: N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre [documentation](all).
+12, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894).
+
+N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre [documentation](all).
 
 ## Autres Évènements
 
-- Samedi 30 juin 2018 pour les [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) en accompagnement de l'atelier **Déshabillez-moi, Big Brother !**
+Samedi 30 juin 2018 pour les [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) en accompagnement de l'atelier **Déshabillez-moi, Big Brother !**
 
-
+Les 3,4 et 5 août 2018 au Village des Possibles du festival [Esperanzah](https://www.esperanzah.be/) avec [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
 
 # Nederlands
 Te vertalen.
