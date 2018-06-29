@@ -25,6 +25,8 @@ Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` 
 
 Saturday 30th June 2018 for the [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) as friends of the workshop **Déshabillez-moi, Big Brother !**
 
+Thursday 5th July 19pm : [NURPApéro](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) to meet and gather.
+
 The 3,4 and 5 August 2018 at the Village des Possibles in the [Esperanzah](https://www.esperanzah.be/) festival with [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
 
 # Français
@@ -50,6 +52,8 @@ N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre
 ## Autres Évènements
 
 Samedi 30 juin 2018 pour les [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) en accompagnement de l'atelier **Déshabillez-moi, Big Brother !**
+
+Jeudi 5 juillet, 19h [NURPApéro](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) pour se rencontrer et papoter.
 
 Les 3,4 et 5 août 2018 au Village des Possibles du festival [Esperanzah](https://www.esperanzah.be/) avec [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
 
