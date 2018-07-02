@@ -6,7 +6,7 @@ to do
 # Français
 ## Compte bancaire
 - https://www.ing.be/fr/business/login
-- Cliquer sur "téléchargement des mouvements" (dans le menu "boule bleue avec une flèche blanche")
+- Cliquer sur "mes comptes à vue", puis "exporter des mouvements"
 - Entrer les date "de/à" (la moulinette d'import gère les doublons)
 
 ## Uploader le fichier CSV des transactions dans notre outil d'administration
