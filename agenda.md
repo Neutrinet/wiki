@@ -8,7 +8,7 @@
 
 Sunday 15th of July 2018 from 2 pm to 6 pm.
 
-46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://hacklab.brussels/).
+46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 
 Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
 
@@ -23,9 +23,7 @@ Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` 
 
 ## Other Events
 
-Saturday 30th June 2018 for the [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) as friends of the workshop **Déshabillez-moi, Big Brother !**
-
-Thursday 5th July 19pm : [NURPApéro](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) to meet and gather.
+Saturday 14th July 13pm : [NURPAtelier](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) a practical afternoon workshop on computer security/digital hygiene, in a dynamic of knowledge sharing and mutual aid.
 
 The 3,4 and 5 August 2018 at the Village des Possibles in the [Esperanzah](https://www.esperanzah.be/) festival with [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
 
@@ -35,7 +33,7 @@ The 3,4 and 5 August 2018 at the Village des Possibles in the [Esperanzah](https
 
 Dimanche 15 juillet 2018 de 14 à 18h.
 
-46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://hacklab.brussels/).
+46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
@@ -51,9 +49,7 @@ N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre
 
 ## Autres Évènements
 
-Samedi 30 juin 2018 pour les [Dialogues en humanité Bruxelles](http://dialoguesenhumanite.be) en accompagnement de l'atelier **Déshabillez-moi, Big Brother !**
-
-Jeudi 5 juillet, 19h [NURPApéro](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) pour se rencontrer et papoter.
+Samedi 14 juillet, 13h [NURPAtelier](https://nurpa.be/actualites/2018/06/agenda-juillet-2018-rencontre) un après-midi d’atelier pratique sur la sécurité informatique/hygiène numérique, dans une dynamique de partage de connaissances et d’entraide.
 
 Les 3,4 et 5 août 2018 au Village des Possibles du festival [Esperanzah](https://www.esperanzah.be/) avec [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
 
