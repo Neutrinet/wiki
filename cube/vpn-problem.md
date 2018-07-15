@@ -31,7 +31,7 @@ Et attendre 5/10 minutes et voir si tu peux te reco au domaine ou à l'IP publiq
 Si non, mais que tu sais faire un ping vers le monde extérieur tout en ayant toujours pas de VPN
 
 ```
-# wget https://gist.githubusercontent.com/tbalthazar/8d14dba0fdc76bf31f981c94781ec7a3/raw/76a0c8d43480756dd302ef50f37b2aabd28e3022/neutrinet-connectivity-fix.sh
+# wget https://gist.githubusercontent.com/tbalthazar/8d14dba0fdc76bf31f981c94781ec7a3/raw/ab08f9d23ee9c7f8cc6ade4925881622ca144a83/neutrinet-connectivity-fix.sh
 # chmod +x neutrinet-connectivity-fix.sh
 # ./neutrinet-connectivity-fix.sh
 ```
