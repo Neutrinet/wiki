@@ -48,6 +48,9 @@ We zijn een associatieve belgische internetaanbieder [ISP](https://nl.wikipedia.
 
 # Agenda
 <iframe width="100%" height="500" src="https://files.neutrinet.be/index.php/apps/calendar/embed/375V4JSNHTU04NXL"></iframe>
+
 Vous pouvez vous abonner à cet agenda (caldav/webdav) via l'adresse suivante: webcal://files.neutrinet.be/remote.php/dav/public-calendars/375V4JSNHTU04NXL?export
+
 You can subscribe to this public agenda (through a caldav/webdav client) to the following adress: webcal://files.neutrinet.be/remote.php/dav/public-calendars/375V4JSNHTU04NXL?export
+
 U kunt uw aan deze publieke agenda aboneeren (caldav/webdav) via dit adress : webcal://files.neutrinet.be/remote.php/dav/public-calendars/375V4JSNHTU04NXL?export
