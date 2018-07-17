@@ -49,3 +49,5 @@ Pour voir la liste des publications au moniteur, [c'est ici](http://www.ejustice
 **Article 13.** Un règlement d'ordre intérieur est établi par le conseil d'administration qui le fait approuver par l'assemblée générale. Ce règlement est destiné à fixer les divers points non prévus par les statuts.
 
 **Article 14.** L'exercice social commence le 1er janvier pour se terminer le 31 décembre. 
+
+<iframe width="400" height="215" src="https://files.neutrinet.be/index.php/apps/calendar/embed/zkMxFkHCsC3ysfqF"></iframe>
