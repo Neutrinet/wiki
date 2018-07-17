@@ -48,4 +48,4 @@ We zijn een associatieve belgische internetaanbieder [ISP](https://nl.wikipedia.
 
 # Agenda
 
-<iframe width="600" height="430" src="https://files.neutrinet.be/index.php/apps/calendar/embed/375V4JSNHTU04NXL"></iframe>
+<iframe width="100%" height="500" src="https://files.neutrinet.be/index.php/apps/calendar/embed/375V4JSNHTU04NXL"></iframe>
