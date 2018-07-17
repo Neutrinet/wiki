@@ -44,6 +44,8 @@ We zijn in [hubs](all) georganiseerd om u een  [Net-Neutraliser™ VPN](vpn)  :h
 We zijn een associatieve belgische internetaanbieder [ISP](https://nl.wikipedia.org/wiki/Internetprovider). Dit betekent dat wij een groep mensen zijn die voor onze internettoegang willen zorgen.
 
 
+`<iframe width="400" height="215" src="https://files.neutrinet.be/index.php/apps/calendar/embed/zkMxFkHCsC3ysfqF"></iframe>`
+
 
 
 
