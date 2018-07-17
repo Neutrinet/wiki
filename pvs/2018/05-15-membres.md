@@ -125,7 +125,3 @@ Pour la réunion suivant :
 En freestyle
 - Tharyrok :  Ne veux plus parler de comment on fait sur les mailing list car on en parle trop
 - Tierce : Neutrinet vient seulement de se « stabiliser » ;) c'est mieux pour identifier qui fait quoi et à qui s'adresser
-
-
-
-<iframe width="600" height="380" src="https://files.neutrinet.be/index.php/apps/calendar/embed/375V4JSNHTU04NXL"></iframe>
