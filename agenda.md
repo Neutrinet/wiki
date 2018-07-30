@@ -15,7 +15,7 @@ Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstree
 ## Third Tuesday meeting
 *Neutrinet's members meeting, open to everybody*
 
-Tuesday 19th of June at 7:30 pm
+Tuesday 21th of August at 7:30 pm **(to confirm)**
  
 12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
@@ -23,7 +23,7 @@ Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` 
 
 ## Informal meeting
 
-Thursday 19th of July 2018 from 5 pm to ...
+Thursday 2nd of August 2018 from 5 pm to ...
 
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 
@@ -47,7 +47,7 @@ Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19
 ## Réunion du 3ème mardi
 *Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.*
 
-Mardi 17 juillet 2018 à 19h30.
+Mardi 21 août 2018 à 19h30. **(à confirmer)**
 
 12, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894).
 
@@ -55,7 +55,7 @@ N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre
 
 ## Rencontre informelle
 
-Jeudi  19 juillet 2018 de 17h à ...
+Jeudi  2 août 2018 de 17h à ...
 
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 
