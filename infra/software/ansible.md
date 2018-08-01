@@ -1,0 +1,1 @@
+« Une ansible est un dispositif théorique permettant de réaliser des communications à une vitesse supraluminique […] »
