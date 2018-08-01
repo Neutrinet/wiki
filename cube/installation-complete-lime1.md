@@ -1,4 +1,4 @@
-<!-- TITLE: LIME 1 -->
+<!-- TITLE: Install d'une LIME1 -->
 <!-- SUBTITLE: Exemple d'installation compléte d'une Lime 1-->
 
 # Résumé :
