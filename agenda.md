@@ -29,6 +29,18 @@ Thursday 2nd of August 2018 from 5 pm to ...
 
 Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
 
+## « Ansible recipes » days
+
+« Ansible recipes » days for our next infra.
+These working days are open to anybody wanting to know more and learn about virtualisation and infrastructure automatisation.
+At [tierce place](https://www.openstreetmap.org/way/488799960#map=19/50.69328/4.58161), in Limal, from about 10 am but you can come at any time.
+Take something to drink and some munchies, meals will be provided.
+If you intend to stay the whole weekend, tierce's nicest piggybank will be ready for your tips.
+
+This weekend will be about planning the set up for our soon-to-be next new second hand servers… when we'll get them.
+
+We'll fill this page : <https://neutrinet.be/infra/software/ansible>.
+
 ## Other Events
 
 The 3,4 and 5 August 2018 at the Village des Possibles in the [Esperanzah](https://www.esperanzah.be/) festival with [Abelli asbl](http://www.abelli-asbl.be/?lang=fr).
@@ -61,6 +73,19 @@ Jeudi  2 août 2018 de 17h à ...
 
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
+## Journée « recettes Ansible »
+
+Journée « recettes Ansible » pour notre nouvelle infra.
+C'est ouvert à tous ceux et celles qui voudraient apprendre des trucs sur la virtualisation et l'automatisation pour construire une infra seine et sereine. ^_^
+
+Chez [tierce, à Limal](https://www.openstreetmap.org/way/488799960#map=19/50.69328/4.58161) à partir de 10h00 mais venez quand vous voulez.
+Prévoyez à boire et des crasses, il y aura à manger pour le midi et le soir.
+tierce laissera une cagnotte si vous passez tout le week-end chez lui.
+
+Ce week-end a pour objectif de préparer un déploiement sur nos nouveaux serveurs (d'occase) quand on les aura.
+On complétera la page <https://neutrinet.be/infra/software/ansible>.
+
+Et pour la route, framasky nous parle de l'infra de Framasoft : <https://huit.re/4BHr6arh>.
 
 ## Autres Évènements
 
