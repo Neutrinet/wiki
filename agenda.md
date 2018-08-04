@@ -31,6 +31,8 @@ Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstree
 
 ## « Ansible recipes » days
 
+Saturday 25th and Sunday 26th August.
+
 « Ansible recipes » days for our next infra.
 These working days are open to anybody wanting to know more and learn about virtualisation and infrastructure automatisation.
 At [tierce place](https://www.openstreetmap.org/way/488799960#map=19/50.69328/4.58161), in Limal, from about 10 am but you can come at any time.
@@ -73,9 +75,11 @@ Jeudi  2 août 2018 de 17h à ...
 
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
-## Journée « recettes Ansible »
+## Journées « recettes Ansible »
 
-Journée « recettes Ansible » pour notre nouvelle infra.
+Samedi 25 et dimanche 26 août
+ 
+Journées « recettes Ansible » pour notre nouvelle infra.
 C'est ouvert à tous ceux et celles qui voudraient apprendre des trucs sur la virtualisation et l'automatisation pour construire une infra seine et sereine. ^_^
 
 Chez [tierce, à Limal](https://www.openstreetmap.org/way/488799960#map=19/50.69328/4.58161) à partir de 10h00 mais venez quand vous voulez.
