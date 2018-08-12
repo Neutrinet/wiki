@@ -39,8 +39,8 @@ Financial tracking
 
 Prendre en charge le travail administratif *réactif* (comptabilité, ASBL, banque...) et *proactif* (gestion des membres, finance, AG...) et les outils qui vont avec.
 
-* Personne de contact : à définir
-* Compétences requises : gestion, bureautique, rigueur, ponctualité
+* Personne de contact : valérie
+* Compétences requises : gestion, bureautique, rigueur, ponctualité, humour
 * Connaissances utiles : comptabilité, python/django
 
 ## Devenir membre de Neutrinet
