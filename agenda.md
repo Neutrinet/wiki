@@ -15,7 +15,7 @@ Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstree
 ## Third Tuesday meeting
 *Neutrinet's members meeting, open to everybody*
 
-Tuesday 21th of August at 7:30 pm **(to confirm)**
+Tuesday 21th of August at 7:30 pm **(CANCELED - next one in september!)**
  
 12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
@@ -61,7 +61,7 @@ Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19
 ## Réunion du 3ème mardi
 *Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.*
 
-Mardi 21 août 2018 à 19h30. **(à confirmer)**
+Mardi 21 août 2018 à 19h30. **(ANNULÉE - prochaine en septembre!)**
 
 12, rue Belliard à 1040 Bruxelles, dans les [bureaux d'EDRi](https://osm.org/go/0EoS3yxK5?node=3396312894).
 
