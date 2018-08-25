@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Utilisation d'Ansible -->
 
 
-> « Une ansible est un dispositif théorique permettant de réaliser des communications à une vitesse supraluminique […] »
+> « Une ansible est un dispositif théorique permettant de réaliser des communications à une vitesse supraluminique […] » (source [wikipedia](https://fr.wikipedia.org/wiki/Ansible)
 		
 # Français
 ## Historique
