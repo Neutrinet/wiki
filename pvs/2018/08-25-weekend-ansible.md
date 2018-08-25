@@ -1,4 +1,4 @@
-<!-- TITLE: 08 25 Weekend Ansible -->
+<!-- TITLE: 08 25 (Weekend Ansible) -->
 <!-- SUBTITLE: A quick summary of 08 25 Weekend Ansible -->
 
 # Header
