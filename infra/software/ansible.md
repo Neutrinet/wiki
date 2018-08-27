@@ -14,7 +14,7 @@
 
 ## Important
 
-  En utilisant Ansible ou toute autre solution similaire visant à automatiser les tâches d'administrations, il est **fortement déconseillé** ou plutôt **interdit** de modifier la configuration d'un seveur en éditant les fichiers de configurations manuellement.
+  En utilisant Ansible ou toute autre solution similaire visant à automatiser les tâches d'administrations, il est **fortement déconseillé** ou plutôt **interdit** de modifier la configuration d'un serveur en éditant les fichiers de configurations manuellement.
 
 ## Actualité
 
