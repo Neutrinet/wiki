@@ -33,7 +33,7 @@
 > Ces tâches exécutent des Modules. 
 > Les "Tasks" sont exécutées séquentiellement.
 > Une tâche spécifique ( appelée Handlers ) est exécutée après les "Tasks", ce Handlers est exécuté une fois à la fin de chaque "Plays". Cette tâche sert par exemple à redémarrer un service une fois que les différents modules de configurations ont été exécutés.    
-> - Les rôles sont des playbooks spéciaux autonome, qui contiennent la descriptions des tâches (taks), des variables, des modèles de configurations et autres fichiers. 
+> - Les rôles sont des playbooks spéciaux autonome, qui contiennent la descriptions des tâches (tasks), des variables, des modèles de configurations et autres fichiers. 
 > - Les modules sont des modèles ( templates ) Python écrits à l'aide de <a href="http://jinja.pocoo.org/" target="_blank">Jinja 2</a> qui est un moteur de création de modèles Python dont l'extension des fichiers est .j2 
 		
 ## Historique
