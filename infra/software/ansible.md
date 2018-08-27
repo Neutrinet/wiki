@@ -6,7 +6,7 @@
 ><a href="https://docs.ansible.com/#project" target="_blank">Ansible</a> est un programme écrit en Python, il permet l'exécution de scripts, principalement pour l'exécution de tâches administratives à partir d'une liste de machines cibles. ( <a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank">Pour la doc c'est ici</a> )
 >Ansible peut-être utilisé pour : 
 >
-	* La gestion de la configuration des machines.
+	- La gestion de la configuration des machines.
 	* le déploiement d'application.
 	* l'approvisionnement de services.
 	* l'orchestration des parcs informatiques.
