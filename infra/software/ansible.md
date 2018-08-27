@@ -15,7 +15,8 @@
 >
 >Ansible ne fonctionne pas sous forme de démon ( en tout cas dans sa version communautaire ), il ne nécessite donc pas une machine dédiée. Il permet donc une délégation des tâches administratives en le configurant de manière à s'exécuter sur des postes d'utilisateurs différents en partageant une même base de scripts ( Les scripts étant appelés playbooks dans le jargon d'Ansible ).
 >Ansible s'exécute séquentiellement de machine hôte en machine hôte. Il est de ce fait adapté aux petites infrastructures.
->Ansible ne nécessite pas d'agent spécifique : sous linux, il utilise SSH pour se connecter aux machines cibles. 
+>Ansible ne nécessite pas d'agent spécifique : sous linux, il utilise SSH pour se connecter aux machines cibles.
+>Les playbooks sont des fichiers YAML en plein texte ( lisible par des êtres humains ) qui décrivent l'état désiré de quelque-chose. Ces fichiers peuvent être utilisés pour construire des environnements d'applications complets.
 		
 ## Historique
 
