@@ -17,6 +17,20 @@
 >Ansible s'exécute séquentiellement de machine hôte en machine hôte. Il est de ce fait adapté aux petites infrastructures.
 >Ansible ne nécessite pas d'agent spécifique : sous linux, il utilise SSH pour se connecter aux machines cibles.
 >Les playbooks sont des fichiers YAML en plein texte ( lisible par des êtres humains ) qui décrivent l'état désiré de quelque-chose. Ces fichiers peuvent être utilisés pour construire des environnements d'applications complets.
+>Ansible utilises des variables sources qui peuvent être utilisées dans :
+> - Les playbooks.
+> - les fichiers ( utilisés par les playbooks ).
+> - Les inventaires ( group vars, host vars )
+> - La ligne de commande.
+> - Les variables découvertes lors de l'exécution d'Ansible.
+> - Ansible Tower ( partie non communautaire que nous n'utilisons pas )
+> Les playbooks sont appliqués aux éléments décrits dans les fichiers d'inventaires.
+> Les inventaires sont des listes d'éléments : Lignes statiques de serveurs, listes dynamiques de serveurs et ranges réseaux.
+>** En résumé :**
+> Les playbooks contiennent des jeux de tâches ( jeux de tâches = Plays en jargon Ansible )
+> Les Plays contiennent des tâches ( tâches = Tasks )
+> Les tâches ( Tasks ) sont exécutées séquentiellement.
+> Une tâche spécifique ( appelée Handlers ) est actionnée par les "tasks" et est exécutée une fois à la fin de chaque "Plays"    
 		
 ## Historique
 
