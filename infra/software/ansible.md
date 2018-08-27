@@ -31,7 +31,8 @@
 > Les Plays contiennent des tâches ( tâches = Tasks )
 > Ces tâches exécutent des Modules. 
 > Les "Tasks" sont exécutées séquentiellement.
-> Une tâche spécifique ( appelée Handlers ) est exécutée après les "Tasks", ce Handlers est exécuté une fois à la fin de chaque "Plays". Cette tâche sert par exemple à redémarrer un service une fois que les différents modules de configurations ont été exécutés.     
+> Une tâche spécifique ( appelée Handlers ) est exécutée après les "Tasks", ce Handlers est exécuté une fois à la fin de chaque "Plays". Cette tâche sert par exemple à redémarrer un service une fois que les différents modules de configurations ont été exécutés.    
+> - Les rôles sont de playbooks spéciaux autonome, qui contiennent la descriptions des tâches (taks), des variables, des modèles de configurations et autres fichiers. 
 		
 ## Historique
 
