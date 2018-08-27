@@ -13,7 +13,7 @@
 >	- La gestion des cycles de fourniture de services.
 >	- La gestion sécuritaire et la conformité des configurations d'un parc informatique.
 >
->Ansible ne fonctionne pas sous forme de démon ( en tout cas dans sa version communautaire ), il ne nécessite donc pas une machine dédiée.  Il peut-être configurer pour s'exécuter sur des postes d'utilisateurs différents partageant une même base de scripts.
+>Ansible ne fonctionne pas sous forme de démon ( en tout cas dans sa version communautaire ), il ne nécessite donc pas une machine dédiée. Il permet donc une délégation des tâches administratives en le configurant de manière à s'exécuter sur des postes d'utilisateurs différents en partageant une même base scripts ( scripts appelés playbooks dans le jargon d'Ansible ).
 >Ansible s'exécute séquentiellement de machine hôte en machine hôte. Il est de ce fait adapté aux petites infrastructures.
 >Ansible ne nécessite pas d'agent spécifique : sous linux, il utilise SSH pour se connecter aux machines cibles. 
 		
