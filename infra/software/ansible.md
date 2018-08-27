@@ -1,7 +1,7 @@
 <!-- TITLE: Ansible -->
 <!-- SUBTITLE: Utilisation d'Ansible -->
 
-
+## Description
 >Ansible est un programme d'exécution de tâches administratives écrit en Python.
 >Ansible ne fonctionne pas sous forme de démon ( en tout cas dans sa version communautaire ) et il peut-être configurer pour s'exécuter sur des postes d'utilisateurs différents partageant une même base de scripts.
 >Ansible s'exécute séquentiellement de machine hôte en machine hôte. Il est de ce fait adapté aux petites infrastructures.
