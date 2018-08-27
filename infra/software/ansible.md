@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Utilisation d'Ansible -->
 
 
-> « Une ansible est un dispositif théorique permettant de réaliser des communications à une vitesse supraluminique […] » (source [wikipedia](https://fr.wikipedia.org/wiki/Ansible)
+>Ansible est un programme d'exécution de tâches administratives écrit en  Python
 		
 # Français
 ## Historique
@@ -12,7 +12,7 @@
 
 ## Important
 
-  * En utilisant Ansible ou une solution similaire, il est **fortement déconseillé** de modifier la configuration d'un seveur en dehors d'Ansible.
+  En utilisant Ansible ou toute autre solution similaire visant à automatiser les tâches d'administrations, il est **fortement déconseillé** ou plutôt **interdit** de modifier la configuration d'un seveur en dehors d'Ansible.
 
 ## Actualité
 
