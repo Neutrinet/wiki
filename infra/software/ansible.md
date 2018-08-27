@@ -30,8 +30,8 @@
 > Les playbooks contiennent des jeux de tâches ( jeux de tâches = Plays en jargon Ansible )
 > Les Plays contiennent des tâches ( tâches = Tasks )
 > Ces tâches sont appelées Modules.
-> Les modules sont exécutés séquentiellement.
-> Une tâche spécifique ( appelée Handlers ) est actionnée par les "Modules" et est exécutée une fois à la fin de chaque "Plays"    
+> Les "Tasks" sont exécutés séquentiellement.
+> Une tâche spécifique ( appelée Handlers ) est exécutée après les "Tasks", ce Handlers est exécuté une fois à la fin de chaque "Plays". Cette tâche sert par exemple à redémarrer un service une fois que les différents modules de configurations ont été exécutés.     
 		
 ## Historique
 
