@@ -8,12 +8,12 @@
 
 Ansible est un moteur d'automatisation open source, qui peut-être utilisé pour : 
 
-	- La gestion de la configuration des machines.
-	- Le déploiement d'application.
-	- L'approvisionnement de services.
-	- L'orchestration des parcs informatiques.
-	- La gestion des cycles de fourniture de services.
-	- La gestion sécuritaire et la conformité des configurations d'un parc informatique.
+- La gestion de la configuration des machines.
+- Le déploiement d'application.
+- L'approvisionnement de services.
+- L'orchestration des parcs informatiques.
+- La gestion des cycles de fourniture de services.
+- La gestion sécuritaire et la conformité des configurations d'un parc informatique.
 
 Ansible ne fonctionne pas sous forme de démon ( en tout cas pas dans sa version communautaire ), il ne nécessite donc pas une machine dédiée. Il permet donc une délégation des tâches administratives en le configurant de manière à s'exécuter sur des postes d'utilisateurs différents en partageant une même base de scripts ( Les scripts étant appelés playbooks dans le jargon d'Ansible ).
 Ansible s'exécute séquentiellement de machine hôte en machine hôte. Il est de ce fait adapté aux petites infrastructures.
@@ -27,6 +27,7 @@ Ansible utilises des variables sources qui peuvent être utilisées dans :
  - La ligne de commande.
  - Les variables découvertes lors de l'exécution d'Ansible.
  - Ansible Tower ( partie non communautaire que nous n'utilisons pas )
+
 Les playbooks sont appliqués aux éléments décrits dans les fichiers d'inventaires.
 Les inventaires sont des listes d'éléments : Lignes statiques de serveurs, listes dynamiques de serveurs et ranges réseaux.
 
