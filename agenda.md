@@ -29,7 +29,7 @@ Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` 
 
 
 # Français
-## Install Party du 3ème dimanche
+## Install Party du 3e dimanche
 *Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...*
 
 Dimanche 16 septembre 2018 de 14 à 18h.
@@ -39,7 +39,7 @@ Dimanche 16 septembre 2018 de 14 à 18h.
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
 
-## Réunion du 3ème mardi
+## Réunion du 3e mardi
 *Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.*
 
 Mardi 18 septembre 2018 à 19h30.
