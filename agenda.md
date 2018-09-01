@@ -14,7 +14,6 @@
 Sunday 16th of September 2018 from 2 pm to 6 pm.
 
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
-
 Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
 
 ## Third Tuesday meeting
@@ -42,7 +41,6 @@ Depending on availabilities, the meeting will be in a café in Brussels or onlin
 Dimanche 16 septembre 2018 de 14 à 18h.
 
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
-
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
 
