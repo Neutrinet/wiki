@@ -1,7 +1,6 @@
 <!-- TITLE: Agenda -->
 <!-- SUBTITLE: Meetings, Réunions, Samenkomst, Install Parties, enz. -->
 
-# Agenda
 <iframe width="100%" src="https://files.neutrinet.be/index.php/apps/calendar/embed/375V4JSNHTU04NXL"></iframe>
 
   * Vous pouvez vous abonner à cet agenda (caldav/webdav) via [cette adresse](webcal://files.neutrinet.be/remote.php/dav/public-calendars/375V4JSNHTU04NXL?export)
