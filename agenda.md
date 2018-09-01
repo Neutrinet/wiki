@@ -4,7 +4,7 @@
 # English
 
 ## Third Sunday Install Party
-*Install party, friendly talks, open to everybody, bring your laptops, cubes...*
+*Install party, friendly talks, open to everybody, bring your laptops, cubes…*
 
 Sunday 16th of September 2018 from 2 pm to 6 pm.
 
