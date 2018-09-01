@@ -26,6 +26,13 @@ Tuesday 18th of September 2018 at 7:30 pm.
 
 Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` section in our [documentation](all).
 
+## Hub comm meeting
+*Communication stuff. Will probably be in french.*
+**Time and location to be confirmed.**
+
+Monday 1st of October 2018 at 7 pm or 8pm.
+Depending on availabilities, the meeting will be in a café in Brussels or online via Mumble.
+
 
 
 # Français
@@ -48,6 +55,12 @@ Mardi 18 septembre 2018 à 19h30.
 
 N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre [documentation](all).
 
+## Réunion du hub comm'
+*Pour faire des trucs de communication.*
+**Heure et lieu à confirmer.**
+
+Lundi 1er octobre 2018 à 19 ou 20h.
+Selon les disponibilités, la réunion aura lieu dans un café à Bruxelles ou se fera en ligne via Mumble.
 
 
 # Nederlands
