@@ -31,7 +31,7 @@ Ansible utilises des variables sources qui peuvent être utilisées dans :
 Les playbooks sont appliqués aux éléments décrits dans les fichiers d'inventaires.
 Les inventaires sont des listes d'éléments : Lignes statiques de serveurs, listes dynamiques de serveurs et ranges réseaux.
 
-** En résumé: **
+**En résumé**
 
 Les playbooks contiennent des jeux de tâches ( jeux de tâches = Plays en jargon Ansible )
 Les Plays contiennent des tâches ( tâches = Tasks )
