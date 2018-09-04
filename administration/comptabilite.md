@@ -15,11 +15,6 @@ to do
 - Une fois l'upload fait, vous pouvez visualiser l'import (il faudra probablement mettre les titres de certaines opérations à jour (cfr FIXME))
 - Sur cette page vous voyez tous les mouvements que vous pouvez éditer (pour les FIXME): https://admin.neutrinet.be/admin/accounts/movement/
 
-## Créer le fichier PDF à envoyer à BizTax
-- Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
-- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le [NextCloud](https://files.neutrinet.be) > Administrative > Compta > template-bilan-biztax.odt)
-- Générer un PDF
-- Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
 
 ## Tâches diverses
 - mettre les factures in/out dans le NextCloud > Administrative > Compta > année
@@ -33,6 +28,12 @@ Clôture exercice de Neutrinet : 31 décembre N.
 L'AG doit donc être organisée en janvier, février, mars, avril, ou mai. 
  
 Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
+
+### Créer le fichier PDF à envoyer à BizTax
+- Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
+- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le [NextCloud](https://files.neutrinet.be) > Administrative > Compta > template-bilan-biztax.odt)
+- Générer un PDF
+- Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
 
 ##  Dépôt des comptes annuels
 Où ? Au greffe du Tribunal de Commerce : Boulevard de la deuxième armée Britannique 148 à 1190 FOREST  Tel. : 02/348.96.70   [site](http://www.juridat.be/tribunal_commerce/bruxelles/)
