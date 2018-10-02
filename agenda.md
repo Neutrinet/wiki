@@ -35,7 +35,7 @@ At tierce home, Limal.
 *Communication stuff. Will probably be in french.*
 **Time and location to be confirmed.**
 
-Tuesday 2nd of October 2018 at 7 pm or 8pm.
+Tuesday 30st of October 2018 at 7 pm or 8pm.
 Depending on availabilities, the meeting will be in a café in Brussels or online via Mumble.
 
 
@@ -68,7 +68,7 @@ Mercredi 24 octobre à partir de 10-11h jusqu'en fin d'après-midi chez tierce, 
 *Pour faire des trucs de communication.*
 **Heure et lieu à confirmer.**
 
-Mardi 2 octobre 2018 à 19 ou 20h.
+Mardi 30 octobre 2018 à 19 ou 20h.
 Selon les disponibilités, la réunion aura lieu dans un café à Bruxelles ou se fera en ligne via Mumble.
 
 
