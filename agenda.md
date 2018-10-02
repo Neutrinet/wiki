@@ -11,7 +11,7 @@
 ## Third Sunday Install Party
 *Install party, friendly talks, open to everybody, bring your laptops, cubes…*
 
-Sunday 16th of September 2018 from 2 pm to 6 pm.
+Sunday 21st of October 2018 from 2 pm to 6 pm.
 
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
@@ -19,7 +19,7 @@ Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstree
 ## Third Tuesday meeting
 *Neutrinet's members meeting, open to everybody*
 
-Tuesday 18th of September 2018 at 7:30 pm.
+Tuesday 16th of October 2018 at 7:30 pm.
  
 12, Belliard street, 1040 Brussels, in [EDRi's offices](https://osm.org/go/0EoS3yxK5?node=3396312894)
 
