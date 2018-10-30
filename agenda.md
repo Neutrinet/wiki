@@ -25,7 +25,12 @@ Sunday **18st of November 2018** from 2 pm to 6 pm.
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ the [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstreetmap.org/#map=19/50.87286/4.37672).
 
+## Hub comm meeting
+*Communication stuff. Will probably be in french.*
 
+Tuesday 27st of November 2018 at 7 pm or 8pm (**to be confirmed**).
+
+Depending on availabilities, the meeting will be in a café in Brussels or online via Mumble.
 # Français
 
 ## Réunion du 3e mardi
@@ -45,7 +50,12 @@ Dimanche **18 novembre 2018** de 14 à 18h.
 46, Avenue Princesse Elisabeth, 1030 Schaerbeek, @ [hacklab](https://ps.zoethical.com/t/welcome-to-the-hacklab-bxl/1600).
 Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19/50.87286/4.37672) du tram 92.
 
+## Réunion du hub comm'
+*Pour faire des trucs de communication.*
 
+Mardi **27 novembre 2018** à 19 ou 20h.
+
+Selon les disponibilités, la réunion aura lieu dans un café à Bruxelles ou se fera en ligne via Mumble.
 
 # Nederlands
 Te vertalen.
