@@ -53,7 +53,7 @@ Juste devant l'arrêt [Princess Elisabeth](https://www.openstreetmap.org/#map=19
 ## Réunion du hub comm'
 *Pour faire des trucs de communication.*
 
-Mardi **27 novembre 2018** à 19 ou 20h.
+Mardi **27 novembre 2018** à 19 ou 20h (**à confirmer**).
 
 Selon les disponibilités, la réunion aura lieu dans un café à Bruxelles ou se fera en ligne via Mumble.
 
