@@ -28,7 +28,7 @@ Just in front of the Tramway 92, [Princess Elisabeth halt](https://www.openstree
 ## Hub comm meeting
 *Communication stuff. Will probably be in french.*
 
-Tuesday 27st of November 2018 at 7 pm or 8pm (**to be confirmed**).
+Tuesday **27st of November** 2018 at 7 pm or 8pm (**to be confirmed**).
 
 Depending on availabilities, the meeting will be in a café in Brussels or online via Mumble.
 # Français
