@@ -1,7 +1,7 @@
 <!-- TITLE: Install d'une LIME1 -->
 <!-- SUBTITLE: Exemple d'installation compléte d'une Lime 1-->
 
-# Résumé :
+# Résumé
 
 * enregistrement du nom de domaine chez Gandi : ± 4 minutes
 * déballage + montage : ± 4 minutes
@@ -15,11 +15,10 @@
 
 # Détails
 
-```text
-Lime1, 16Gb, Wifi Propriétaire
-Carte SD : 16Gb Kingston Industrial SDHC Class 10 UHS Class 1
-Image de https://repo.labriqueinter.net/  : labriqueinternet_A20LIME_latest_jessie.img.tar.xz   388M 2017-Sep-06 11:48
-```
+* Matériel : Lime1, Wifi Propriétaire, Boitier Plastic, Alimentation
+* Carte SD : 16Gb Kingston Industrial SDHC Class 10 UHS Class 1
+* Image : [labriqueinternet_A20LIME_latest_jessie.img.tar.xz](https://repo.labriqueinter.net/images/labriqueinternet_A20LIME_2017-09-06_jessie.img.tar.xz) & [ASC](https://repo.labriqueinter.net/images/labriqueinternet_A20LIME_2017-09-06_jessie.img.tar.xz.asc) du 2017-Sep-06 11:48
+
 
 ## nom de domaine
 ±4 minutes en version cochon, sans changer le propriétaire, un peu plus long en y faisant attention.
