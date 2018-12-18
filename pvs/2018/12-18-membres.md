@@ -135,3 +135,11 @@ Install party dimanche passé:
 À faire : tester une install Ynh 3.3 directement et / ou l'utilisation des fichiers .cube : https://install.labriqueinter.net/#welcome
 
 À faire : https://labriqueinter.net/dotcubefiles.html
+
+
+# Nubo 
+Finalise ses statuts et va bientôt passer chez le notaire !
+Si la proposition s'ouvre à Neutrinet d'être présent à la fondation, Neutrinet veut-il en faire partie ? Tout le monde présent est d'accord.
+Neutrinet désignerait alors un mandataire pour représenter l'association chez Nubo, mandataire qui serait Emmanuel qui fait actuellement partie de l'équipe derrière le projet Nubo.
+Si oui, combien de parts (25 € la part) ? A priori, quelque chose comme 200 € (8 parts) serait accepté.
+Emmanuel vérifie que cette offre est bien valide auprès de Nubo et contacte le cas échéant les administrateurs avec un résumé de tout ça pour leur approbation.
