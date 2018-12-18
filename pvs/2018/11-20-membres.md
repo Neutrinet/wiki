@@ -1,5 +1,5 @@
 <!-- TITLE: 11 20 Membres -->
-<!-- SUBTITLE: A quick summary of 11 20 Membres -->
+<!-- SUBTITLE: Réunion des membres -->
 
 
 Précédent PV : https://neutrinet.be/pvs/2018/10-16-membres
