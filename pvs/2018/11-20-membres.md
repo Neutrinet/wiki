@@ -1,4 +1,4 @@
-<!-- TITLE: 11 20 Membres -->
+<!-- TITLE: 11/20 (Membres) -->
 <!-- SUBTITLE: Réunion des membres -->
 
 
