@@ -1,4 +1,4 @@
-<!-- TITLE: 16/10 (Membres) -->
+<!-- TITLE: 10/16 (Membres) -->
 <!-- SUBTITLE: Réunions des membres -->
 
 Précédent PV : https://neutrinet.be/pvs/2018/09-18-membres
