@@ -5,29 +5,31 @@
 
 ![Cats](/uploads/cats.jpg "Cats"){.align-center}
 # English
-We are organized in [hubs](all) to **provide you** some [Net-Neutraliser™ VPN](vpn)  :heart_eyes: and [Tha Internet Cube](cube).
+[Neutrinet asbl](https://neutrinet.be/about) is organized in **hubs** *(working groups, tasks forces, circles, ...)*.
 
-We are an associative belgian [ISP](https://en.wikipedia.org/wiki/Internet_service_provider). This means that we are a group of people who want to take care of our internet access.
+* [hub admin](admin)
+* [hub comm](communication)
+* [hub cube](cube)
+* [hub infra](infra)
+* [hub vpn](vpn)
 
-As a non-profit organization, we rely on self-organized volunteerism to defend [network neutrality](https://www.laquadrature.net/en/Net_neutrality), [privacy](https://en.wikipedia.org/wiki/Privacy) and [freedom of expression](https://en.wikipedia.org/wiki/Freedom_of_speech).
-
-Neutrinet is a member of the [FDN Federation](https://www.ffdn.org), whose [charter(french)](https://www.ffdn.org/en/node/34) we have ratified and with whom we share **common values** of *voluntary, supportive, democratic and non-profit work*.  We participate to the [DIY-ISP](https://www.diyisp.org/) (Do It Yourself, Internet Service Provider) movement.
-
-**Do not hesitate to [contact](contact) us or to visit us during one of [our meetings](agenda#english).**
+And we try to keep track of our meetings under those [minutes](pvs).
 
 > *The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality 
 and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development 
 and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf) 
 
-We have a [STATUS](https://status.neutrinet.be/) page (a work in progress).
+**Do not hesitate to [contact](contact) us or to come in a meeting**
 # Français
-Nous sommes organisés en [hubs](all) pour **vous proposer** du [Net-Neutraliser™ VPN](vpn) :heart_eyes:  et de [la brique Internet](cube).
+[Neutrinet asbl](https://neutrinet.be/fr/apropos) est organisées en **hubs** *(groupes de travail, cercles, équipe,...).
 
-Installés en Belgique, nous sommes un [F.A.I.](https://fr.wikipedia.org/wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet) associatif. Cela signifie que nous sommes un groupe de personnes qui souhaite prendre soin de notre accès à Internet.
+* [hub admin](admin)
+* [hub comm](communication)
+* [hub cube](cube)
+* [hub infra](infra)
+* [hub vpn](vpn)
 
-En tant qu'association sans but lucratif, nous nous reposons sur un volontariat auto-organisés et nous défendons la [neutralité du réseau](https://www.laquadrature.net/fr/neutralite_du_Net), la [vie privée](https://www.anthologieprivacy.be/fr/node/602) et la [liberté d'expression](https://fr.wikipedia.org/wiki/Libert%C3%A9_d%27expression). 
-
-Neutrinet est un membre de la [Fédération FDN](https://www.ffdn.org), dont nous avons ratifié [la charte](https://www.ffdn.org/en/node/34) et avec qui nous partageons des **valeurs communes** de *travail bénévole, solidaire, démocratique et à but non lucratif*.  Nous participons au mouvement des [DIY-ISP](https://www.diyisp.org) (Do It Yourself, Internet Service Provider).
+Et nous conservons une trace de nos réunions dans les [PVs](pvs).
 
 **N'hésitez pas à nous [contacter](contact) ou à venir [nous rencontrer](agenda#francais).**
 
@@ -39,6 +41,12 @@ status](http://www.ejustice.just.fgov.be/tsv_pdf/2017/09/19/17133371.pdf)
 Nous  [STATUS](https://status.neutrinet.be/) sur une page (en cours de développement).
 # Nederlands
 
-We zijn in [hubs](all) georganiseerd om u een  [Net-Neutraliser™ VPN](vpn)  :heart_eyes: en een [Tha Internet Cube](cube) **te bieden**.
+We zijn in **hubs** georganiseerd.
 
-We zijn een associatieve belgische internetaanbieder [ISP](https://nl.wikipedia.org/wiki/Internetprovider). Dit betekent dat wij een groep mensen zijn die voor onze internettoegang willen zorgen.
+* [hub admin](admin)
+* [hub comm](communication)
+* [hub cube](cube)
+* [hub infra](infra)
+* [hub vpn](vpn)
+
+De verslagen van de vergaderingen vindt u in de [PVs](pv).
