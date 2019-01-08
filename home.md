@@ -3,7 +3,6 @@
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 
-![Cats](/uploads/cats.jpg "Cats"){.align-center}
 # English
 [Neutrinet asbl](https://neutrinet.be/about) is organized in **hubs** *(working groups, tasks forces, circles, ...)*.
 
@@ -50,3 +49,5 @@ We zijn in **hubs** georganiseerd.
 * [hub vpn](vpn)
 
 De verslagen van de vergaderingen vindt u in de [PVs](pv).
+
+![Cats](/uploads/cats.jpg "Cats"){.align-center}
