@@ -9,24 +9,28 @@
 # English
 Have a look at the [home page](https://neutrinet.be) of our website.
 
-## Third Tuesday meeting
-*Neutrinet's members meeting, open to everybody*
+**Third Tuesday meeting**
+
+Every month, it is the Neutrinet's members meeting and it is open to everybody.
 
 Do not hesitate to have a look at our [meeting reports](pvs) page and the `Pvs` section in our [documentation](all).
 
-## Third Sunday Install Party
-*Install party, friendly talks, open to everybody, bring your laptops, cubes…*
+**Third Sunday Install Party**
+
+Every month, Install party, friendly talks, open to everybody, bring your laptops, cubes… and we will try to fix some issue or learn how to install some [Internet Cube](cube).
 
 # Français
 Allez voir sur la [page d'accueil](https://neutrinet.be) de notre site oueb.
 
-## Réunion du 3e mardi
-*Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.*
+**Réunion du 3e mardi**
+
+Réunion de travail/rencontre/discussion pour les membres de Neutrinet, ouverte à toutes et tous.
 
 N'hésitez pas à visiter la [page dédiée](pvs) et la section `Pvs` dans notre [documentation](all).
 
-## Install Party du 3e dimanche
-*Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques...*
+**Install Party du 3e dimanche**
+
+Install party, rencontres, ouvert à toutes et tous, venez avec vos ordis, briques... et nous essayerons de réparer ou installer des [birques Internet](cube).
 
 
 # Nederlands
