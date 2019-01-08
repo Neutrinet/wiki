@@ -6,7 +6,7 @@
 # English
 [Neutrinet asbl](https://neutrinet.be/about) is organized in **hubs** *(working groups, tasks forces, circles, ...)*.
 
-* [hub admin](admin)
+* [hub admin](administration)
 * [hub comm](communication)
 * [hub cube](cube)
 * [hub infra](infra)
@@ -22,7 +22,7 @@ and the empowerment of network users.* Translation of the 4th article of [our st
 # Français
 [Neutrinet asbl](https://neutrinet.be/fr/apropos) est organisées en **hubs** *(groupes de travail, cercles, équipe,...).
 
-* [hub admin](admin)
+* [hub admin](administration)
 * [hub comm](communication)
 * [hub cube](cube)
 * [hub infra](infra)
@@ -42,7 +42,7 @@ Nous  [STATUS](https://status.neutrinet.be/) sur une page (en cours de développ
 
 We zijn in **hubs** georganiseerd.
 
-* [hub admin](admin)
+* [hub admin](administration)
 * [hub comm](communication)
 * [hub cube](cube)
 * [hub infra](infra)
