@@ -44,6 +44,9 @@ Pour plus d'infos, un chouette document [ici](http://vieassociative.be/sites/def
 
 
 ## Taxe annuelle sur les ASBL 
-[C](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration_d_impot)
+La taxe annuelle sur les ASBL, également appelée taxe patrimoniale, est une taxe de compensation des droits de succession qui, dans le cas d’une personne morale, ne peuvent pas être réclamés. La base pour cet impôt est l’ensemble des biens que l'ASBL a en propriété. Le taux de cette taxe est de 0,17 % sur le montant déclaré. 
+[voir](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration_d_impot)
+Chaque ASBL reçoit en principe chaque année, dans le courant du mois de février, une lettre du bureau Sécurité juridique comportant dans sa partie inférieure une bandelette. Si l’ASBL n’a pas reçu cette lettre, elle prendra alors le soin d’écrire à l’administration avec la notification que son patrimoine est inférieur à 25.000 euros et qu’elle n’est donc pas assujettie à la taxe.
+Si le patrimoine de l’ASBL est moins élevé que ou égal à 25.000 euros, elle n’est pas assujettie à la taxe et l’association peut remplir la bandelette au bas de la lettre et la renvoyer au bureau Sécurité juridique. Elle ne paiera aucun impôt.
 # Nederlands
 to doen
