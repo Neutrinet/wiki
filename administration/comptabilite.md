@@ -16,10 +16,10 @@ to do
 - Sur cette page vous voyez tous les mouvements que vous pouvez éditer (pour les FIXME): https://admin.neutrinet.be/admin/accounts/movement/
 
 
-## Tâches diverses
-- mettre les factures in/out dans le NextCloud > Administrative > Compta > année
-- marquer les emails/tickets concernant les factures que l'on reçoit via le [support](https://beta-support.neutrinet.be/) comme "fermés" avec un commentaire (payé, traité, ...)
-
+## Factures à payer
+- On reçoit les factures à payer via le [support](https://beta-support.neutrinet.be/)
+- mettre les factures dans le NextCloud > Administrative > Compta > année
+- Dans le [support](https://beta-support.neutrinet.be/), marquer les emails/tickets concernant les factures que l'on reçoit  comme "fermés" avec un commentaire (payé, traité, ...)
 ## Déclaration fiscale
 Où ? Quand? Via biztax, annuellement.
 "La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
