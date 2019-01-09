@@ -2,7 +2,7 @@
 
 # 0. Where to start ?
 
-- here : https://vpn.neutrinet.be
+- here : https://api.neutrinet.be/
 
 # 1. Email
 
