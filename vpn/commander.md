@@ -1,7 +1,7 @@
 <!-- TITLE: Passer commande -->
 # 0. Où commencer ?
 
-- ici : https://vpn.neutrinet.be
+- ici : https://api.neutrinet.be/
 
 # 1. Email
 
