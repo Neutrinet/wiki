@@ -12,27 +12,27 @@ Enroll in a delicious learning curve of the free and open source world and [orde
 
 :books: There are also useful resources on the original project page [here](https://wiki.labriqueinter.net/doku.php).
 
-## Activities
+## Group orders
 
-Group orders
+* Follow orders placed on our [back office](https://admin.neutrinet.be/admin)
+* Send emails using our [ticketing / support](https://support.neutrinet.be) tool.
+* Actually make the order on [Olimex](https://www.olimex.com/) and other dealer for the microSDs
+* Receive the order
 
-* follow orders placed on our [back office](https://admin.neutrinet.be/admin)
-* send emails using our [support](https://beta-support.neutrinet.be)
-* actually make the order (it is more complicated than expected) on Olimex and other dealer for the microSD
-* receive the order (thanks to modern delivery societies, this isn't as obvious as it can be sometime...)
+## Cube installation
 
-Cube installation
+* Generate the VPN certificates for everyone ([python script](https://github.com/Neutrinet/scripts/tree/master/vpn) or [vpn/order], both can be touchy)
+* Make the installation, this include quite a lot of discussion and explanations while the installation part should be working out of the box
+* Meet the member
+* Debug if needed
 
-* generate certificates for everyone (python script, can be touchy)
-* make the installation, this include quite a lot of discussion and explanations while the installation part should be working out of the box
-* meet the member, either at 123 or at your place
-* debug if needed...
+## Communication
 
-Communication
-* inform people that their order are here and how they can get it
-* send reminders regarding this
+* Inform people that their order are here and how they can get it
+* Send reminders regarding this
 
-Support
+## Support
+
 * answer to emails
 * communicate with yunohost dev team and report bugs on dev.yunohost.org if needed
 * be there during the 3rd sunday of the month at 123 rue Royale for support
