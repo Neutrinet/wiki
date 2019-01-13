@@ -6,10 +6,11 @@
 :information_source: Tis page is dedicated to **our meeting reports** organized by year.
 :information_source: To have access to other pages on this wiki, please have a look on our [documentation](all).
 
-* [2016](pvs/2016)
+* [2020](pvs/2020) -> with some plans to conquer the word in 2020 :smiling_imp:
+* [2019](pvs/2019) -> with some goals to reach in 2019
+* [2018](pvs/2018) 
 * [2017](pvs/2017)
-* [2018](pvs/2018) -> with some goals to reach in 2018
-* [2019](pvs/2019) -> with some plans to conquer the word in 2019 :smiling_imp:
+* [2016](pvs/2016)
 
 Neutrinet is experiencing slackness, departures, arrivals, returns of its members and other vital forces.
 
@@ -20,11 +21,12 @@ And even further in the past, the [Project:Backhaul (collect)](https://wiki-old.
 :information_source: Cette page est la **page dédiée aux différents PVs de réunion** et contient principalement des **liens vers chaque année**.
 :information_source: Pour voir **d'autres pages de ce wiki**, merci de visiter notre [documentation](all).
 
-
-* [2016](pvs/2016)
+* [2020](pvs/2020) -> et des plans machiavéliques pour 2020 :smiling_imp:
+* [2019](pvs/2019) -> contient également une liste d'objectifs pour 2019
+* [2018](pvs/2018) 
 * [2017](pvs/2017)
-* [2018](pvs/2018) -> contient également une liste d'objectifs pour 2018
-* [2019](pvs/2019) -> et des plans machiavéliques pour 2019 :smiling_imp:
+* [2016](pvs/2016)
+
 
 Neutrinet connait des coups de mou, des départs, des arrivées, des retours de ses membres et autres forces vives.
 
