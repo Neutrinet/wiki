@@ -6,3 +6,4 @@
 Sur base du [PV du 16 février 2016](/pvs/2017/02-16#communication), nos [comptes sont désormais publiques](https://admin.neutrinet.be/accounts/)
 
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
+uite à un changement de logiciel, ce n'est plus le cas pour le moment.
