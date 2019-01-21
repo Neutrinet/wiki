@@ -1,4 +1,4 @@
-<!-- TITLE: Comptabilite -->
+<!-- TITLE: Comptabilité -->
 <!-- SUBTITLE: Comptabilité, Accountancy, boekhouding -->
 
 # English
