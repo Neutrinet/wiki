@@ -8,9 +8,6 @@ to do
 - https://www.ing.be/fr/business/login
 - Cliquer sur "mes comptes à vue", puis "exporter des mouvements"
 
-## Uploader le fichier CSV des transactions dans notre outil d'administration
-
-
 ## Factures à payer
 - On reçoit les factures à payer via le [support](https://beta-support.neutrinet.be/)
 - mettre les factures dans le NextCloud > Administrative > Compta > année
