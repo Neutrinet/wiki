@@ -1,5 +1,5 @@
 <!-- TITLE: Comptabilité -->
-<!-- SUBTITLE: Comptabilité, Accountancy, boekhouding -->
+<!-- SUBTITLE: Accountancy, Boekhouding, Comptabilité -->
 
 # English
 to do
