@@ -27,8 +27,9 @@
 |---|---|
 |Bank: |RecordBank |
 |Name: |Neutrinet ASBL |
-|Communication: |order #xxxx (for cubes and accessories )|
-|Communication: |vpn membership (for vpn monthly or annual fee )|
+|Communication for cubes and accessories : |cube order #xxxx |
+|Communication for vpn monthly or annual contribution : |vpn membership |
+|Communication for donations : |donation |
 |IBAN: |BE52 6528 3497 8409 |
 |BIC: |HBKABE22 |
 # Français
@@ -59,8 +60,9 @@
 |---|---|
 |Banque: |RecordBank |
 |Nom: |Neutrinet ASBL |
-|Communication: |commande brique #xxxx (pour la brique ou des accessoires)|
-|Communication: |cotisation vpn (pour le versement mensuel ou annuel du vpn)|
+|Communication pour la brique ou des accessoires: |commande brique #xxxx |
+|Communication pour le VPN (mensuel ou annuel): |cotisation vpn |
+|Communication un don: |don |
 |IBAN: |BE52 6528 3497 8409 |
 |BIC: |HBKABE22 |
 
