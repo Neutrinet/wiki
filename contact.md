@@ -25,13 +25,13 @@
 
 | Bank account details | |
 |---|---|
-|Bank: |RecordBank |
-|Name: |Neutrinet ASBL |
-|Communication for cubes and accessories : |cube order #xxxx |
-|Communication for vpn monthly or annual contribution : |vpn membership |
-|Communication for donations : |donation |
-|IBAN: |BE52 6528 3497 8409 |
-|BIC: |HBKABE22 |
+| Bank :|ING |
+| Name :|Neutrinet ASBL |
+| Communication for cubes and accessories :|cube order #xxxx |
+| Communication for vpn monthly or annual contribution :|vpn membership |
+| Communication for donations :|donation |
+| IBAN :|BE52 6528 3497 8409 |
+| BIC :|HBKABE22 |
 # Français
 
 ## Réunions
@@ -58,13 +58,13 @@
 
 | Coordonnées bancaires | |
 |---|---|
-|Banque: |RecordBank |
-|Nom: |Neutrinet ASBL |
-|Communication pour la brique ou des accessoires: |commande brique #xxxx |
-|Communication pour le VPN (mensuel ou annuel): |cotisation vpn |
-|Communication un don: |don |
-|IBAN: |BE52 6528 3497 8409 |
-|BIC: |HBKABE22 |
+| Banque :|ING |
+| Nom:|Neutrinet ASBL |
+| Communication pour la brique ou des accessoires :|commande brique #xxxx |
+| Communication pour le VPN (mensuel ou annuel) :|cotisation vpn |
+| Communication un don :|don |
+| IBAN :|BE52 6528 3497 8409 |
+| BIC :|HBKABE22 |
 
 # Nederlands
 to do
