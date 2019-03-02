@@ -27,11 +27,13 @@
 |---|---|
 | Bank :|ING |
 | Name :|Neutrinet ASBL |
-| Communication for cubes and accessories :|cube order #xxxx |
-| Communication for vpn monthly or annual contribution :|vpn membership |
-| Communication for donations :|donation |
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|HBKABE22 |
+
+* Communication for cubes and accessories : **cube order #xxx** _(#xxx is the number of your order)_
+* Communication for vpn @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (monthly or annually) : **vpn membership** (and it makes you a membre of Neutrinet ASBL)
+* Communication for donations : **donation**
+
 # Français
 
 ## Réunions
@@ -60,11 +62,11 @@
 |---|---|
 | Banque :|ING |
 | Nom:|Neutrinet ASBL |
-| Communication pour la brique ou des accessoires :|commande brique #xxxx |
-| Communication pour le VPN (mensuel ou annuel) :|cotisation vpn |
-| Communication un don :|don |
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|HBKABE22 |
 
+* Communication pour la brique ou des accessoires _(#xxx étant le numéro de commande)_ : **cube order #xxx** 
+* Communication pour le VPN (mensuel ou annuel) @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (et vous devenez membre de l'asbl Neutrinet) : **vpn membership** 
+* Communication pour les dons : **donation**
 # Nederlands
 to do
