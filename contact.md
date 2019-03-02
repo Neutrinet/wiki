@@ -34,6 +34,13 @@
 * Communication for vpn @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (monthly or annually) : **vpn membership** _(and it makes you a membre of Neutrinet ASBL)_
 * Communication for donations : **donation**
 
+Some data to help you to evaluate your own prix libre.
+
+* ±30 regular [active VPN](https://status.neutrinet.be/) accounts.
+* operating costs arround 3400€ / year.  _(without unpleasant surprises or the purchase of servers)_.  
+* [bilan 2018](https://files.neutrinet.be/s/gxmt2434n3wkHr4)
+* [bilan 2017](https://files.neutrinet.be/s/37xQocdA2TBD3Ky)
+* [before and until 2011](https://admin.neutrinet.be/accounts/)
 # Français
 
 ## Réunions
@@ -68,5 +75,13 @@
 * Communication pour la brique ou des accessoires : **commande brique #xxx** _(#xxx étant le numéro de commande)_ 
 * Communication pour le VPN @ [prix libre](https://fr.wikipedia.org/wiki/Prix_libre) (mensuel ou annuel) : **cotisation vpn**  _(et vous devenez membre de l'asbl Neutrinet)_
 * Communication pour les dons : **dons**
+
+Quelques infos qui vous aideront à évaluer votre prix libre.
+
+* ±30 comptes [VPN actifs](https://status.neutrinet.be/) régulièrement
+* des frais fixes de fonctionnement des 3400€ / an.  _(c'est sans compter les mauvaises surprises ou l'achat de serveurs)_.  
+* [bilan 2018](https://files.neutrinet.be/s/gxmt2434n3wkHr4)
+* [bilan 2017](https://files.neutrinet.be/s/37xQocdA2TBD3Ky)
+* [avant et jusque 2011](https://admin.neutrinet.be/accounts/)
 # Nederlands
 to do
