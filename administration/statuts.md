@@ -4,14 +4,12 @@
 Pour voir la liste des publications au moniteur, [c'est ici](http://www.ejustice.just.fgov.be/cgi_tsv/tsv_l_1.pl?hrc=BL000000&jvorm=ASBL&sql=naam+contains++%27Neutrinet%27+and+jvorm+contains+%27ASBL%27&rech=4&lang=fr&fromtab=TSV&btw=835033012&DETAIL=ALL+PUB)!
 # Conseil d'administration
 
-- Wannes De Smet
-- Laurent Peuch
-- Balthazar Thomas
 - Durieux Frédéric
-
+- Vuylsteke Valérie
+- Parisel Jérémie
 # Suppléant
 
-- Olivier Meunier
+- Fenasse Thierry
 
 # Statuts
 
