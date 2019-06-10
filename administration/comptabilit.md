@@ -32,9 +32,15 @@ Elle permet:
 
 ### Import de nouvelles transactions
 
-Il faut d'abord se rendre sur le Home Bank ING et exporter les transactions passées.
+Il faut d'abord se rendre sur le [Home Bank ING](https://www.ing.be/fr/business/login):
 
-XXX (capture de l'interface d'ING pour télécharger le CSV)
+sur l'écran de connection, choisir "Business Bank" (et pas "Home Bank")
+
+![ing-connection](https://user-images.githubusercontent.com/3520/59215676-14c2cf00-8bba-11e9-82b8-24b9707a9ac6.png)
+
+et exporter les transactions passées:
+
+![ing](https://user-images.githubusercontent.com/3520/59215520-c01f5400-8bb9-11e9-9deb-02ac898773e3.png)
 
 Cliquez ensuite sur le menu "Imports".
 
