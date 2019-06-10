@@ -84,7 +84,6 @@ Nous sommes chez Recordbank pour l'instant, nous étions chez Bpost avant.
 
 **Comptabilité**
 - tenir la [comptabilité](administration/comptabilité) à jour (le plus régulièrement possible)
-- exporter les mouvements de la banque vers la [page publique de nos comptes](https://admin.neutrinet.be/accounts/) et vérifier que tout va bien et que c'est cohérent avec la réalité.
 - l'établissement de factures via le [nextcloud](https://files.neutrinet.be)
 - la conservation de toutes les factures (important !) dans le [nextcloud](https://files.neutrinet.be)
 - être en mesure de répondre à la question « pouvons-nous nous le permettre » ?
