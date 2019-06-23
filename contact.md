@@ -38,9 +38,7 @@ Some data to help you to evaluate your own prix libre.
 
 * ±30 regular [active VPN](https://status.neutrinet.be/) accounts.
 * operating costs arround 3400€ / year.  _(without unpleasant surprises or the purchase of servers)_.  
-* [bilan 2018](https://files.neutrinet.be/s/gxmt2434n3wkHr4)
-* [bilan 2017](https://files.neutrinet.be/s/37xQocdA2TBD3Ky)
-* [before and until 2011](https://admin.neutrinet.be/accounts/)
+* Our bank accounts [movements and balance](https://accounting.neutrinet.be/)
 # Français
 
 ## Réunions
@@ -80,8 +78,6 @@ Quelques infos qui vous aideront à évaluer votre prix libre.
 
 * ±30 comptes [VPN actifs](https://status.neutrinet.be/) régulièrement
 * des frais fixes de fonctionnement des 3400€ / an.  _(c'est sans compter les mauvaises surprises ou l'achat de serveurs)_.  
-* [bilan 2018](https://files.neutrinet.be/s/gxmt2434n3wkHr4)
-* [bilan 2017](https://files.neutrinet.be/s/37xQocdA2TBD3Ky)
-* [avant et jusque 2011](https://admin.neutrinet.be/accounts/)
+* Les [mouvements et solde](https://accounting.neutrinet.be/) de notre compte en banque.
 # Nederlands
 to do
