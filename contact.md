@@ -33,6 +33,7 @@
 * Communication for cubes and accessories : **cube order #xxx** _(#xxx is the number of your order)_
 * Communication for vpn @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (monthly or annually) : **vpn membership** _(and it makes you a membre of Neutrinet ASBL)_
 * Communication for donations : **donation**
+* Communication for domain names (buy, renew, transfert,…) : **domain XXXX.YYY** _(XXXX.YYY is the concerned domain name)_
 
 Some data to help you to evaluate your own prix libre.
 
@@ -73,6 +74,7 @@ Some data to help you to evaluate your own prix libre.
 * Communication pour la brique ou des accessoires : **commande brique #xxx** _(#xxx étant le numéro de commande)_ 
 * Communication pour le VPN @ [prix libre](https://fr.wikipedia.org/wiki/Prix_libre) (mensuel ou annuel) : **cotisation vpn**  _(et vous devenez membre de l'asbl Neutrinet)_
 * Communication pour les dons : **dons**
+* Communication pour les noms de domaine (achat, renouvellement, transfert,…) : **domaine XXXX.YYY** _(XXXX.YYY étant le nom de domaine concerné)_
 
 Quelques infos qui vous aideront à évaluer votre prix libre.
 
