@@ -1,4 +1,4 @@
-<!-- TITLE: Comptabilit -->
+<!-- TITLE: Outil Accounting -->
 <!-- SUBTITLE: A quick summary of Comptabilit -->
 
 # Outil de comptabilité
