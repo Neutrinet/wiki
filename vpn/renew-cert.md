@@ -26,114 +26,114 @@ Il y a trois procédures possibles pour renouveler le certificat.
 
 Pour le renouveler, en tant que `root`:
 
-```sh
-$ cd /opt/neutrinet/renew_cert
-$ ve/bin/python renew_from_cube.py
+```bassh
+cd /opt/neutrinet/renew_cert
+ve/bin/python renew_from_cube.py
 ```
 
-# Procédure par le script Renew_cert de Bram 
+# Via le script Renew_cert de Bram 
 
-La procédure est donc de cloner le dépôt git sur ton cubie board, ou d'ailleurs sur n'importe quel ordinateur:
+Cette méthode consiste à cloner le dépôt git sur votre brique internet ou votre ordinateur :
 
 `git clone https://github.com/neutrinet/renew_cert`
 
-(dans le dossier qui te convient le mieux)
-Et tu rentres dans le sous-dossier qui vient d'être créé:
+On se déplace dans le dossier qui vient d'être créé :
 
 `cd renew_cert`
 
-Ensuite, tu crées un environnement virtuel python (ce qui veut dire que les paquets pythons que tu installeras n'affecteront pas le reste de ton système) :
+On crée un environnement virtuel python3. Cela signifie que les paquets python3 qui seront installé n'affecteront pas le reste du système :
 
-`virtualenv ve`
+`python3 -m venv ve`
 
-Puis, tu actives cet environnement:
+On active ensuite cet environnement:
 
 `source ve/bin/activate`
 
-Enfin, tu installes les dépendances du script (peut faire une petite erreur sur Jessie, mais fonctionne quand même):
+On installe les dépendances du script :
 
 `pip install -r requirements.txt`
 
-Pour finir, tu peux enfin lancer le script en lui-même en tapant cette commande
+Enfin, on lance le script en lui-même via cette commande :
 
- `python renew_local.py TON-NOM-D'UTILISATEUR-NEUTRINET TON-MOT-DE-PASSE`
+ `python renew.py TON-NOM-D'UTILISATEUR-NEUTRINET`
+ 
+Il vous sera demandé votre mot de passe pour se connecter au VPN de Neutrinet.
 
-Je te conseillerais de mettre un espace avant cette commande, et ce afin d'éviter qu'elle ne se trouve dans ton historique de commandes.état
-Le script prendra quelques minutes, t'informant des différentes étapes qu'il passe (Login, Get client data, Generate new cert using openssl, See if I already have a cert, I already have a cert, let's update it, Put new cert online et enfin Download new config si tout s'est bien passé).
+Si tout se passe bien, un sous-dosser nommé certs_YYYY-MM-DD_HH:MM:SS (remplacer les lettres en majuscules par la date et l'heure d'exécution du script) est créé, lequel reprend tous les fichiers de configuration nécessaires au client OpenVPN. 
 
-Tu auras alors dans le dossier renew_cert, un sous-dosser appelé certs_2017-07-xx_XX:XX:XX (ou les derniers X dépendant de la date et l'heure d'exécution du script), qui reprend tous les fichiers de configuration demandé par ton client openvpn.
+Les fichiers qui nous intéressent sont client.crt et client.key, c'est-à-dire la clé publique et la clé privée du certificat.
+Ces fichiers doivent remplacer ceux situés dans /etc/openvpn (cela peut changer en fonction de l'OS). 
+Sur la brique internet, ces fichiers se trouvent dans /etc/openvpn/keys
+**Remarque**: Avant de remplacer l'un par l'autre, il est conseillé de faire une copie des anciens certificats, juste au cas où.
 
-Ce sont essentiellement les fichiers client.crt et client.key qui t'intéresse, et qui doivent remplacer les fichiers du même nom situé (pour autant que tu utilises la configuration standard openvpn de Debian), dans /etc/openvpn/ ou dans /etc/openvpn/neutrinet
-Avant de remplacer l'un par l'autre, je suggèrerais de faire une copie des anciens, au cas où.
-Cela donnerait quelque chose comme (toujours en étant dans le dossier renew_cert):
+Cela donne quelque chose comme (toujours à partir du dossier renew_cert) :
 
-```sh
-sudo mv /etc/openvpn/neutrinet/client.crt /etc/openvpn/neutrinet/client.crt.backup
-sudo mv /etc/openvpn/neutrinet/client.key /etc/openvpn/neutrinet/client.key.backup
-sudo mv client.crt /etc/openvpn/neutrinet/client.crt
-sudo mv client.key /etc/openvpn/neutrinet/client.key
+```bash
+sudo mv /etc/openvpn/keys/user.crt{,.backup}
+sudo mv /etc/openvpn/keys/user.key{,.backup}
+sudo mv client.crt /etc/openvpn/keys/user.crt
+sudo mv client.key /etc/openvpn/keys/user.key
 ```
 
-OU (apparement dans centains cas -à définir- user. remplace client.)
-
-```
-sudo mv /etc/openvpn/neutrinet/user.crt /etc/openvpn/neutrinet/user.crt.backup
-sudo mv /etc/openvpn/neutrinet/user.key /etc/openvpn/neutrinet/user.key.backup
-sudo mv user.crt /etc/openvpn/neutrinet/user.crt
-sudo mv user.key /etc/openvpn/neutrinet/user.key
-```
-
-
-Après quoi, il ne te resterait plus qu'à re-démarrer le service VPN pour tester qu'il fonctionne toujours (idéalement, assure-toi de te connecter au cubie localement, via son adresse locale (192.168.1.x dans la plupart des cas).
-
+Il ne reste plus qu'à redémarrer le service OpenVPN pour tester qu'il fonctionne toujourts.
+**Remarque**: Idéalement, assurez-vous d'être connecté à la brique internet en local, c'est-à-dire via son adresse locale (192.168.1.x dans la plupart des cas).
 
 `sudo systemctl restart openvpn`
 
-# Procédure manuelle et via le site user.neutrinet.be
+Pour vérifier que vous êtes connecté derrière le VPN, vous pouvez lancer la commande :
 
-Deuxième méthode (qui parfois demande la patience car actuellement user.neutrinet.be connait des ratés):
+`ip addr`
 
-La seconde méthode consiste à se connecter en ssh au cubieboard, aller dans le dossier où se trouve la clef du VPN (a priori, il s'agit du fichier /etc/openvpn/neutrinet/client.key ou /etc/openvpn/client.key )
+Normalement, l'interface `tun0` devra apparaître dans la liste.
 
-`cd /etc/openvpn/neutrinet`
+# Via le site user.neutrinet.be
 
-Puis de créer une demande de signature de clefs (CSR) pour cette clef
+Cette dernière méthode demande parfois de la patience, car user.neutrinet.be peut connaître des ratés.
 
-`openssl req -new -sha1 -out client.csr -key user.key`
+La méthode consiste à se connecter en ssh à la brique internet, puis d'aller dans le dossier où se trouve la clé du VPN (il s'agit du fichier /etc/openvpn/keys/user.key) :
 
-Plusieurs questions te seront posées, comme le code pays (BE), la région (Bruxelles, ...), la Société etc... auquel le certificat est attaché. Le plus important est le "Cname", qui est le nom sous lequel tu vas apparaitre pour neutrinet.
+`cd /etc/openvpn/keys`
 
-Cette commande créé un fichier client.csr, qui contient la demande de signature. Tu peux en voir le contenu en faisant
+On crée ensuite une demande de signature de clés (CSR) pour cette clé :
 
-`cat client.csr`
+` openssl req -out CSR.csr -new -newkey rsa:4096 -nodes -keyout user.key `
 
-Copie ce contenu précieusement, et rends-toi sur https://user.neutrinet.be
+Plusieurs questions vous seront posées, comme le code pays (BE), la région (Bruxelles, ...), la Société etc... auquel le certificat est attaché.
+Le plus important est le "Cname", qui est le nom qui sera utilisé par Neutrinet pourra savoir à qui appartient le certificat.
+**Remarque**: Il est recommandé de mettre votre adresse e-mail pour le Cname.
 
-Connecte-toi
+Cette commande créé un fichier CSR.csr, qui contient la demande de signature. Vous pouvez afficher son contenu avec :
 
-**image**
+`cat CSR.csr`
 
-Clique sur users
+Copiez ce contenu précieusement, et rendez-vous sur https://user.neutrinet.be
 
-
-Attends que cela charge, et quand tu vois ton nom, clique dessus, puis sur "View associated clients"
-
-
-**image**
-
-Ensuite clique sur ton certificat (si tu en as plusieurs, il faut utiliser celui qui liste une IPv4 - 80.67.181.x), et choisi l'option "Renew certificate"
-
+Connectez-vous
 
 **image**
 
-Il va alors te présenter ton certificat actuel. si tu cliquer sur Rekey, tu auras la possibilité de coller le CSR (le fichier généré plus tôt, que tu as copié), puis de cliquer sur Rekey.
+Cliquez sur **Users**
 
-Une fois cette opération terminée, tu verras un bandeau comme ceci:
+
+Attendez que cela charge, et quand vous voyez votre nom, cliquez dessus, puis sur **View associated clients**
+
 
 **image**
 
-Tu pourras alors cliquer sur "View client details", puis sur Download config package, qui est un zip qui contient le fichier de certificat qu'il faudra remplacer dans, à priori, /etc/openvpn/neutrinet (voir plus haut, en fonction du dossier qui tu as décidé d'utiliser à la configuration du service).
+Ensuite, cliquez sur votre certificat (si vous en avez plusieurs, il faut utiliser celui qui liste une IPv4 - 80.67.181.x), et choisissez l'option **Renew certificate**
 
+
+**image**
+
+Le certificat actuel s'affiche alors à l'écran. Cliquez sur **Rekey**, puis collez le contenu du CSR (le fichier que vous aviez copié plus tôt). Cliquez sur le bouton **Rekey** pour confirmer.
+
+Une fois cette opération terminée, vous verrez un bandeau comme ceci :
+
+**image**
+
+Vous pouvez alors cliquer sur "**View client details**, puis sur **Download config package**.
+
+Cela va télécharger un fichier qui contient les fichiers de certificat. Dans le dossier /etc/openvpn/keys, copiez le fichier client.crt vers /etc/openvpn/keys/user.crt. 
 
 Voilà, c'est tout!
 
