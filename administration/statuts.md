@@ -15,7 +15,7 @@ Pour voir la liste des publications au moniteur, [c'est ici](http://www.ejustice
 
 **Article 1.** L'association prend pour dénomination : Neutrinet ASBL
 
-**Article 2.** Son siège social est établi au 31 rue de Nieuwenhove, dans l'arrondissement judiciaire d'Uccle (1180 Bruxelles Belgique).
+**Article 2.** Son siège social est établi au 108 rue des Trois Ponts, dans l'arrondissement judiciaire de Auderghem (1160 Bruxelles Belgique).
 
 **Article 3.** Le nombre minimum des membres est fixé à 3.
 
