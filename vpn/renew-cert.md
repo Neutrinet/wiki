@@ -11,11 +11,8 @@ Si non, et que vous voyez l'erreur `Certificate has key usage  00a0, expects 00a
 Pour vérifier sa date d'expiration, en tant que `root`:
 
 ```sh
-$ openssl x509 -in /etc/openvpn/keys/user.crt -enddate
+$ openssl x509 -in /etc/openvpn/keys/user.crt -noout -enddate
 notAfter=Nov 12 13:42:43 2018 GMT
------BEGIN CERTIFICATE-----
-...
------END CERTIFICATE-----
 ```
 
 La date affichée après le `noAfter` est la date d'expiration.  
