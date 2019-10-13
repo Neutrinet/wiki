@@ -44,6 +44,12 @@ Quand ? "La date limite légale de dépôt est le dernier jour du mois suivant c
 
 Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
 
+### Créer le fichier PDF à envoyer à BizTax
+- Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
+- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le [NextCloud](https://files.neutrinet.be) > Administrative > Compta > template-bilan-biztax.odt)
+- Générer un PDF
+- Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
+
 * **Taxe compensatoire aux droits de succession**. L’ASBL reçoit le document au cours du premier trimestre et doit toujours le renvoyer. La taxe de 0,17% est prélevée si le patrimoine de l’ASBL est supérieur à 25.000 euros. 
 La taxe annuelle sur les ASBL, également appelée taxe patrimoniale, est une taxe de compensation des droits de succession qui, dans le cas d’une personne morale, ne peuvent pas être réclamés. La base pour cet impôt est l’ensemble des biens que l'ASBL a en propriété. Le taux de cette taxe est de 0,17 % sur le montant déclaré. 
 [voir](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration_d_impot)
@@ -51,12 +57,6 @@ Chaque ASBL reçoit en principe chaque année, dans le courant du mois de févri
 Si le patrimoine de l’ASBL est moins élevé que ou égal à 25.000 euros, elle n’est pas assujettie à la taxe et l’association peut remplir la bandelette au bas de la lettre et la renvoyer au bureau Sécurité juridique. Elle ne paiera aucun impôt.
 
 * Formalités relatives à la **TVA**
-
-### Créer le fichier PDF à envoyer à BizTax
-- Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
-- Copier/coller les transactions de l'année dans le template LibreOffice (qui se trouve dans le [NextCloud](https://files.neutrinet.be) > Administrative > Compta > template-bilan-biztax.odt)
-- Générer un PDF
-- Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
 
 
 ## Formalités sociales ##
