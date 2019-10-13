@@ -16,7 +16,7 @@ And we try to keep track of our meetings under those [minutes](pvs).
 
 > *The purpose of the association is to maintain, develop and promote the use of information exchange networks, while respecting the principle of network neutrality 
 and defending fundamental rights, including the rights to free expression, access to information and respect for privacy, with the objectives of human development 
-and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv/tsvf.htm) 
+and the empowerment of network users.* Translation of the 4th article of [our statutes](http://www.ejustice.just.fgov.be/tsv/tsvf.htm.pdf) 
 
 **Do not hesitate to [contact](contact) us or to come in a meeting**
 # Français
