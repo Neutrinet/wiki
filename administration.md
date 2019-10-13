@@ -19,7 +19,7 @@ Members management
 -	have the list of our future members (people that have received a cube but who hasn't started to pay their bill)
 -	check who has started paying for their VPN access -> they are now a member
 
-Banks (we are at recordbanks for now, we used to be at bpost)
+Banks (we are at ING :-(  for now, we used to be at bpost)
 -	handle communication with banks
 -	have access to the bank account for paying stuff and refund members that have used their money for that
 
