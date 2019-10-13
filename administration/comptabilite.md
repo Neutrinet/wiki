@@ -12,14 +12,42 @@ to do
 - On reçoit les factures à payer via le [support](https://beta-support.neutrinet.be/)
 - mettre les factures dans le NextCloud > Administrative > Compta > année
 - Dans le [support](https://beta-support.neutrinet.be/), marquer les emails/tickets concernant les factures que l'on reçoit  comme "fermés" avec un commentaire (payé, traité, ...)
-## Déclaration fiscale
-Où ? Quand? Via biztax, annuellement.
-"La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
+
+# Formalités annuelles obligatoires #
+
+## Formalités administratives « internes » ##
+* Tenue d’au moins une assemblée générale par an, qui réunit tous les membres effectifs. La date (ou la période) de cette AG doit être prévue dans les statuts. Tous les membres effectifs (ayant droit de vote) doivent y être convoqués, par le conseil d’administration, au minimum 8 jours avant la date.
+(+ voir les statuts pour la convocation, la représentation, le mode de majorité, etc.)
+Les pouvoirs de l’assemblée générale sont : modifier les statuts, nommer et révoquer les administrateurs, approuver les comptes et les budgets, nommer les vérificateurs ou commissaires aux comptes, donner décharge aux administrateurs, vérificateurs et commissaires, exclure des membres, dissoudre l’association, la transformer en société à finalité sociale + les éventuels pouvoirs spéciaux accordés dans les statuts.
+Un rapport reprenant les décisions prises à l’AG doit être établi et conservé au siège social.
+
+* Tenue du conseil d’administration aussi souvent que les intérêts de l’association l’exigent. Les modalités de convocation et de tenue du CA doivent être précisées dans les statuts de l’ASBL. Le CA a tous les pouvoirs sauf ceux qui sont dévolus à l’AG par la loi ou les statuts. Un rapport reprenant les décisions du CA doit être établi et conservé au siège social.
+
+## Formalités administratives « externes »  ##
+* Publication au Moniteur belge de toute modification aux statuts ou dans la composition du conseil d’administration (Démission, décès, nomination ou renouvellement)
+* Dépôt des comptes annuels au greffe du tribunal de commerce (pour les petites ASBL) ou à la Banque Nationale de Belgique (grandes ASBL)
+
+## Formalités financières ##
+Chaque ASBL est tenue de tenir une comptabilité adaptée à sa taille : comptabilité simplifiée pour les petites ASBL et comptabilité en partie double pour les grandes ASBL. Vérifier les critères de taille des asbl. Ceux-ci sont régulièrement modifiés.
+
+## Formalités fiscales ##
+* Déclaration fiscale à l’impôt des personnes morales, via l’application en ligne Biztax. Attention de ne pas passer à l'impôt sur les sociétés. L'activité lucrative doit rester une activité secondaire au but de l'association. L’IPM est calculé sur les biens immobiliers et mobiliers (pas sur les recettes ou bénéfices).
+Quand ? "La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
+
+* Taxe compensatoire aux droits de succession. L’ASBL reçoit le document au cours du premier trimestre et doit toujours le renvoyer. La taxe de 0,17% est prélevée si le patrimoine de l’ASBL est supérieur à 25.000 euros.
+* Formalités relatives à la TVA le cas échéant
 
 Clôture exercice de Neutrinet : 31 décembre N.
 L'AG doit donc être organisée en janvier, février, mars, avril, ou mai de l'année N+1.
  
 Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
+
+## Formalités sociales ##
+Si l’ASBL emploie des travailleurs salariés : règlement de travail, déclaration DIMONA et ONSS, contrats de travail, assurance-loi, médecine du travail, etc.
+Si l’ASBL emploie des travailleurs volontaires : convention de bénévolat
+
+## Assurances ##
+Veillez à être en ordre d’assurance Responsabilité Civile, bâtiment, volontaires, administrateurs, etc.
 
 ### Créer le fichier PDF à envoyer à BizTax
 - Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
