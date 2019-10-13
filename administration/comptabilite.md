@@ -16,7 +16,7 @@ to do
 # Formalités annuelles obligatoires #
 
 ## Formalités administratives « internes » ##
-* Tenue d’au moins une **assemblée générale** par an, qui réunit tous les membres effectifs. La date (ou la période) de cette AG doit être prévue dans les statuts. Tous les membres effectifs (ayant droit de vote) doivent y être convoqués, par le conseil d’administration, au minimum 8 jours avant la date.
+* Tenue d’au moins une **assemblée générale** par an, qui réunit tous les membres effectifs. La date (ou la période) de cette AG doit être prévue dans les statuts. Tous les membres effectifs (ayant droit de vote) doivent y être convoqués, par le conseil d’administration, au minimum 15 jours avant la date.
 (+ voir les statuts pour la convocation, la représentation, le mode de majorité, etc.)
 Les pouvoirs de l’assemblée générale sont : modifier les statuts, nommer et révoquer les administrateurs, approuver les comptes et les budgets, nommer les vérificateurs ou commissaires aux comptes, donner décharge aux administrateurs, vérificateurs et commissaires, exclure des membres, dissoudre l’association, la transformer en société à finalité sociale + les éventuels pouvoirs spéciaux accordés dans les statuts.
 Un rapport reprenant les décisions prises à l’AG doit être établi et conservé au siège social.
