@@ -29,7 +29,7 @@ L'AG doit donc être organisée en janvier, février, mars, avril, ou mai de l'a
 
 ## Formalités administratives « externes »  ##
 * **Publication au Moniteur belge** de toute modification aux statuts ou dans la composition du conseil d’administration (Démission, décès, nomination ou renouvellement)
-
+[Comment retrouver une publication au Moniteur belge ?](https://moc-ho.be/Comment-retrouver-une-publication-au-Moniteur-belge.html)
 
 * **Dépôt des comptes annuels** au greffe du tribunal de commerce (pour les petites ASBL) ou à la Banque Nationale de Belgique (grandes ASBL)
 Où ? Au greffe du Tribunal de Commerce : Boulevard de la deuxième armée Britannique 148 à 1190 FOREST  Tel. : 02/348.96.70   [site](http://www.juridat.be/tribunal_commerce/bruxelles/)
