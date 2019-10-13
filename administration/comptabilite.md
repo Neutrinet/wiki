@@ -21,6 +21,10 @@ to do
 Les pouvoirs de l’assemblée générale sont : modifier les statuts, nommer et révoquer les administrateurs, approuver les comptes et les budgets, nommer les vérificateurs ou commissaires aux comptes, donner décharge aux administrateurs, vérificateurs et commissaires, exclure des membres, dissoudre l’association, la transformer en société à finalité sociale + les éventuels pouvoirs spéciaux accordés dans les statuts.
 Un rapport reprenant les décisions prises à l’AG doit être établi et conservé au siège social.
 
+Clôture exercice de Neutrinet : 31 décembre N.
+L'AG doit donc être organisée en janvier, février, mars, avril, ou mai de l'année N+1.
+
+
 * Tenue du **conseil d’administration** aussi souvent que les intérêts de l’association l’exigent. Les modalités de convocation et de tenue du CA doivent être précisées dans les statuts de l’ASBL. Le CA a tous les pouvoirs sauf ceux qui sont dévolus à l’AG par la loi ou les statuts. Un rapport reprenant les décisions du CA doit être établi et conservé au siège social.
 
 ## Formalités administratives « externes »  ##
@@ -37,6 +41,8 @@ Chaque ASBL est tenue de **tenir une comptabilité** adaptée à sa taille : com
 * **Déclaration fiscale** à l’impôt des personnes morales, via l’application en ligne Biztax. Attention de ne pas passer à l'impôt sur les sociétés. L'activité lucrative doit rester une activité secondaire au but de l'association. L’IPM est calculé sur les biens immobiliers et mobiliers (pas sur les recettes ou bénéfices).
 Quand ? "La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
 
+Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
+
 * **Taxe compensatoire aux droits de succession**. L’ASBL reçoit le document au cours du premier trimestre et doit toujours le renvoyer. La taxe de 0,17% est prélevée si le patrimoine de l’ASBL est supérieur à 25.000 euros. 
 La taxe annuelle sur les ASBL, également appelée taxe patrimoniale, est une taxe de compensation des droits de succession qui, dans le cas d’une personne morale, ne peuvent pas être réclamés. La base pour cet impôt est l’ensemble des biens que l'ASBL a en propriété. Le taux de cette taxe est de 0,17 % sur le montant déclaré. 
 [voir](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration_d_impot)
@@ -51,14 +57,6 @@ Si le patrimoine de l’ASBL est moins élevé que ou égal à 25.000 euros, ell
 - Générer un PDF
 - Suivre les instructions BizTax: https://wiki.neutrinet.be/administration/comptes-annuels
 
-
-* Taxe compensatoire aux droits de succession. L’ASBL reçoit le document au cours du premier trimestre et doit toujours le renvoyer. La taxe de 0,17% est prélevée si le patrimoine de l’ASBL est supérieur à 25.000 euros.
-* Formalités relatives à la TVA le cas échéant
-
-Clôture exercice de Neutrinet : 31 décembre N.
-L'AG doit donc être organisée en janvier, février, mars, avril, ou mai de l'année N+1.
- 
-Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
 
 ## Formalités sociales ##
 Si l’ASBL emploie des travailleurs salariés : règlement de travail, déclaration DIMONA et ONSS, contrats de travail, assurance-loi, médecine du travail, etc.
