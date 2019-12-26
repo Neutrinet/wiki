@@ -2,7 +2,7 @@
 <!-- SUBTITLE: AG portant sur 2019/2020 General Assembly -->
 
 # Préparation
-Pad: à créer
+Pad: https://pads.domainepublic.net/p/neutrinet-AG2020
 
 Lieu:
 Date:
