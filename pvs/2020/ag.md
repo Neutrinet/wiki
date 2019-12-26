@@ -32,6 +32,7 @@ Ce document doit être signé par le ou la président·e et le ou la secrétaire
 ## Présentation du rapport d’activités
 ### hub admin
 ### hub infra
+* 2 réunions infra en 2019
 ### hub communication
 * 5 réunions des membres en 2019
 ### hub cube
