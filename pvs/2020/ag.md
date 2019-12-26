@@ -33,6 +33,7 @@ Ce document doit être signé par le ou la président·e et le ou la secrétaire
 ### hub admin
 ### hub infra
 ### hub communication
+* 5 réunions des membres en 2019
 ### hub cube
 ### hub DC
 ### bilan humain
