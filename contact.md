@@ -30,6 +30,7 @@
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|HBKABE22 |
 
+* Communication for the migrants: **sans papiers**
 * Communication for cubes and accessories : **cube order #xxx** _(#xxx is the number of your order)_
 * Communication for vpn @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (monthly or annually) : **vpn membership** _(and it makes you a membre of Neutrinet ASBL)_
 * Communication for donations : **donation**
@@ -71,6 +72,7 @@ Some data to help you to evaluate your own prix libre.
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|HBKABE22 |
 
+* Communication pour les personnes sans papiers: **sans papiers**
 * Communication pour la brique ou des accessoires : **commande brique #xxx** _(#xxx étant le numéro de commande)_ 
 * Communication pour le VPN @ [prix libre](https://fr.wikipedia.org/wiki/Prix_libre) (mensuel ou annuel) : **cotisation vpn**  _(et vous devenez membre de l'asbl Neutrinet)_
 * Communication pour les dons : **dons**
