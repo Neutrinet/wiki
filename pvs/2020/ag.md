@@ -11,7 +11,7 @@ Heure:
 # Présences
 
 # Ordre du jour
-## Accueil et mot par Tharyrok
+## Accueil et mot par Tharyrok (président de l'AG)
 ## Météo début AG (informel)
 Petit tour de table en pop-corn **non obligatoire** pour exprimer
 
