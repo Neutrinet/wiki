@@ -40,6 +40,10 @@ Prévu pour l'année prochaine (2020 - 2021)
 ### hub DC
 ### bilan humain
 ## Présentation des projets de l’association
+### AG FFDN
+### Hub DataCenter
+### Les Sans Pap'
+### 
 ## Démissions, révocations, décès, fin de mandat, nomination et/ou réélection d’administrateurs
 Toute candidature est la bienvenue. Les administrateurs se reproposent pour l'année à venir. 
 
