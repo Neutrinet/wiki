@@ -42,4 +42,13 @@ les comptes en ligne : https://accounting.neutrinet.be/movements?year=2019
 ## Présentation des projets de l’association
 ## Démissions, révocations, décès, fin de mandat, nomination et/ou réélection d’administrateurs
 Toute candidature est la bienvenue. Les administrateurs se reproposent pour l'année à venir. 
+
+Administrateur·ices :
+* e-jim
+* Tharyrok
+* Valérie
+
+Supléant:
+* tierce
+
 ## Divers
