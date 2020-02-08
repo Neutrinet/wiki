@@ -37,7 +37,6 @@ Prévu pour l'année prochaine (2020 - 2021)
 ### hub communication
 * 5 réunions des membres en 2019
 ### hub cube
-### hub DC
 ### Les Sans Pap'
 ### bilan humain
 ## Présentation des projets de l’association
