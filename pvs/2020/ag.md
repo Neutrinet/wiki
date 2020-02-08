@@ -11,7 +11,7 @@ Heure: 12h - 16h
 # Présences
 
 # Ordre du jour
-## Accueil et mot par Tharyrok (président de l'AG)
+## Accueil et mot par Tharyrok
 ## Météo début AG (informel)
 Petit tour de table en pop-corn **non obligatoire** pour exprimer
 
@@ -22,7 +22,7 @@ Petit tour de table en pop-corn **non obligatoire** pour exprimer
 gardien·e du temps, modérateur·ice, scribe(s)
 ## Approbation du procès-verbal de l’AG précédente
 Le procès-verbal doit être approuvé par un vote (le plus souvent à main levée). 
-Ce document doit être signé par le ou la président·e et le ou la secrétaire ou par deux administrateur·ice·s et être conservé dans le registre des documents.
+Ce document doit être signé par l'animateur et le ou la scribe ou par deux administrateur·ice·s et être conservé dans le registre des documents.
 
 ## Modification des statuts
 Prévu pour l'année prochaine (2020 - 2021)
