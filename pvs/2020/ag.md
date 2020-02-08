@@ -27,7 +27,6 @@ Ce document doit être signé par le ou la président·e et le ou la secrétaire
 ## Modification des statuts
 Prévu pour l'année prochaine (2020 - 2021)
 ## Présentation des comptes et bilan de 2019
-## Rapport du vérificateur aux comptes
 ## Approbation des comptes et décharge aux administrateurs et au vérificateur aux comptes
 ## Présentation et vote du budget
 ## Présentation du rapport d’activités
