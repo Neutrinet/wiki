@@ -44,5 +44,5 @@ Prévu pour l'année prochaine (2020 - 2021)
 Mais non urgentes: par exemple: augmentation de la cotisation, modification du Règlement d’Ordre Intérieur, ...
 
 ## Démissions, révocations, décès, fin de mandat, nomination et/ou réélection d’administrateurs
-Les administrateurs se reproposent pour l'année à venir. Toute candidature est la bienvenue.
+Toute candidature est la bienvenue. Les administrateurs se reproposent pour l'année à venir. 
 ## Divers
