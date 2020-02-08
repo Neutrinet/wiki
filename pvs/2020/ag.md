@@ -4,9 +4,9 @@
 # Préparation
 Pad: https://pads.domainepublic.net/p/neutrinet-AG2020
 
-Lieu:
-Date:
-Heure:
+Lieu: 81 avenue des Saisons, 1050 Ixelles
+Date: 22/02/2020
+Heure: 12h - 16h
 
 # Présences
 
