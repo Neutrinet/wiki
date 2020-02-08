@@ -23,8 +23,9 @@ gardien·e du temps, modérateur·ice, président·e de l'A.G., scribe(s)
 ## Approbation du procès-verbal de l’AG précédente
 Le procès-verbal doit être approuvé par un vote (le plus souvent à main levée). 
 Ce document doit être signé par le ou la président·e et le ou la secrétaire ou par deux administrateur·ice·s et être conservé dans le registre des documents)
-## Démissions, exclusions, décès, admissions de membres
+
 ## Modification des statuts
+Prévu pour l'année prochaine (2020 - 2021)
 ## Présentation des comptes et bilan de 2019
 ## Rapport du vérificateur aux comptes
 ## Approbation des comptes et décharge aux administrateurs et au vérificateur aux comptes
