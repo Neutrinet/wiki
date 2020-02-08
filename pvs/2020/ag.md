@@ -19,7 +19,7 @@ Petit tour de table en pop-corn **non obligatoire** pour exprimer
 * si vous devez partir tôt,
 * comment vous vous sentez (fatigue, stress, niveau d'énergie,…)
 ## Désignation des rôles pour la réunion
-gardien·e du temps, modérateur·ice, président·e de l'A.G., scribe(s)
+gardien·e du temps, modérateur·ice, scribe(s)
 ## Approbation du procès-verbal de l’AG précédente
 Le procès-verbal doit être approuvé par un vote (le plus souvent à main levée). 
 Ce document doit être signé par le ou la président·e et le ou la secrétaire ou par deux administrateur·ice·s et être conservé dans le registre des documents)
