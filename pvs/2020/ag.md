@@ -46,6 +46,7 @@ Petit tour de table en pop-corn **non obligatoire** pour exprimer
 * comment vous vous appelez,
 * si vous devez partir tôt,
 * comment vous vous sentez (fatigue, stress, niveau d'énergie,…)
+* vos attentes pour cette AG
 
 ## Désignation des rôles pour la réunion
 
