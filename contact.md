@@ -28,7 +28,7 @@
 | Bank :|ING |
 | Name :|Neutrinet ASBL |
 | IBAN :|BE52 6528 3497 8409 |
-| BIC :|HBKABE22 |
+| BIC :|BBRUBEBB |
 
 * Communication for the migrants: **sans papiers**
 * Communication for cubes and accessories : **cube order #xxx** _(#xxx is the number of your order)_
@@ -70,7 +70,7 @@ Some data to help you to evaluate your own prix libre.
 | Banque :|ING |
 | Nom:|Neutrinet ASBL |
 | IBAN :|BE52 6528 3497 8409 |
-| BIC :|HBKABE22 |
+| BIC :|BBRUBEBB |
 
 * Communication pour les personnes sans papiers: **sans papiers**
 * Communication pour la brique ou des accessoires : **commande brique #xxx** _(#xxx étant le numéro de commande)_ 
