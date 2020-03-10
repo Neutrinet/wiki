@@ -30,11 +30,18 @@
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|BBRUBEBB |
 
+### Usual communications
+
 * Communication for the migrants: **sans papiers**
 * Communication for cubes and accessories : **cube order #xxx** _(#xxx is the number of your order)_
 * Communication for vpn @ [prix libre](https://en.wikipedia.org/wiki/Pay_what_you_want) (monthly or annually) : **vpn membership** _(and it makes you a membre of Neutrinet ASBL)_
 * Communication for donations : **donation**
 * Communication for domain names (buy, renew, transfert,…) : **domain XXXX.YYY** _(XXXX.YYY is the concerned domain name)_
+
+### For the FFDN 2020 GA
+
+* Communication for donations: **DON AGFFDN2020**
+* Communication for registrations: **not ready, thanks to wait for the registration form to be published**
 
 Some data to help you to evaluate your own prix libre.
 
@@ -72,11 +79,19 @@ Some data to help you to evaluate your own prix libre.
 | IBAN :|BE52 6528 3497 8409 |
 | BIC :|BBRUBEBB |
 
+### Trucs habituels
+
 * Communication pour les personnes sans papiers: **sans papiers**
 * Communication pour la brique ou des accessoires : **commande brique #xxx** _(#xxx étant le numéro de commande)_ 
 * Communication pour le VPN @ [prix libre](https://fr.wikipedia.org/wiki/Prix_libre) (mensuel ou annuel) : **cotisation vpn**  _(et vous devenez membre de l'asbl Neutrinet)_
 * Communication pour les dons : **dons**
 * Communication pour les noms de domaine (achat, renouvellement, transfert,…) : **domaine XXXX.YYY** _(XXXX.YYY étant le nom de domaine concerné)_
+
+### Pour l'AG FFDN 2020
+
+* Communication pour les dons: **DON AGFFDN2020**
+* Communication pour les participations: **pas encore fais, merci d'attendre le formulaire d'inscription**
+
 
 Quelques infos qui vous aideront à évaluer votre prix libre.
 
