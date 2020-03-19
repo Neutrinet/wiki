@@ -1,5 +1,5 @@
-<!-- TITLE: Donnéesdesmembres -->
-<!-- SUBTITLE: A quick summary of Donnesdesmembres -->
+<!-- TITLE: Données des membres -->
+<!-- SUBTITLE: A propos de la gestion des données de nos membres -->
 
 #     Comment on minimise les données de membres qu'on garde?
 
