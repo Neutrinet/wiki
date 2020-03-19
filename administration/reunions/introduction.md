@@ -1,5 +1,5 @@
 <!-- TITLE: Introduction -->
-<!-- SUBTITLE: A quick summary of Introduction -->
+<!-- SUBTITLE: La première réunion -->
 
 
 # 8 février 2020 : législations
