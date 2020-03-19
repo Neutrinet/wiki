@@ -1,4 +1,4 @@
-<!-- TITLE: Donnesdesmembres -->
+<!-- TITLE: Donnéesdesmembres -->
 <!-- SUBTITLE: A quick summary of Donnesdesmembres -->
 
 #     Comment on minimise les données de membres qu'on garde?
