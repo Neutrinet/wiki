@@ -2,7 +2,7 @@
 <!-- SUBTITLE: La première réunion -->
 
 
-# 8 février 2020 : législations
+# 8 février 2020 : Législations
 
 ## Comment « trouver » toutes les législations qui nous concernent ?
 
