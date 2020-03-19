@@ -23,7 +23,6 @@
 
 
 ##     Question 2: temps de réponse à une requête judiciaire?
-## 
 
     Sous-question: quand et pourquoi est-ce qu'on peut subir une saisie de matériel? 
 
