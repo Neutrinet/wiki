@@ -89,7 +89,7 @@ Some data to help you to evaluate your own prix libre.
 
 ### Pour l'AG FFDN 2020
 
-* Communication pour les dons: **DON AGFFDN2020**
+* Communication pour les dons: **AGFFDN2020 DON**
 * Communication pour les participations: **pas encore fais, merci d'attendre le formulaire d'inscription**
 
 
