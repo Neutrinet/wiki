@@ -40,7 +40,7 @@
 
 ### For the FFDN 2020 GA
 
-* Communication for donations: **DON AGFFDN2020**
+* Communication for donations: **AGFFDN2020 DON**
 * Communication for registrations: **not ready, thanks to wait for the registration form to be published**
 
 Some data to help you to evaluate your own prix libre.
