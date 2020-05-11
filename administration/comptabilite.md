@@ -39,10 +39,12 @@ Pour plus d'infos, un chouette document [ici](http://vieassociative.be/sites/def
 Chaque ASBL est tenue de **tenir une comptabilité** adaptée à sa taille : comptabilité simplifiée pour les petites ASBL et comptabilité en partie double pour les grandes ASBL. Vérifier les critères de taille des asbl. Ceux-ci sont régulièrement modifiés.
 
 ## Formalités fiscales ##
-* **Déclaration fiscale** à l’impôt des personnes morales, via l’application en ligne Biztax. Attention de ne pas passer à l'impôt sur les sociétés. L'activité lucrative doit rester une activité secondaire au but de l'association. L’IPM est calculé sur les biens immobiliers et mobiliers (pas sur les recettes ou bénéfices).
-Quand ? "La date limite légale de dépôt est le dernier jour du mois suivant celui de l'AG statutaire, sans tomber plus de 6 mois à partir de la date de clôture de l'exercice."
+* **Déclaration fiscale** à l’impôt des personnes morales IPM, via l’application en ligne Biztax. Attention de ne pas passer à l'impôt sur les sociétés. L'activité lucrative doit rester une activité secondaire au but de l'association. L’IPM est calculé sur les biens immobiliers et mobiliers (pas sur les recettes ou bénéfices).
 
-Date limite du dépôt de la déclaration IPM (impôts de personnes morales) : 27 septembre pour 2018 car nous disposons de la "période complémentaire". 
+**Quand ?** *Nouvelle règle :* À partir de la date de clôture, vous disposez d'un délai de 7 mois pour déposer votre déclaration.
+    Ce délai de 7 mois court à partir du 1er jour du mois suivant la date de clôture.
+    Si la date limite de dépôt tombe un samedi, un dimanche ou un jour férié, elle passe au premier jour ouvrable suivant.
+
 
 ### Créer le fichier PDF à envoyer à BizTax
 - Se rendre sur la page de compta publique: https://admin.neutrinet.be/accounts/
